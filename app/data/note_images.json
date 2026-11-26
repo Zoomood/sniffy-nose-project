@@ -1,0 +1,1934 @@
+{
+ "Bergamot": {
+  "file": "bergamot.jpg",
+  "kind": "print",
+  "caption": "Citrus bergamia",
+  "title": "Citrus bergamia - Köhler–s Medizinal-Pflanzen-184.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Citrus_bergamia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-184.jpg"
+ },
+ "Lemon": {
+  "file": "lemon.jpg",
+  "kind": "print",
+  "caption": "Citrus limon",
+  "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 3) (6972229396).jpg",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_3)_(6972229396).jpg"
+ },
+ "Mandarin Orange": {
+  "file": "mandarin-orange.jpg",
+  "kind": "photo",
+  "caption": "Citrus reticulata",
+  "title": "Citrus × limon",
+  "artist": "no rights reserved",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/460777736"
+ },
+ "Orange": {
+  "file": "orange.jpg",
+  "kind": "print",
+  "caption": "Citrus sinensis",
+  "title": "The American Flora. Vol. 1, 1855 - pl. 11 Citrus × aurantium (6022327482).jpg",
+  "artist": "AnonymousUnknown author [illustrator not stated, no signature]",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:The_American_Flora._Vol._1,_1855_-_pl._11_Citrus_%C3%97_aurantium_(6022327482).jpg"
+ },
+ "Grapefruit": {
+  "file": "grapefruit.jpg",
+  "kind": "photo",
+  "caption": "Citrus paradisi",
+  "title": "Citrus",
+  "artist": "(c) coenobita, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/29179733"
+ },
+ "Lime": {
+  "file": "lime.jpg",
+  "kind": "print",
+  "caption": "Citrus aurantiifolia",
+  "title": "Citrus x limon - Köhler–s Medizinal-Pflanzen-041.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg"
+ },
+ "Akigalawood": {
+  "file": "akigalawood.png",
+  "kind": "molecule",
+  "caption": "Rotundone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Rotundone"
+ },
+ "Cashmeran": {
+  "file": "cashmeran.png",
+  "kind": "molecule",
+  "caption": "Cashmeran",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Cashmeran"
+ },
+ "Iso E Super": {
+  "file": "iso-e-super.png",
+  "kind": "molecule",
+  "caption": "Iso E Super",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Iso%20E%20Super"
+ },
+ "Amber": {
+  "file": "amber.png",
+  "kind": "molecule",
+  "caption": "Vanillin",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Vanillin"
+ },
+ "Ambroxan": {
+  "file": "ambroxan.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Ambergris": {
+  "file": "ambergris.png",
+  "kind": "molecule",
+  "caption": "Ambrein",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambrein"
+ },
+ "Honey": {
+  "file": "honey.png",
+  "kind": "molecule",
+  "caption": "Phenylacetic acid",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Phenylacetic%20acid"
+ },
+ "Caramel": {
+  "file": "caramel.png",
+  "kind": "molecule",
+  "caption": "Ethyl maltol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ethyl%20maltol"
+ },
+ "Praline": {
+  "file": "praline.png",
+  "kind": "molecule",
+  "caption": "Ethyl maltol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ethyl%20maltol"
+ },
+ "Rum": {
+  "file": "rum.png",
+  "kind": "molecule",
+  "caption": "Ethyl formate",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ethyl%20formate"
+ },
+ "Musk": {
+  "file": "musk.png",
+  "kind": "molecule",
+  "caption": "Muscone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Muscone"
+ },
+ "Suede": {
+  "file": "suede.png",
+  "kind": "molecule",
+  "caption": "Safranal",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Safranal"
+ },
+ "Civet": {
+  "file": "civet.png",
+  "kind": "molecule",
+  "caption": "Civetone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Civetone"
+ },
+ "Castoreum": {
+  "file": "castoreum.png",
+  "kind": "molecule",
+  "caption": "4-Ethylphenol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=4-Ethylphenol"
+ },
+ "Ozone": {
+  "file": "ozone.png",
+  "kind": "molecule",
+  "caption": "Helional",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Helional"
+ },
+ "Sea Notes": {
+  "file": "sea-notes.png",
+  "kind": "molecule",
+  "caption": "Calone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Calone"
+ },
+ "Calone": {
+  "file": "calone.png",
+  "kind": "molecule",
+  "caption": "Calone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Calone"
+ },
+ "Mineral Notes": {
+  "file": "mineral-notes.png",
+  "kind": "molecule",
+  "caption": "Geosmin",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Geosmin"
+ },
+ "Aldehydes": {
+  "file": "aldehydes.png",
+  "kind": "molecule",
+  "caption": "Dodecanal",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Dodecanal"
+ },
+ "Petrichor": {
+  "file": "petrichor.png",
+  "kind": "molecule",
+  "caption": "Geosmin",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Geosmin"
+ },
+ "Grass": {
+  "file": "grass.png",
+  "kind": "molecule",
+  "caption": "cis-3-Hexen-1-ol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=cis-3-Hexen-1-ol"
+ },
+ "Coconut": {
+  "file": "coconut.jpg",
+  "kind": "print",
+  "caption": "Cocos nucifera",
+  "title": "Cocos nucifera - Köhler–s Medizinal-Pflanzen-187.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg"
+ },
+ "Cherry": {
+  "file": "cherry.jpg",
+  "kind": "print",
+  "caption": "Prunus avium",
+  "title": "Illustration Prunus avium0 clean.jpg",
+  "artist": "File:Illustration Prunus avium0.jpg: PLEASE COMPLETE AUTHOR INFORMATION\nderivative work: Kenraiz",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustration_Prunus_avium0_clean.jpg"
+ },
+ "Plum": {
+  "file": "plum.jpg",
+  "kind": "print",
+  "caption": "Prunus domestica",
+  "title": "LAROUSSE - BOIS Hêtre...Tilleul Le Larousse pour tous Vol 01 Paris 1909 (French encyclopedia colour plate WOOD grain types patterns textures fibres lines samples timber carpentry) No copyright.jpg",
+  "artist": "Plate/chart marked \"H Demoulin Sc.\"",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:LAROUSSE_-_BOIS_H%C3%AAtre...Tilleul_Le_Larousse_pour_tous_Vol_01_Paris_1909_(French_encyclopedia_colour_plate_WOOD_grain_types_patterns_textures_fibres_lines_samples_timber_carpentry)_No_copyright.jpg"
+ },
+ "Hedione": {
+  "file": "hedione.png",
+  "kind": "molecule",
+  "caption": "Methyl dihydrojasmonate",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Methyl%20dihydrojasmonate"
+ },
+ "Green Notes": {
+  "file": "green-notes.png",
+  "kind": "molecule",
+  "caption": "cis-3-Hexen-1-ol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=cis-3-Hexen-1-ol"
+ },
+ "Woody Notes": {
+  "file": "woody-notes.png",
+  "kind": "molecule",
+  "caption": "Iso E Super",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Iso%20E%20Super"
+ },
+ "Amberwood": {
+  "file": "amberwood.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Georgywood": {
+  "file": "georgywood.png",
+  "kind": "molecule",
+  "caption": "Iso E Super",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Iso%20E%20Super"
+ },
+ "Mystikal": {
+  "file": "mystikal.png",
+  "kind": "molecule",
+  "caption": "Iso E Super",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Iso%20E%20Super"
+ },
+ "Safraleine": {
+  "file": "safraleine.png",
+  "kind": "molecule",
+  "caption": "Safranal",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Safranal"
+ },
+ "Prunol": {
+  "file": "prunol.png",
+  "kind": "molecule",
+  "caption": "gamma-Undecalactone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=gamma-Undecalactone"
+ },
+ "Milk": {
+  "file": "milk.png",
+  "kind": "molecule",
+  "caption": "delta-Decalactone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=delta-Decalactone"
+ },
+ "Lactones": {
+  "file": "lactones.png",
+  "kind": "molecule",
+  "caption": "gamma-Nonalactone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=gamma-Nonalactone"
+ },
+ "Cream": {
+  "file": "cream.png",
+  "kind": "molecule",
+  "caption": "delta-Decalactone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=delta-Decalactone"
+ },
+ "Brown Sugar": {
+  "file": "brown-sugar.png",
+  "kind": "molecule",
+  "caption": "Ethyl maltol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ethyl%20maltol"
+ },
+ "Cognac": {
+  "file": "cognac.png",
+  "kind": "molecule",
+  "caption": "Ethyl octanoate",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ethyl%20octanoate"
+ },
+ "Tonalide": {
+  "file": "tonalide.png",
+  "kind": "molecule",
+  "caption": "Tonalide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Tonalide"
+ },
+ "Hay": {
+  "file": "hay.png",
+  "kind": "molecule",
+  "caption": "Coumarin",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Coumarin"
+ },
+ "Smoke": {
+  "file": "smoke.png",
+  "kind": "molecule",
+  "caption": "Guaiacol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Guaiacol"
+ },
+ "Spices": {
+  "file": "spices.png",
+  "kind": "molecule",
+  "caption": "Eugenol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Eugenol"
+ },
+ "Orcanox": {
+  "file": "orcanox.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Davana": {
+  "file": "davana.png",
+  "kind": "molecule",
+  "caption": "Davanone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Davanone"
+ },
+ "Pittosporum": {
+  "file": "pittosporum.jpg",
+  "kind": "photo",
+  "caption": "Pittosporum tobira",
+  "title": "Pittosporum tobira",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/33349195"
+ },
+ "Maltol": {
+  "file": "maltol.png",
+  "kind": "molecule",
+  "caption": "Maltol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Maltol"
+ },
+ "Ambrettolide": {
+  "file": "ambrettolide.png",
+  "kind": "molecule",
+  "caption": "Ambrettolide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambrettolide"
+ },
+ "Spun Sugar": {
+  "file": "spun-sugar.png",
+  "kind": "molecule",
+  "caption": "Ethyl maltol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ethyl%20maltol"
+ },
+ "Paradisone": {
+  "file": "paradisone.png",
+  "kind": "molecule",
+  "caption": "Methyl dihydrojasmonate",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Methyl%20dihydrojasmonate"
+ },
+ "Cetalox": {
+  "file": "cetalox.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Cachalox": {
+  "file": "cachalox.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Muscone": {
+  "file": "muscone.png",
+  "kind": "molecule",
+  "caption": "Muscone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Muscone"
+ },
+ "Exaltolide": {
+  "file": "exaltolide.png",
+  "kind": "molecule",
+  "caption": "Pentadecanolide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Pentadecanolide"
+ },
+ "Exaltone": {
+  "file": "exaltone.png",
+  "kind": "molecule",
+  "caption": "Cyclopentadecanone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Cyclopentadecanone"
+ },
+ "Habanolide": {
+  "file": "habanolide.png",
+  "kind": "molecule",
+  "caption": "Habanolide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Habanolide"
+ },
+ "Helvetolide": {
+  "file": "helvetolide.png",
+  "kind": "molecule",
+  "caption": "Helvetolide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Helvetolide"
+ },
+ "Dreamwood": {
+  "file": "dreamwood.png",
+  "kind": "molecule",
+  "caption": "beta-Santalol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=beta-Santalol"
+ },
+ "Clearwood": {
+  "file": "clearwood.png",
+  "kind": "molecule",
+  "caption": "Patchoulol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Patchoulol"
+ },
+ "Vulcanolide": {
+  "file": "vulcanolide.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Limbanol": {
+  "file": "limbanol.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "Cascalone": {
+  "file": "cascalone.png",
+  "kind": "molecule",
+  "caption": "Calone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Calone"
+ },
+ "Irone": {
+  "file": "irone.png",
+  "kind": "molecule",
+  "caption": "alpha-Irone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=alpha-Irone"
+ },
+ "Z11": {
+  "file": "z11.png",
+  "kind": "molecule",
+  "caption": "Ambroxide",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Ambroxide"
+ },
+ "White Woods": {
+  "file": "white-woods.png",
+  "kind": "molecule",
+  "caption": "Iso E Super",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Iso%20E%20Super"
+ },
+ "Sun-Warmed Woods": {
+  "file": "sun-warmed-woods.png",
+  "kind": "molecule",
+  "caption": "Benzyl salicylate",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Benzyl%20salicylate"
+ },
+ "Yuzu": {
+  "file": "yuzu.jpg",
+  "kind": "print",
+  "caption": "Citrus junos",
+  "title": "Naturalis Biodiversity Center - RMNH.ART.335-Fortunella japonica-Citrus aurantium-Citrus sphaerocarpa-Citrus tachibana-Citrus junos-Citrus unshiu-Yūshi Ishizaki- Cock Blomhoff Collection -pencil drawing-water colour.jpg",
+  "artist": "Ishizaki Yūshi",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.ART.335-Fortunella_japonica-Citrus_aurantium-Citrus_sphaerocarpa-Citrus_tachibana-Citrus_junos-Citrus_unshiu-Y%C5%ABshi_Ishizaki-_Cock_Blomhoff_Collection_-pencil_drawing-water_colour.jpg"
+ },
+ "Neroli": {
+  "file": "neroli.jpg",
+  "kind": "print",
+  "caption": "Citrus aurantium",
+  "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 2) (7118307733).jpg",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_2)_(7118307733).jpg"
+ },
+ "Petitgrain": {
+  "file": "petitgrain.jpg",
+  "kind": "print",
+  "caption": "Citrus aurantium",
+  "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 2) (7118307733).jpg",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_2)_(7118307733).jpg"
+ },
+ "Rose": {
+  "file": "rose.jpg",
+  "kind": "photo",
+  "caption": "Rosa damascena",
+  "title": "Rosa × damascena",
+  "artist": "no rights reserved",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/1844987"
+ },
+ "Jasmine": {
+  "file": "jasmine.jpg",
+  "kind": "photo",
+  "caption": "Jasminum grandiflorum",
+  "title": "Jasminum grandiflorum",
+  "artist": "Cheongweei Gan",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/284306477"
+ },
+ "Ylang-Ylang": {
+  "file": "ylang-ylang.jpg",
+  "kind": "print",
+  "caption": "Cananga odorata",
+  "title": "Cananga odorata Blanco1.221-cropped.jpg",
+  "artist": "Francisco Manuel Blanco (O.S.A.)",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Cananga_odorata_Blanco1.221-cropped.jpg"
+ },
+ "Iris": {
+  "file": "iris.jpg",
+  "kind": "print",
+  "caption": "Iris pallida",
+  "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 92) (8232775026).jpg",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_92)_(8232775026).jpg"
+ },
+ "Violet": {
+  "file": "violet.jpg",
+  "kind": "print",
+  "caption": "Viola odorata",
+  "title": "Britishentomologyvolume8Plate42.jpg",
+  "artist": "John Curtis",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Britishentomologyvolume8Plate42.jpg"
+ },
+ "Violet Leaf": {
+  "file": "violet-leaf.jpg",
+  "kind": "print",
+  "caption": "Viola odorata",
+  "title": "Britishentomologyvolume8Plate42.jpg",
+  "artist": "John Curtis",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Britishentomologyvolume8Plate42.jpg"
+ },
+ "Lavender": {
+  "file": "lavender.jpg",
+  "kind": "print",
+  "caption": "Lavandula angustifolia",
+  "title": "Lavandula angustifolia - Köhler–s Medizinal-Pflanzen-087.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Lavandula_angustifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-087.jpg"
+ },
+ "Lily of the Valley": {
+  "file": "lily-of-the-valley.jpg",
+  "kind": "print",
+  "caption": "Convallaria majalis",
+  "title": "Convallaria majalis - Köhler–s Medizinal-Pflanzen-045.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Convallaria_majalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-045.jpg"
+ },
+ "Orange Blossom": {
+  "file": "orange-blossom.jpg",
+  "kind": "print",
+  "caption": "Citrus aurantium",
+  "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 2) (7118307733).jpg",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_2)_(7118307733).jpg"
+ },
+ "Osmanthus": {
+  "file": "osmanthus.jpg",
+  "kind": "photo",
+  "caption": "Osmanthus fragrans",
+  "title": "Osmanthus fragrans",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/58688981"
+ },
+ "Gardenia": {
+  "file": "gardenia.jpg",
+  "kind": "print",
+  "caption": "Gardenia jasminoides",
+  "title": "Edwards's botanical register (Plate 43) (8407955701).jpg",
+  "artist": "Lindley, John; Ridgway, James",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Edwards%27s_botanical_register_(Plate_43)_(8407955701).jpg"
+ },
+ "Peony": {
+  "file": "peony.jpg",
+  "kind": "print",
+  "caption": "Paeonia lactiflora",
+  "title": "Naturalis Biodiversity Center - RMNH.ART.285-Urtica thunbergiana-Papaver somniferum-Paeonia suffruticosa-Paeonia lactiflora-Rohdea japonica-Diplomorpha sikokiana-Yūshi Ishizaki - Cock Blomhoff Collection -pencil drawing-water colour.jpg",
+  "artist": "Ishizaki Yūshi",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.ART.285-Urtica_thunbergiana-Papaver_somniferum-Paeonia_suffruticosa-Paeonia_lactiflora-Rohdea_japonica-Diplomorpha_sikokiana-Y%C5%ABshi_Ishizaki_-_Cock_Blomhoff_Collection_-pencil_drawing-water_colour.jpg"
+ },
+ "Geranium": {
+  "file": "geranium.jpg",
+  "kind": "photo",
+  "caption": "Pelargonium graveolens",
+  "title": "Pelargonium graveolens",
+  "artist": "galpinmd",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/240032312"
+ },
+ "Immortelle": {
+  "file": "immortelle.jpg",
+  "kind": "photo",
+  "caption": "Helichrysum italicum",
+  "title": "Helichrysum italicum",
+  "artist": "(c) Francesco Santoro, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/603943607"
+ },
+ "Mimosa": {
+  "file": "mimosa.jpg",
+  "kind": "photo",
+  "caption": "Acacia dealbata",
+  "title": "Acacia dealbata",
+  "artist": "anonymous",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/48951270"
+ },
+ "Saffron": {
+  "file": "saffron.jpg",
+  "kind": "print",
+  "caption": "Crocus sativus",
+  "title": "Crocus sativus - Köhler–s Medizinal-Pflanzen-194.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Crocus_sativus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-194.jpg"
+ },
+ "Pink Pepper": {
+  "file": "pink-pepper.jpg",
+  "kind": "photo",
+  "caption": "Schinus molle",
+  "title": "Schinus molle",
+  "artist": "no rights reserved",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/337012214"
+ },
+ "Pepper": {
+  "file": "pepper.jpg",
+  "kind": "print",
+  "caption": "Piper nigrum",
+  "title": "Piper nigrum - Köhler–s Medizinal-Pflanzen-107.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg"
+ },
+ "Sichuan Pepper": {
+  "file": "sichuan-pepper.jpg",
+  "kind": "photo",
+  "caption": "Zanthoxylum simulans",
+  "title": "Zanthoxylum simulans",
+  "artist": "Douglas Goldman",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/342077526"
+ },
+ "Cardamom": {
+  "file": "cardamom.jpg",
+  "kind": "print",
+  "caption": "Elettaria cardamomum",
+  "title": "Elettaria cardamomum - Köhler–s Medizinal-Pflanzen-057.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Elettaria_cardamomum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-057.jpg"
+ },
+ "Cinnamon": {
+  "file": "cinnamon.jpg",
+  "kind": "print",
+  "caption": "Cinnamomum verum",
+  "title": "Cinnamomum verum - Köhler–s Medizinal-Pflanzen-182.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-182.jpg"
+ },
+ "Clove": {
+  "file": "clove.jpg",
+  "kind": "print",
+  "caption": "Syzygium aromaticum",
+  "title": "Syzygium aromaticum - Köhler–s Medizinal-Pflanzen-030.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg"
+ },
+ "Nutmeg": {
+  "file": "nutmeg.jpg",
+  "kind": "print",
+  "caption": "Myristica fragrans",
+  "title": "Myristica fragrans - Köhler–s Medizinal-Pflanzen-097.jpg",
+  "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Myristica_fragrans_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-097.jpg"
+ },
+ "Ginger": {
+  "file": "ginger.jpg",
+  "kind": "print",
+  "caption": "Zingiber officinale",
+  "title": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuterndem Texte (Plate 172) (8232814894).jpg",
+  "artist": "Brandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max.",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_(Plate_172)_(8232814894).jpg"
+ },
+ "Tuberose": {
+  "file": "tuberose.jpg",
+  "kind": "photo",
+  "caption": "Polianthes tuberosa",
+  "title": "Polianthes tuberosa",
+  "artist": "no rights reserved",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/763141599"
+ },
+ "Magnolia": {
+  "file": "magnolia.jpg",
+  "kind": "photo",
+  "caption": "Magnolia grandiflora",
+  "title": "Magnolia grandiflora",
+  "artist": "Douglas Goldman",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/557171383"
+ },
+ "Elemi": {
+  "file": "elemi.png",
+  "kind": "molecule",
+  "caption": "Limonene",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Limonene"
+ },
+ "Sandalwood": {
+  "file": "sandalwood.jpg",
+  "kind": "photo",
+  "caption": "Santalum album",
+  "title": "Santalum album",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/30611222"
+ },
+ "Cedar": {
+  "file": "cedar.jpg",
+  "kind": "photo",
+  "caption": "Cedrus atlantica",
+  "title": "Cedrus atlantica",
+  "artist": "(c) Mourad Harzallah, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/419651736"
+ },
+ "Vetiver": {
+  "file": "vetiver.jpg",
+  "kind": "photo",
+  "caption": "Chrysopogon zizanioides",
+  "title": "Chrysopogon zizanioides",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/167723540"
+ },
+ "Patchouli": {
+  "file": "patchouli.png",
+  "kind": "molecule",
+  "caption": "Patchoulol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Patchoulol"
+ },
+ "Oud": {
+  "file": "oud.jpg",
+  "kind": "photo",
+  "caption": "Aquilaria malaccensis",
+  "title": "Aquilaria malaccensis",
+  "artist": "Siddarth Machado",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/61572262"
+ },
+ "Guaiac Wood": {
+  "file": "guaiac-wood.png",
+  "kind": "molecule",
+  "caption": "Guaiol",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Guaiol"
+ },
+ "Cypress": {
+  "file": "cypress.jpg",
+  "kind": "photo",
+  "caption": "Cupressus sempervirens",
+  "title": "Cupressus sempervirens",
+  "artist": "Rockhopper2",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/8573212"
+ },
+ "Birch": {
+  "file": "birch.jpg",
+  "kind": "photo",
+  "caption": "Betula pendula",
+  "title": "Betula pendula",
+  "artist": "Douglas Goldman",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/175067773"
+ },
+ "Vanilla": {
+  "file": "vanilla.jpg",
+  "kind": "photo",
+  "caption": "Vanilla planifolia",
+  "title": "Vanilla planifolia",
+  "artist": "(c) Aldous13, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/377305709"
+ },
+ "Tonka Bean": {
+  "file": "tonka-bean.jpg",
+  "kind": "photo",
+  "caption": "Dipteryx odorata",
+  "title": "Dipteryx odorata",
+  "artist": "(c) Juan Manuel Cardona Granda, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/78776486"
+ },
+ "Benzoin": {
+  "file": "benzoin.png",
+  "kind": "molecule",
+  "caption": "Vanillin",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Vanillin"
+ },
+ "Labdanum": {
+  "file": "labdanum.jpg",
+  "kind": "photo",
+  "caption": "Cistus ladanifer",
+  "title": "Cistus ladanifer",
+  "artist": "Borja Fierro-Leva",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/476982651"
+ },
+ "Incense": {
+  "file": "incense.jpg",
+  "kind": "photo",
+  "caption": "Boswellia sacra",
+  "title": "Boswellia sacra",
+  "artist": "scott.zona",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/1540985"
+ },
+ "Myrrh": {
+  "file": "myrrh.png",
+  "kind": "molecule",
+  "caption": "Furanoeudesma-1,3-diene",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Furanoeudesma-1%2C3-diene"
+ },
+ "Coffee": {
+  "file": "coffee.jpg",
+  "kind": "photo",
+  "caption": "Coffea arabica",
+  "title": "Coffea arabica",
+  "artist": "Forest and Kim Starr",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/463614054"
+ },
+ "Cocoa": {
+  "file": "cocoa.jpg",
+  "kind": "photo",
+  "caption": "Theobroma cacao",
+  "title": "Theobroma cacao",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/30611320"
+ },
+ "Almond": {
+  "file": "almond.jpg",
+  "kind": "photo",
+  "caption": "Prunus dulcis",
+  "title": "Prunus amygdalus",
+  "artist": "Roozitaa",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/93581871"
+ },
+ "Tobacco": {
+  "file": "tobacco.jpg",
+  "kind": "photo",
+  "caption": "Nicotiana tabacum",
+  "title": "Nicotiana tabacum",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/29279055"
+ },
+ "Mint": {
+  "file": "mint.jpg",
+  "kind": "photo",
+  "caption": "Mentha piperita",
+  "title": "Mentha × piperita",
+  "artist": "(c) Rocío Esmeralda Pose, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/721844887"
+ },
+ "Basil": {
+  "file": "basil.jpg",
+  "kind": "photo",
+  "caption": "Ocimum basilicum",
+  "title": "Ocimum basilicum",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/110372064"
+ },
+ "Sage": {
+  "file": "sage.jpg",
+  "kind": "photo",
+  "caption": "Salvia sclarea",
+  "title": "Salvia sclarea",
+  "artist": "Tom Erler",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/311410532"
+ },
+ "Tea": {
+  "file": "tea.jpg",
+  "kind": "photo",
+  "caption": "Camellia sinensis",
+  "title": "Camellia sinensis",
+  "artist": "Stuart Cable",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/3431826"
+ },
+ "Fig": {
+  "file": "fig.jpg",
+  "kind": "photo",
+  "caption": "Ficus carica",
+  "title": "Ficus carica",
+  "artist": "Drepanostoma",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/3069933"
+ },
+ "Galbanum": {
+  "file": "galbanum.png",
+  "kind": "molecule",
+  "caption": "2-Methoxy-3-sec-butylpyrazine",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=2-Methoxy-3-sec-butylpyrazine"
+ },
+ "Apple": {
+  "file": "apple.jpg",
+  "kind": "photo",
+  "caption": "Malus domestica",
+  "title": "Malus domestica",
+  "artist": "Kieran Hanrahan",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/399127934"
+ },
+ "Pear": {
+  "file": "pear.jpg",
+  "kind": "photo",
+  "caption": "Pyrus communis",
+  "title": "Pyrus communis",
+  "artist": "Grzegorz Grzejszczak",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/16453411"
+ },
+ "Peach": {
+  "file": "peach.jpg",
+  "kind": "photo",
+  "caption": "Prunus persica",
+  "title": "Prunus persica",
+  "artist": "Yair Haklai",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/318368255"
+ },
+ "Blackcurrant": {
+  "file": "blackcurrant.jpg",
+  "kind": "photo",
+  "caption": "Ribes nigrum",
+  "title": "Ribes nigrum",
+  "artist": "Nina Filippova",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/130495402"
+ },
+ "Raspberry": {
+  "file": "raspberry.jpg",
+  "kind": "photo",
+  "caption": "Rubus idaeus",
+  "title": "Rubus idaeus",
+  "artist": "Ole Husby",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/358785151"
+ },
+ "Pineapple": {
+  "file": "pineapple.jpg",
+  "kind": "photo",
+  "caption": "Ananas comosus",
+  "title": "Ananas comosus",
+  "artist": "Diogo Luiz",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/179291263"
+ },
+ "Oakmoss": {
+  "file": "oakmoss.jpg",
+  "kind": "photo",
+  "caption": "Evernia prunastri",
+  "title": "Evernia prunastri",
+  "artist": "Paul Cook",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/11752932"
+ },
+ "Cumin": {
+  "file": "cumin.jpg",
+  "kind": "photo",
+  "caption": "Cuminum cyminum",
+  "title": "Cuminum cyminum",
+  "artist": "Herbolario Allium: www.alliumherbal.com",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/929263"
+ },
+ "Coriander": {
+  "file": "coriander.jpg",
+  "kind": "photo",
+  "caption": "Coriandrum sativum",
+  "title": "Coriandrum sativum",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/30423712"
+ },
+ "Juniper": {
+  "file": "juniper.jpg",
+  "kind": "photo",
+  "caption": "Juniperus communis",
+  "title": "Juniperus communis",
+  "artist": "Syd Cannings",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/225151318"
+ },
+ "Gin": {
+  "file": "gin.jpg",
+  "kind": "photo",
+  "caption": "Juniperus communis",
+  "title": "Juniperus communis",
+  "artist": "Syd Cannings",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/225151318"
+ },
+ "Cypriol": {
+  "file": "cypriol.jpg",
+  "kind": "photo",
+  "caption": "Cyperus scariosus",
+  "title": "Cyperus scariosus",
+  "artist": "(c) Roland Muench, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/352910905"
+ },
+ "Cistus": {
+  "file": "cistus.jpg",
+  "kind": "photo",
+  "caption": "Cistus ladanifer",
+  "title": "Cistus ladanifer",
+  "artist": "Borja Fierro-Leva",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/476982651"
+ },
+ "Styrax": {
+  "file": "styrax.jpg",
+  "kind": "photo",
+  "caption": "Liquidambar orientalis",
+  "title": "Liquidambar orientalis",
+  "artist": "(c) Thibaud Aronson, some rights reserved (CC BY-SA)",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/23400691"
+ },
+ "Peru Balsam": {
+  "file": "peru-balsam.jpg",
+  "kind": "photo",
+  "caption": "Myroxylon balsamum",
+  "title": "Myroxylon balsamum",
+  "artist": "(c) Andre Hosper, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/32492908"
+ },
+ "Carnation": {
+  "file": "carnation.jpg",
+  "kind": "photo",
+  "caption": "Dianthus caryophyllus",
+  "title": "Dianthus caryophyllus",
+  "artist": "Jason Grant",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/52411785"
+ },
+ "Freesia": {
+  "file": "freesia.jpg",
+  "kind": "photo",
+  "caption": "Freesia refracta",
+  "title": "Freesia refracta",
+  "artist": "(c) YvettevWijk, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/58097877"
+ },
+ "Lily": {
+  "file": "lily.jpg",
+  "kind": "photo",
+  "caption": "Lilium candidum",
+  "title": "Lilium candidum",
+  "artist": "Kostas Zontanos",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/11248976"
+ },
+ "Linden Blossom": {
+  "file": "linden-blossom.jpg",
+  "kind": "photo",
+  "caption": "Tilia cordata",
+  "title": "Tilia cordata",
+  "artist": "narya.de",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/550216409"
+ },
+ "Hyacinth": {
+  "file": "hyacinth.jpg",
+  "kind": "photo",
+  "caption": "Hyacinthus orientalis",
+  "title": "Hyacinthus orientalis",
+  "artist": "florawhite",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/258425794"
+ },
+ "Narcissus": {
+  "file": "narcissus.jpg",
+  "kind": "photo",
+  "caption": "Narcissus poeticus",
+  "title": "Narcissus poeticus",
+  "artist": "Ethomorphis",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/619941812"
+ },
+ "Tiare": {
+  "file": "tiare.jpg",
+  "kind": "photo",
+  "caption": "Gardenia taitensis",
+  "title": "Gardenia taitensis",
+  "artist": "(c) Cricket Raspet, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/681977573"
+ },
+ "Orchid": {
+  "file": "orchid.jpg",
+  "kind": "photo",
+  "caption": "Cattleya labiata",
+  "title": "Cattleya labiata",
+  "artist": "Diego Delso\n",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/127799927"
+ },
+ "Rhubarb": {
+  "file": "rhubarb.jpg",
+  "kind": "photo",
+  "caption": "Rheum rhabarbarum",
+  "title": "Rheum rhabarbarum",
+  "artist": "Elin Pierce",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/54103366"
+ },
+ "Papyrus": {
+  "file": "papyrus.jpg",
+  "kind": "photo",
+  "caption": "Cyperus papyrus",
+  "title": "Cyperus papyrus",
+  "artist": "Shaun Swanepoel",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/13488403"
+ },
+ "Palo Santo": {
+  "file": "palo-santo.jpg",
+  "kind": "photo",
+  "caption": "Bursera graveolens",
+  "title": "Bursera graveolens",
+  "artist": "Susan Murphy",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/351548674"
+ },
+ "Oak": {
+  "file": "oak.jpg",
+  "kind": "photo",
+  "caption": "Quercus robur",
+  "title": "Quercus robur",
+  "artist": "Veronica Jendrick",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/326660041"
+ },
+ "Fir": {
+  "file": "fir.jpg",
+  "kind": "photo",
+  "caption": "Abies balsamea",
+  "title": "Abies balsamea",
+  "artist": "Douglas Goldman",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/266620436"
+ },
+ "Pine": {
+  "file": "pine.jpg",
+  "kind": "photo",
+  "caption": "Pinus sylvestris",
+  "title": "Pinus sylvestris",
+  "artist": "Douglas Goldman",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/268451762"
+ },
+ "Ambrette": {
+  "file": "ambrette.jpg",
+  "kind": "photo",
+  "caption": "Abelmoschus moschatus",
+  "title": "Abelmoschus moschatus",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/105025494"
+ },
+ "Anise": {
+  "file": "anise.jpg",
+  "kind": "photo",
+  "caption": "Pimpinella anisum",
+  "title": "Pimpinella anisum",
+  "artist": "David Monniaux",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/100287715"
+ },
+ "Liquorice": {
+  "file": "liquorice.jpg",
+  "kind": "photo",
+  "caption": "Glycyrrhiza glabra",
+  "title": "Glycyrrhiza glabra",
+  "artist": "Anastasia Limareva",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/110179652"
+ },
+ "Turmeric": {
+  "file": "turmeric.jpg",
+  "kind": "photo",
+  "caption": "Curcuma longa",
+  "title": "Curcuma longa",
+  "artist": "Manojk",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/117395509"
+ },
+ "Sesame": {
+  "file": "sesame.jpg",
+  "kind": "photo",
+  "caption": "Sesamum indicum",
+  "title": "Sesamum indicum",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/29332099"
+ },
+ "Hazelnut": {
+  "file": "hazelnut.jpg",
+  "kind": "photo",
+  "caption": "Corylus avellana",
+  "title": "Corylus avellana",
+  "artist": "Paul Dubery",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/27607570"
+ },
+ "Maté": {
+  "file": "mat.jpg",
+  "kind": "photo",
+  "caption": "Ilex paraguariensis",
+  "title": "Ilex paraguariensis",
+  "artist": "Frank Dietze",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/64882168"
+ },
+ "Paprika": {
+  "file": "paprika.jpg",
+  "kind": "photo",
+  "caption": "Capsicum annuum",
+  "title": "Capsicum annuum",
+  "artist": "(c) Thomas Mesaglio, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/309905925"
+ },
+ "Fenugreek": {
+  "file": "fenugreek.jpg",
+  "kind": "photo",
+  "caption": "Trigonella foenum-graecum",
+  "title": "Trigonella foenum-graecum",
+  "artist": "(c) Eleftherios Katsillis, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/628571601"
+ },
+ "Costus": {
+  "file": "costus.png",
+  "kind": "molecule",
+  "caption": "Dehydrocostus lactone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Dehydrocostus%20lactone"
+ },
+ "Lavandin": {
+  "file": "lavandin.png",
+  "kind": "molecule",
+  "caption": "Linalool",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Linalool"
+ },
+ "Myrtle": {
+  "file": "myrtle.jpg",
+  "kind": "photo",
+  "caption": "Myrtus communis",
+  "title": "Myrtus communis",
+  "artist": "Daniel Macías Gómez",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/452494075"
+ },
+ "Mace": {
+  "file": "mace.jpg",
+  "kind": "photo",
+  "caption": "Myristica fragrans",
+  "title": "Myristica fragrans",
+  "artist": "Ramesh NG",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/75658"
+ },
+ "Caraway": {
+  "file": "caraway.jpg",
+  "kind": "photo",
+  "caption": "Carum carvi",
+  "title": "Carum carvi",
+  "artist": "Brian Finzel",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/471242630"
+ },
+ "Pimento": {
+  "file": "pimento.jpg",
+  "kind": "photo",
+  "caption": "Pimenta dioica",
+  "title": "Pimenta dioica",
+  "artist": "(c) Kevin Faccenda, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/463431222"
+ },
+ "Artemisia": {
+  "file": "artemisia.jpg",
+  "kind": "photo",
+  "caption": "Artemisia absinthium",
+  "title": "Artemisia absinthium",
+  "artist": "Flora_DUMO",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/323796606"
+ },
+ "Melon": {
+  "file": "melon.jpg",
+  "kind": "photo",
+  "caption": "Cucumis melo",
+  "title": "Cucumis melo",
+  "artist": "(c) Andrea Villarreal Rodríguez, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/443847972"
+ },
+ "Blackberry": {
+  "file": "blackberry.jpg",
+  "kind": "photo",
+  "caption": "Rubus fruticosus",
+  "title": "Rubus fruticosus",
+  "artist": "Tony Rebelo",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/31101558"
+ },
+ "Nectarine": {
+  "file": "nectarine.jpg",
+  "kind": "photo",
+  "caption": "Prunus persica",
+  "title": "Prunus persica",
+  "artist": "Yair Haklai",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/318368255"
+ },
+ "Cucumber": {
+  "file": "cucumber.jpg",
+  "kind": "photo",
+  "caption": "Cucumis sativus",
+  "title": "Cucumis sativus",
+  "artist": "Bff",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/346972380"
+ },
+ "Bamboo": {
+  "file": "bamboo.jpg",
+  "kind": "photo",
+  "caption": "Phyllostachys edulis",
+  "title": "Phyllostachys edulis",
+  "artist": "Eric Knight",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/16054449"
+ },
+ "Matcha": {
+  "file": "matcha.jpg",
+  "kind": "photo",
+  "caption": "Camellia sinensis",
+  "title": "Camellia sinensis",
+  "artist": "Stuart Cable",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/3431826"
+ },
+ "Rice": {
+  "file": "rice.jpg",
+  "kind": "photo",
+  "caption": "Oryza sativa",
+  "title": "Oryza sativa",
+  "artist": "Kim, Hyun-tae",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/50583159"
+ },
+ "Lotus": {
+  "file": "lotus.jpg",
+  "kind": "photo",
+  "caption": "Nelumbo nucifera",
+  "title": "Nelumbo nucifera",
+  "artist": "Surabhi Srivastava",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/145129428"
+ },
+ "Pandan": {
+  "file": "pandan.jpg",
+  "kind": "photo",
+  "caption": "Pandanus amaryllifolius",
+  "title": "Pandanus amaryllifolius",
+  "artist": "no rights reserved",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/279673144"
+ },
+ "Corn": {
+  "file": "corn.jpg",
+  "kind": "photo",
+  "caption": "Zea mays",
+  "title": "Zea mays",
+  "artist": "Diogo Luiz",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/57590544"
+ },
+ "Mango": {
+  "file": "mango.jpg",
+  "kind": "photo",
+  "caption": "Mangifera indica",
+  "title": "Mangifera indica",
+  "artist": "葉子",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/30951020"
+ },
+ "Cannabis": {
+  "file": "cannabis.jpg",
+  "kind": "photo",
+  "caption": "Cannabis sativa",
+  "title": "Cannabis sativa",
+  "artist": "Matt Berger",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/148671703"
+ },
+ "Guava": {
+  "file": "guava.jpg",
+  "kind": "photo",
+  "caption": "Psidium guajava",
+  "title": "Psidium guajava",
+  "artist": "John Parrotta",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/751951189"
+ },
+ "Watermelon": {
+  "file": "watermelon.jpg",
+  "kind": "photo",
+  "caption": "Citrullus lanatus",
+  "title": "Citrullus lanatus",
+  "artist": "Bernard DUPONT",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/1831562"
+ },
+ "Ginseng": {
+  "file": "ginseng.jpg",
+  "kind": "photo",
+  "caption": "Panax ginseng",
+  "title": "Panax ginseng",
+  "artist": "(c) Nina Filippova, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/155712548"
+ },
+ "Parsley": {
+  "file": "parsley.jpg",
+  "kind": "photo",
+  "caption": "Petroselinum crispum",
+  "title": "Petroselinum crispum",
+  "artist": "Vítor Jorge",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/248210121"
+ },
+ "Eucalyptus": {
+  "file": "eucalyptus.jpg",
+  "kind": "photo",
+  "caption": "Eucalyptus globulus",
+  "title": "Eucalyptus globulus",
+  "artist": "Forest and Kim Starr",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/138155692"
+ },
+ "Citrus Notes": {
+  "file": "citrus-notes.jpg",
+  "kind": "photo",
+  "caption": "Citrus aurantium",
+  "title": "Citrus × aurantium",
+  "artist": "Alex Abair",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/112644602"
+ },
+ "Honeysuckle": {
+  "file": "honeysuckle.jpg",
+  "kind": "photo",
+  "caption": "Lonicera periclymenum",
+  "title": "Lonicera periclymenum",
+  "artist": "Daniel Cahen",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/98746995"
+ },
+ "Moss": {
+  "file": "moss.jpg",
+  "kind": "photo",
+  "caption": "Evernia prunastri",
+  "title": "Evernia prunastri",
+  "artist": "Paul Cook",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/11752932"
+ },
+ "White Flowers": {
+  "file": "white-flowers.jpg",
+  "kind": "photo",
+  "caption": "Jasminum sambac",
+  "title": "Jasminum sambac",
+  "artist": "(c) Sunny Joseph, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/92599004"
+ },
+ "Red Berries": {
+  "file": "red-berries.jpg",
+  "kind": "photo",
+  "caption": "Rubus idaeus",
+  "title": "Rubus idaeus",
+  "artist": "Ole Husby",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/358785151"
+ },
+ "Strawberry": {
+  "file": "strawberry.jpg",
+  "kind": "photo",
+  "caption": "Fragaria × ananassa",
+  "title": "Fragaria × ananassa",
+  "artist": "(c) Николай Соболев, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/132960986"
+ },
+ "Lychee": {
+  "file": "lychee.jpg",
+  "kind": "photo",
+  "caption": "Litchi chinensis",
+  "title": "Litchi chinensis",
+  "artist": "Colin Meurk",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/2920576"
+ },
+ "Citron": {
+  "file": "citron.jpg",
+  "kind": "photo",
+  "caption": "Citrus medica",
+  "title": "Citrus medica",
+  "artist": "\nJohann Werfring",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/356738692"
+ },
+ "Verbena": {
+  "file": "verbena.jpg",
+  "kind": "photo",
+  "caption": "Aloysia citrodora",
+  "title": "Aloysia citrodora",
+  "artist": "M a n u e l",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/2332506"
+ },
+ "Datura": {
+  "file": "datura.jpg",
+  "kind": "photo",
+  "caption": "Datura stramonium",
+  "title": "Datura stramonium",
+  "artist": "\nGero Brandenburg",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/137958289"
+ },
+ "Resins": {
+  "file": "resins.jpg",
+  "kind": "photo",
+  "caption": "Boswellia sacra",
+  "title": "Boswellia sacra",
+  "artist": "scott.zona",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/1540985"
+ },
+ "Amyris": {
+  "file": "amyris.jpg",
+  "kind": "photo",
+  "caption": "Amyris balsamifera",
+  "title": "Amyris balsamifera",
+  "artist": "(c) Francisco Farriols Sarabia, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/6901849"
+ },
+ "Marjoram": {
+  "file": "marjoram.jpg",
+  "kind": "photo",
+  "caption": "Origanum majorana",
+  "title": "Origanum majorana",
+  "artist": "Christoph Zurnieden",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/63737491"
+ },
+ "Thyme": {
+  "file": "thyme.jpg",
+  "kind": "photo",
+  "caption": "Thymus vulgaris",
+  "title": "Thymus vulgaris",
+  "artist": "Josep Gesti",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/117258098"
+ },
+ "Fennel": {
+  "file": "fennel.jpg",
+  "kind": "photo",
+  "caption": "Foeniculum vulgare",
+  "title": "Foeniculum vulgare",
+  "artist": "(c) zebedeugalinha, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/728691608"
+ },
+ "Cascarilla": {
+  "file": "cascarilla.png",
+  "kind": "molecule",
+  "caption": "p-Cymene",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=p-Cymene"
+ },
+ "Ivy": {
+  "file": "ivy.jpg",
+  "kind": "photo",
+  "caption": "Hedera helix",
+  "title": "Hedera helix",
+  "artist": "(c) Marianna Boi, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/38428455"
+ },
+ "Bayberry": {
+  "file": "bayberry.png",
+  "kind": "molecule",
+  "caption": "Myrcene",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Myrcene"
+ },
+ "Marigold": {
+  "file": "marigold.jpg",
+  "kind": "photo",
+  "caption": "Tagetes minuta",
+  "title": "Tagetes minuta",
+  "artist": "Romi Galeota Lencina",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/119363478"
+ },
+ "Four O'Clock Flower": {
+  "file": "four-o-clock-flower.jpg",
+  "kind": "photo",
+  "caption": "Mirabilis jalapa",
+  "title": "Mirabilis jalapa",
+  "artist": "Ricard Busquets Reverte",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/249558360"
+ },
+ "Chestnut": {
+  "file": "chestnut.jpg",
+  "kind": "photo",
+  "caption": "Castanea sativa",
+  "title": "Castanea sativa",
+  "artist": "(c) Kian Hayles-Cotton, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/447146998"
+ },
+ "Cade": {
+  "file": "cade.jpg",
+  "kind": "photo",
+  "caption": "Juniperus oxycedrus",
+  "title": "Juniperus oxycedrus",
+  "artist": "(c) Santiago Martín-Bravo, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/111616844"
+ },
+ "Carrot Seed": {
+  "file": "carrot-seed.jpg",
+  "kind": "photo",
+  "caption": "Daucus carota",
+  "title": "Daucus carota",
+  "artist": "Eleftherios Katsillis",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/115648219"
+ },
+ "Nettle": {
+  "file": "nettle.jpg",
+  "kind": "photo",
+  "caption": "Urtica dioica",
+  "title": "Urtica dioica",
+  "artist": "georgiasteel",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/178302727"
+ },
+ "Peach Blossom": {
+  "file": "peach-blossom.jpg",
+  "kind": "photo",
+  "caption": "Prunus persica",
+  "title": "Prunus persica",
+  "artist": "Yair Haklai",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/318368255"
+ },
+ "Tomato Leaf": {
+  "file": "tomato-leaf.jpg",
+  "kind": "photo",
+  "caption": "Solanum lycopersicum",
+  "title": "Solanum lycopersicum",
+  "artist": "(c) Георгий Виноградов (Georgy Vinogradov), some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/103246800"
+ },
+ "Chamomile": {
+  "file": "chamomile.jpg",
+  "kind": "photo",
+  "caption": "Matricaria chamomilla",
+  "title": "Matricaria chamomilla",
+  "artist": "Björn Sothmann",
+  "license": "CC BY-SA",
+  "page": "https://www.inaturalist.org/photos/83129359"
+ },
+ "Gurjun Balsam": {
+  "file": "gurjun-balsam.jpg",
+  "kind": "photo",
+  "caption": "Dipterocarpus turbinatus",
+  "title": "Dipterocarpus turbinatus",
+  "artist": "Eugene Popov",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/653460871"
+ },
+ "Hawthorn": {
+  "file": "hawthorn.jpg",
+  "kind": "photo",
+  "caption": "Crataegus monogyna",
+  "title": "Crataegus monogyna",
+  "artist": "Mirela",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/169763327"
+ },
+ "Liatris": {
+  "file": "liatris.png",
+  "kind": "molecule",
+  "caption": "Coumarin",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Coumarin"
+ },
+ "Heliotrope": {
+  "file": "heliotrope.jpg",
+  "kind": "photo",
+  "caption": "Heliotropium arborescens",
+  "title": "Heliotropium arborescens",
+  "artist": "no rights reserved",
+  "license": "CC0",
+  "page": "https://www.inaturalist.org/photos/549576305"
+ },
+ "Angelica": {
+  "file": "angelica.jpg",
+  "kind": "photo",
+  "caption": "Angelica archangelica",
+  "title": "Angelica archangelica",
+  "artist": "(c) Константин Селивёрстов, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/484169897"
+ },
+ "Leather": {
+  "file": "leather.png",
+  "kind": "molecule",
+  "caption": "6-Isobutylquinoline",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=6-Isobutylquinoline"
+ },
+ "Rosemary": {
+  "file": "rosemary.jpg",
+  "kind": "photo",
+  "caption": "Salvia rosmarinus",
+  "title": "Salvia rosmarinus",
+  "artist": "(c) zebedeugalinha, some rights reserved (CC BY)",
+  "license": "CC BY",
+  "page": "https://www.inaturalist.org/photos/658125214"
+ },
+ "Opoponax": {
+  "file": "opoponax.png",
+  "kind": "molecule",
+  "caption": "beta-Bisabolene",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=beta-Bisabolene"
+ },
+ "Muscenone": {
+  "file": "muscenone.png",
+  "kind": "molecule",
+  "caption": "Muscone",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=Muscone"
+ },
+ "Woodleather": {
+  "file": "woodleather.png",
+  "kind": "molecule",
+  "caption": "6-Isobutylquinoline",
+  "artist": "PubChem",
+  "license": "Public domain (US government)",
+  "page": "https://pubchem.ncbi.nlm.nih.gov/#query=6-Isobutylquinoline"
+ }
+}

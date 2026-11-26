@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+app/data/cache/
+app/data/perfumes.db-wal
+app/data/perfumes.db-shm
+.DS_Store
+.env.*
+.claude/
+CLAUDE.md

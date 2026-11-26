@@ -1,0 +1,1888 @@
+[
+  {
+    "name": "Bergamot",
+    "family": "Citrus",
+    "emoji": "🍋",
+    "description": "A green, slightly bitter citrus from southern Italy, brighter and more floral than lemon. It's the classic sparkling opening of colognes and Earl Grey tea.",
+    "aliases": [
+      "Bergamot Zest"
+    ]
+  },
+  {
+    "name": "Lemon",
+    "family": "Citrus",
+    "emoji": "🍋",
+    "description": "Sharp, zesty and clean, like a freshly cut lemon peel. It lifts a perfume instantly but fades fast, so it lives in the opening.",
+    "aliases": [
+      "Italian Lemon",
+      "Sicilian Lemon"
+    ]
+  },
+  {
+    "name": "Mandarin Orange",
+    "aliases": [
+      "Mandarin",
+      "Italian Mandarin",
+      "Tangerine",
+      "Green Mandarin"
+    ],
+    "family": "Citrus",
+    "emoji": "🍊",
+    "description": "Sweeter and juicier than lemon, with a soft, almost candied orange glow. Smells cheerful and sunny rather than sharp."
+  },
+  {
+    "name": "Orange",
+    "aliases": [
+      "Sweet Orange",
+      "Blood Orange",
+      "Bitter Orange"
+    ],
+    "family": "Citrus",
+    "emoji": "🍊",
+    "description": "Juicy, sweet orange peel - like peeling a ripe orange. Friendly and fruity, it brightens the top of a scent."
+  },
+  {
+    "name": "Grapefruit",
+    "aliases": [
+      "Pink Grapefruit"
+    ],
+    "family": "Citrus",
+    "emoji": "🍊",
+    "description": "Tangy and a little bitter, with a sulfurous, juicy edge that reads fresh and modern. Popular in sporty and unisex scents."
+  },
+  {
+    "name": "Lime",
+    "family": "Citrus",
+    "emoji": "🍈",
+    "description": "Tart, green and zingy, like a mojito garnish. Adds a sharp, tropical sparkle."
+  },
+  {
+    "name": "Yuzu",
+    "family": "Citrus",
+    "emoji": "🍋",
+    "description": "A Japanese citrus that smells like a mix of grapefruit, mandarin and lime, with a floral twist. Crisp, airy and elegant.",
+    "aliases": [
+      "Japanese Yuzu"
+    ]
+  },
+  {
+    "name": "Neroli",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "Oil from bitter-orange blossoms: fresh, honeyed and slightly green. Sits between citrus and floral and smells clean and luminous."
+  },
+  {
+    "name": "Petitgrain",
+    "family": "Green",
+    "emoji": "🌿",
+    "description": "Distilled from the leaves and twigs of the bitter-orange tree. Woody-green and a bit bitter, like neroli's outdoorsy sibling.",
+    "aliases": [
+      "Bitter Orange Leaves"
+    ]
+  },
+  {
+    "name": "Rose",
+    "aliases": [
+      "Damask Rose",
+      "Turkish Rose",
+      "Bulgarian Rose",
+      "Rose Absolute",
+      "May Rose",
+      "Rosa Centifolia",
+      "Damascus Rose",
+      "Centifolia Rose",
+      "Rose Petals",
+      "Rose de Mai",
+      "Tea Rose",
+      "Rose Damascene Absolute",
+      "Red Rose",
+      "Rose Nectar Accord",
+      "Trilogy of Roses"
+    ],
+    "family": "Floral",
+    "emoji": "🌹",
+    "description": "The queen of florals: velvety, rich and slightly fruity or spicy depending on the variety. Can feel romantic and classic or dark and jammy."
+  },
+  {
+    "name": "Jasmine",
+    "aliases": [
+      "Jasmine Sambac",
+      "Jasmine Absolute",
+      "Jasmine Grandiflorum",
+      "Sambac Jasmine"
+    ],
+    "family": "Floral",
+    "emoji": "🤍",
+    "description": "A heady white flower that's sweet, creamy and a little animalic thanks to a natural molecule called indole. Sensual and full-bodied."
+  },
+  {
+    "name": "Tuberose",
+    "family": "Floral",
+    "emoji": "🤍",
+    "description": "A buttery, intoxicating white flower, creamy and almost rubbery-sweet. One of the loudest, most glamorous florals in perfumery.",
+    "aliases": [
+      "Indian Tuberose"
+    ]
+  },
+  {
+    "name": "Ylang-Ylang",
+    "aliases": [
+      "Ylang Ylang"
+    ],
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "A tropical flower with a custardy, banana-like sweetness. Rich and sunny, often used to make florals feel lush."
+  },
+  {
+    "name": "Iris",
+    "aliases": [
+      "Orris",
+      "Orris Root",
+      "Orris Butter"
+    ],
+    "family": "Floral",
+    "emoji": "💜",
+    "description": "Made from the dried root, not the flower: powdery, earthy and cool, like lipstick or fine cosmetic powder. One of the most expensive materials in perfumery."
+  },
+  {
+    "name": "Violet",
+    "family": "Floral",
+    "emoji": "💐",
+    "description": "Soft, powdery and sweet, a bit like old-fashioned violet candies. Gentle and slightly nostalgic."
+  },
+  {
+    "name": "Violet Leaf",
+    "family": "Green",
+    "emoji": "🍃",
+    "description": "Not floral at all: a sharp, watery green that smells like crushed leaves or cucumber skin. Adds a cool, modern freshness."
+  },
+  {
+    "name": "Lavender",
+    "family": "Aromatic",
+    "emoji": "💜",
+    "description": "Herbal, clean and slightly sweet, the backbone of many classic men's 'fougère' scents. Calming and fresh, with a hint of camphor."
+  },
+  {
+    "name": "Lily of the Valley",
+    "aliases": [
+      "Muguet",
+      "Lily-of-the-Valley"
+    ],
+    "family": "Floral",
+    "emoji": "🔔",
+    "description": "Fresh, dewy and green-floral, like spring in a bottle. The flower gives no oil, so its scent is recreated with synthetic molecules."
+  },
+  {
+    "name": "Orange Blossom",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "Sweet, honeyed and bright, warmer and more sensual than neroli (they come from the same flower). Smells like sunshine and clean skin.",
+    "aliases": [
+      "African Orange Flower"
+    ]
+  },
+  {
+    "name": "Osmanthus",
+    "family": "Floral",
+    "emoji": "🏵️",
+    "description": "A tiny Chinese blossom that smells of ripe apricots, leather and tea. Fruity-floral with a suede-like softness."
+  },
+  {
+    "name": "Gardenia",
+    "family": "Floral",
+    "emoji": "🤍",
+    "description": "A creamy white flower with green, mushroomy facets. Lush and sweet, often recreated from other florals."
+  },
+  {
+    "name": "Magnolia",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "Light, lemony and creamy, a fresher and brighter white floral. Feels airy and elegant."
+  },
+  {
+    "name": "Peony",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "Fresh, pink and slightly rosy with a watery touch. Youthful and pretty, without the heaviness of rose."
+  },
+  {
+    "name": "Geranium",
+    "family": "Floral",
+    "emoji": "🌺",
+    "description": "Rosy and minty-green at once, with a metallic edge. Common in men's fragrances to add a fresh floral heart.",
+    "aliases": [
+      "Geranium Bourbon",
+      "Bourbon Geranium"
+    ]
+  },
+  {
+    "name": "Immortelle",
+    "aliases": [
+      "Helichrysum",
+      "Everlasting Flower"
+    ],
+    "family": "Amber",
+    "emoji": "🌾",
+    "description": "A Mediterranean flower that smells of honey, curry leaves, hay and maple syrup. Warm, sun-baked and slightly salty."
+  },
+  {
+    "name": "Heliotrope",
+    "family": "Floral",
+    "emoji": "💜",
+    "description": "A powdery flower that smells of almond, vanilla and Play-Doh. Soft, sweet and comforting."
+  },
+  {
+    "name": "Mimosa",
+    "family": "Floral",
+    "emoji": "💛",
+    "description": "Fluffy yellow blossoms with a powdery, honeyed scent and a hint of cucumber. Gentle and sunny."
+  },
+  {
+    "name": "Saffron",
+    "family": "Spicy",
+    "emoji": "🧡",
+    "description": "A rare spice with a leathery, metallic, honeyed smell. Adds warmth and an exotic, slightly medicinal glow."
+  },
+  {
+    "name": "Pink Pepper",
+    "family": "Spicy",
+    "emoji": "🌶️",
+    "description": "Not true pepper: a rosy, fizzy berry with a sparkling, slightly fruity spice. Gives openings a playful lift.",
+    "aliases": [
+      "Pink Peppercorn",
+      "Red Pepper Berries"
+    ]
+  },
+  {
+    "name": "Pepper",
+    "aliases": [
+      "Black Pepper"
+    ],
+    "family": "Spicy",
+    "emoji": "⚫",
+    "description": "Dry, sharp and woody, like freshly cracked peppercorns. Adds a crisp bite and energy."
+  },
+  {
+    "name": "Sichuan Pepper",
+    "family": "Spicy",
+    "emoji": "🌶️",
+    "description": "Citrusy and tingling, more lemony than black pepper. Brings a bright, electric spice."
+  },
+  {
+    "name": "Cardamom",
+    "family": "Spicy",
+    "emoji": "🟢",
+    "description": "Fresh, eucalyptus-like and gently sweet, like chai. Cool and warm at the same time."
+  },
+  {
+    "name": "Cinnamon",
+    "family": "Spicy",
+    "emoji": "🟤",
+    "description": "Warm, sweet and woody, like holiday baking. Cozy and a little fiery.",
+    "aliases": [
+      "Cinnamon Leaf"
+    ]
+  },
+  {
+    "name": "Clove",
+    "family": "Spicy",
+    "emoji": "🟤",
+    "description": "Hot, medicinal and sweet, like a dentist's office crossed with mulled wine. Strong and warming.",
+    "aliases": [
+      "Clove Buds"
+    ]
+  },
+  {
+    "name": "Nutmeg",
+    "family": "Spicy",
+    "emoji": "🟤",
+    "description": "Warm, soft and slightly woody spice. Rounds out fresh or woody blends with a comforting touch."
+  },
+  {
+    "name": "Ginger",
+    "family": "Spicy",
+    "emoji": "🫚",
+    "description": "Zesty, juicy and spicy-fresh, like fresh-cut ginger root. Bright rather than warm."
+  },
+  {
+    "name": "Elemi",
+    "family": "Spicy",
+    "emoji": "🌳",
+    "description": "A tree resin that smells peppery, lemony and incense-like. Fresh and resinous at once."
+  },
+  {
+    "name": "Sandalwood",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "Creamy, milky and smooth wood with a soft, skin-like warmth. One of the most comforting base notes."
+  },
+  {
+    "name": "Cedar",
+    "aliases": [
+      "Cedarwood",
+      "Virginia Cedar",
+      "Atlas Cedar",
+      "Chinese Cedarwood",
+      "Virginia Cedarwood",
+      "White Cedar",
+      "White Cedarwood"
+    ],
+    "family": "Woody",
+    "emoji": "🌲",
+    "description": "Dry, clean and pencil-shaving woody. Gives structure and a crisp backbone to a scent."
+  },
+  {
+    "name": "Vetiver",
+    "family": "Woody",
+    "emoji": "🌾",
+    "description": "A grass root that smells smoky, earthy and green, like damp soil and roots. Elegant, dry and long-lasting.",
+    "aliases": [
+      "Haitian Vetiver"
+    ]
+  },
+  {
+    "name": "Patchouli",
+    "family": "Earthy",
+    "emoji": "🍂",
+    "description": "Earthy, dark and slightly chocolatey, from a dried leaf. Modern versions are cleaner; vintage ones feel more hippie and damp."
+  },
+  {
+    "name": "Oud",
+    "aliases": [
+      "Agarwood",
+      "Oudh",
+      "Oud Wood"
+    ],
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A dark resin formed in infected agarwood trees: smoky, leathery, medicinal and animalic. Prized and expensive, often recreated synthetically."
+  },
+  {
+    "name": "Akigalawood",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A modern ingredient made by upcycling patchouli with enzymes. Smells woody and peppery with a soft oud-like and spicy facet."
+  },
+  {
+    "name": "Guaiac Wood",
+    "aliases": [
+      "Guaiacwood"
+    ],
+    "family": "Woody",
+    "emoji": "🔥",
+    "description": "Smoky, warm and slightly sweet wood, like a campfire with a hint of tar. Adds depth and dryness."
+  },
+  {
+    "name": "Cashmeran",
+    "family": "Woody",
+    "emoji": "🧣",
+    "description": "A synthetic that smells like soft wool, warm skin and musky wood. Cozy and velvety.",
+    "aliases": [
+      "Cashmere",
+      "Cashmere Wood"
+    ]
+  },
+  {
+    "name": "Iso E Super",
+    "family": "Woody",
+    "emoji": "✨",
+    "description": "A transparent synthetic wood with a velvety, cedar-like glow. Some people can barely smell it, but it makes perfumes feel radiant on skin."
+  },
+  {
+    "name": "Cypress",
+    "family": "Woody",
+    "emoji": "🌲",
+    "description": "Resinous, green and slightly smoky, like a pine forest. Fresh and outdoorsy."
+  },
+  {
+    "name": "Birch",
+    "aliases": [
+      "Birch Tar"
+    ],
+    "family": "Leather",
+    "emoji": "🔥",
+    "description": "Smoky and tarry, the classic material used to create leather accords. Dark and dramatic."
+  },
+  {
+    "name": "Vanilla",
+    "aliases": [
+      "Bourbon Vanilla",
+      "Madagascar Vanilla",
+      "Vanilla Absolute",
+      "Vanillin",
+      "Vanilla CO2 Extract"
+    ],
+    "family": "Gourmand",
+    "emoji": "🍦",
+    "description": "Sweet, creamy and comforting, sometimes boozy or smoky. Warms and softens almost any base."
+  },
+  {
+    "name": "Tonka Bean",
+    "aliases": [
+      "Tonka"
+    ],
+    "family": "Gourmand",
+    "emoji": "🫘",
+    "description": "Smells like vanilla, almond and fresh hay mixed together, thanks to a molecule called coumarin. Warm, sweet and a bit nutty."
+  },
+  {
+    "name": "Benzoin",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "A balsamic tree resin with a vanilla-caramel sweetness. Cozy and slightly powdery.",
+    "aliases": [
+      "Siam Benzoin"
+    ]
+  },
+  {
+    "name": "Labdanum",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "A sticky resin from the rockrose shrub: leathery, ambery and rich. The heart of many 'amber' accords."
+  },
+  {
+    "name": "Amber",
+    "aliases": [
+      "Amber Accord",
+      "Liquid Amber",
+      "Crisp Amber"
+    ],
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "Not a single ingredient but a warm blend, usually labdanum, vanilla and benzoin. Smells golden, resinous and sweet."
+  },
+  {
+    "name": "Ambroxan",
+    "aliases": [
+      "Ambrox",
+      "Ambroxide",
+      "Ambrofix"
+    ],
+    "family": "Amber",
+    "emoji": "🧂",
+    "description": "A synthetic inspired by ambergris: salty, woody, musky and very long-lasting. The signature trail of many modern men's scents."
+  },
+  {
+    "name": "Ambergris",
+    "family": "Amber",
+    "emoji": "🌊",
+    "description": "A rare material formed in sperm whales and aged by the sea: salty, marine, sweet and skin-like. Today it's almost always recreated synthetically."
+  },
+  {
+    "name": "Incense",
+    "aliases": [
+      "Frankincense",
+      "Olibanum",
+      "Frankincense Oil",
+      "Frankincense Resinoid"
+    ],
+    "family": "Amber",
+    "emoji": "💨",
+    "description": "Smoky, lemony and resinous, like a church or temple. Gives a mystical, airy depth."
+  },
+  {
+    "name": "Myrrh",
+    "family": "Amber",
+    "emoji": "💨",
+    "description": "A bitter, balsamic resin with a medicinal, slightly mushroomy depth. Darker and earthier than frankincense."
+  },
+  {
+    "name": "Honey",
+    "family": "Gourmand",
+    "emoji": "🍯",
+    "description": "Sweet, waxy and slightly animalic, sometimes even a bit sweaty. Adds warmth and richness."
+  },
+  {
+    "name": "Caramel",
+    "family": "Gourmand",
+    "emoji": "🍮",
+    "description": "Sugary, buttery and burnt-sweet. A classic note of dessert-like 'gourmand' perfumes."
+  },
+  {
+    "name": "Coffee",
+    "family": "Gourmand",
+    "emoji": "☕",
+    "description": "Roasted, bitter and dark, like fresh espresso. Adds depth to sweet and woody scents."
+  },
+  {
+    "name": "Cocoa",
+    "aliases": [
+      "Chocolate",
+      "Cacao"
+    ],
+    "family": "Gourmand",
+    "emoji": "🍫",
+    "description": "Dry, powdery and bittersweet, like cocoa powder rather than milk chocolate. Cozy and grown-up."
+  },
+  {
+    "name": "Praline",
+    "family": "Gourmand",
+    "emoji": "🥜",
+    "description": "Toasted nuts in caramelized sugar. Very sweet and edible."
+  },
+  {
+    "name": "Almond",
+    "aliases": [
+      "Bitter Almond"
+    ],
+    "family": "Gourmand",
+    "emoji": "🥜",
+    "description": "Marzipan-like and cherry-ish, sweet and slightly bitter. Soft and nostalgic."
+  },
+  {
+    "name": "Rum",
+    "family": "Gourmand",
+    "emoji": "🥃",
+    "description": "Boozy, molasses-sweet and warm. Gives a cozy, adult sweetness.",
+    "aliases": [
+      "Rhum"
+    ]
+  },
+  {
+    "name": "Tobacco",
+    "aliases": [
+      "Tobacco Leaf"
+    ],
+    "family": "Amber",
+    "emoji": "🍂",
+    "description": "Dried tobacco leaf, not cigarette smoke: sweet, hay-like, honeyed and a little fruity. Warm and gentlemanly."
+  },
+  {
+    "name": "Musk",
+    "aliases": [
+      "White Musk",
+      "Musks",
+      "X-Musk",
+      "Cashmere Musk"
+    ],
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "Soft, clean and skin-like, like fresh laundry or warm skin. Today it's always synthetic, and it makes a perfume last and feel intimate."
+  },
+  {
+    "name": "Leather",
+    "family": "Leather",
+    "emoji": "👜",
+    "description": "An accord that recreates tanned leather: smoky, animalic and a little sweet. Can feel rugged or luxurious."
+  },
+  {
+    "name": "Suede",
+    "family": "Leather",
+    "emoji": "🧤",
+    "description": "A softer, plusher take on leather: powdery, velvety and gentle. Feels like brushing a suede glove."
+  },
+  {
+    "name": "Civet",
+    "family": "Musky",
+    "emoji": "🐾",
+    "description": "An animalic note that's musky and fecal in isolation but adds sensual warmth in tiny doses. Now almost always synthetic."
+  },
+  {
+    "name": "Castoreum",
+    "family": "Leather",
+    "emoji": "🐾",
+    "description": "Leathery, smoky and birch-like animalic note, now recreated synthetically. Adds depth to leather and amber scents."
+  },
+  {
+    "name": "Ozone",
+    "aliases": [
+      "Ozonic Notes",
+      "Cold Air"
+    ],
+    "family": "Aquatic",
+    "emoji": "⚡",
+    "description": "The smell of fresh air before or after a thunderstorm: crisp, clean and slightly metallic. Made with synthetic molecules to suggest open air and sky."
+  },
+  {
+    "name": "Sea Notes",
+    "aliases": [
+      "Marine Notes",
+      "Sea Salt",
+      "Sea Water",
+      "Aquatic Notes",
+      "Water Notes",
+      "Salt",
+      "Marine Accord"
+    ],
+    "family": "Aquatic",
+    "emoji": "🌊",
+    "description": "A salty, breezy accord that evokes the seaside, often built on the molecule Calone. Fresh, airy and a bit watery."
+  },
+  {
+    "name": "Calone",
+    "family": "Aquatic",
+    "emoji": "🍉",
+    "description": "A synthetic that smells like sea breeze crossed with watermelon. It defined the 'aquatic' fragrances of the 1990s."
+  },
+  {
+    "name": "Mineral Notes",
+    "aliases": [
+      "Mineral Accord",
+      "Stone",
+      "Flint"
+    ],
+    "family": "Earthy",
+    "emoji": "🪨",
+    "description": "An abstract accord suggesting wet stone, chalk or flint. Cool, dry and slightly metallic, like rocks after rain."
+  },
+  {
+    "name": "Aldehydes",
+    "family": "Fresh",
+    "emoji": "✨",
+    "description": "Synthetic molecules that smell fizzy, soapy and waxy, like champagne bubbles or ironed linen. Famous for making Chanel No. 5 sparkle."
+  },
+  {
+    "name": "Petrichor",
+    "aliases": [
+      "Rain"
+    ],
+    "family": "Earthy",
+    "emoji": "🌧️",
+    "description": "The earthy smell of rain on dry ground. Often built with geosmin-like notes for a damp, soil-like freshness."
+  },
+  {
+    "name": "Mint",
+    "aliases": [
+      "Peppermint",
+      "Spearmint",
+      "Mint Leaves"
+    ],
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Cool, sharp and refreshing. Gives an icy, clean lift to the opening."
+  },
+  {
+    "name": "Basil",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Green, peppery and slightly anise-like herb. Fresh and Mediterranean."
+  },
+  {
+    "name": "Rosemary",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Herbal, piney and camphorous. Classic in colognes for a clean, invigorating feel."
+  },
+  {
+    "name": "Sage",
+    "aliases": [
+      "Clary Sage"
+    ],
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Herbal and musky, with a slightly sweet, tea-like warmth. Clary sage especially adds a soft, ambery hum."
+  },
+  {
+    "name": "Tea",
+    "aliases": [
+      "Green Tea",
+      "Black Tea",
+      "White Tea",
+      "Oolong Tea",
+      "Oolong Leaves",
+      "Oolong",
+      "Earl Grey Tea",
+      "Jasmine Tea"
+    ],
+    "family": "Green",
+    "emoji": "🍵",
+    "description": "Green tea is fresh, light and slightly bitter; black tea is smoky and tannic. Both feel calm and refined."
+  },
+  {
+    "name": "Fig",
+    "aliases": [
+      "Fig Leaf"
+    ],
+    "family": "Green",
+    "emoji": "🍃",
+    "description": "Milky, green and woody, like the leaves and sap of a fig tree. Often more leafy than fruity."
+  },
+  {
+    "name": "Galbanum",
+    "family": "Green",
+    "emoji": "🌱",
+    "description": "An intensely bitter, sharp green resin, like snapped stems. Very strong, used in small doses for a crisp edge."
+  },
+  {
+    "name": "Grass",
+    "aliases": [
+      "Cut Grass",
+      "Green Grass"
+    ],
+    "family": "Green",
+    "emoji": "🌱",
+    "description": "Fresh-cut lawn: sharp, green and juicy. Feels outdoorsy and springlike."
+  },
+  {
+    "name": "Apple",
+    "aliases": [
+      "Green Apple"
+    ],
+    "family": "Fruity",
+    "emoji": "🍏",
+    "description": "Crisp and juicy, from tart green to sweet red. Adds a fresh, playful sweetness."
+  },
+  {
+    "name": "Pear",
+    "family": "Fruity",
+    "emoji": "🍐",
+    "description": "Juicy, watery and gently sweet. Light and youthful.",
+    "aliases": [
+      "Nashi Pear"
+    ]
+  },
+  {
+    "name": "Peach",
+    "family": "Fruity",
+    "emoji": "🍑",
+    "description": "Fuzzy, ripe and creamy-sweet. Can feel innocent or lusciously sensual.",
+    "aliases": [
+      "Peaches"
+    ]
+  },
+  {
+    "name": "Blackcurrant",
+    "aliases": [
+      "Cassis",
+      "Black Currant"
+    ],
+    "family": "Fruity",
+    "emoji": "🫐",
+    "description": "Tart, jammy and a little catty-green. Adds a vibrant, dark fruitiness."
+  },
+  {
+    "name": "Raspberry",
+    "family": "Fruity",
+    "emoji": "🍓",
+    "description": "Sweet-tart and jammy berry. Playful and bright."
+  },
+  {
+    "name": "Pineapple",
+    "family": "Fruity",
+    "emoji": "🍍",
+    "description": "Tropical, sharp and juicy-sweet. Famous in smoky-fruity men's scents."
+  },
+  {
+    "name": "Coconut",
+    "family": "Gourmand",
+    "emoji": "🥥",
+    "description": "Creamy, milky and tropical, like sunscreen and summer. Soft and warm.",
+    "aliases": [
+      "Coconut Cream",
+      "Coconut Milk"
+    ]
+  },
+  {
+    "name": "Cherry",
+    "family": "Fruity",
+    "emoji": "🍒",
+    "description": "Sweet, almond-tinged and sometimes boozy. Juicy and flirtatious."
+  },
+  {
+    "name": "Plum",
+    "family": "Fruity",
+    "emoji": "🟣",
+    "description": "Dark, jammy and wine-like. Adds richness to rose and amber scents.",
+    "aliases": [
+      "Honeyed Plum",
+      "Mirabelle",
+      "Mirabelle Plum"
+    ]
+  },
+  {
+    "name": "Oakmoss",
+    "family": "Earthy",
+    "emoji": "🌿",
+    "description": "A lichen that grows on oak bark: damp, inky and forest-floor green. It's the backbone of classic chypre perfumes, now used in tiny, regulated amounts.",
+    "aliases": [
+      "Oak Moss",
+      "Evelyn Veramoss",
+      "Veramoss",
+      "Evernyl"
+    ]
+  },
+  {
+    "name": "Cumin",
+    "family": "Spicy",
+    "emoji": "🟤",
+    "description": "A warm, earthy spice with a sweaty, skin-like edge. In small doses it makes a scent feel sensual and lived-in."
+  },
+  {
+    "name": "Coriander",
+    "family": "Spicy",
+    "emoji": "🌿",
+    "description": "The seed smells lemony, peppery and slightly woody. It adds a bright, airy spice to openings.",
+    "aliases": [
+      "Coriander Seed"
+    ]
+  },
+  {
+    "name": "Juniper",
+    "family": "Aromatic",
+    "emoji": "🫐",
+    "description": "Crisp, piney and resinous, the same berry that flavours gin. It brings a cold, fresh sharpness.",
+    "aliases": [
+      "Juniper Berries",
+      "Juniper Berry"
+    ]
+  },
+  {
+    "name": "Gin",
+    "family": "Aromatic",
+    "emoji": "🍸",
+    "description": "An accord built around juniper and botanicals: cool, boozy and herbal, like a gin and tonic.",
+    "aliases": [
+      "Gin Accord"
+    ]
+  },
+  {
+    "name": "Cypriol",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "The root of an Indian grass, also called nagarmotha. Smoky, earthy and leathery, often used to suggest oud.",
+    "aliases": [
+      "Nagarmotha"
+    ]
+  },
+  {
+    "name": "Opoponax",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "Also called sweet myrrh: a warm, honeyed, balsamic resin. Softer and sweeter than regular myrrh.",
+    "aliases": [
+      "Sweet Myrrh"
+    ]
+  },
+  {
+    "name": "Cistus",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "The rockrose shrub, source of labdanum. Smells resinous, ambery and a little leathery and animalic.",
+    "aliases": [
+      "Rockrose"
+    ]
+  },
+  {
+    "name": "Styrax",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "A sticky tree balsam with a smoky, leathery-sweet, slightly cinnamon-like smell. Adds dark warmth.",
+    "aliases": [
+      "Storax"
+    ]
+  },
+  {
+    "name": "Peru Balsam",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "A thick resin that smells of vanilla, cinnamon and caramel. Rich, cosy and sweet.",
+    "aliases": [
+      "Balsam of Peru",
+      "Peru Balm"
+    ]
+  },
+  {
+    "name": "Carnation",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "A spicy flower that smells strongly of clove. Old-fashioned and peppery-floral."
+  },
+  {
+    "name": "Freesia",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "Light, peppery and fresh, like a clean bouquet. A common note in bright, modern florals."
+  },
+  {
+    "name": "Lily",
+    "family": "Floral",
+    "emoji": "🌷",
+    "description": "Heady and creamy with a green, slightly spicy edge. Big and luminous.",
+    "aliases": [
+      "Red Lily",
+      "White Lily"
+    ]
+  },
+  {
+    "name": "Linden Blossom",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "The flower of the lime (linden) tree: honeyed, green and gently citrusy, like a warm summer evening.",
+    "aliases": [
+      "Lime Blossom",
+      "Tilia",
+      "Linden"
+    ]
+  },
+  {
+    "name": "Hyacinth",
+    "family": "Floral",
+    "emoji": "💙",
+    "description": "Green, cool and intensely floral, like a spring bulb in bloom. Slightly earthy and watery."
+  },
+  {
+    "name": "Narcissus",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "Rich, hay-like and a bit animalic, with honeyed green tones. Daffodils smell similar but lighter.",
+    "aliases": [
+      "Daffodil",
+      "Jonquil"
+    ]
+  },
+  {
+    "name": "Tiare",
+    "family": "Floral",
+    "emoji": "🌺",
+    "description": "The Tahitian gardenia: creamy, coconut-tinged and sunny. Smells like a tropical holiday.",
+    "aliases": [
+      "Tiare Flower",
+      "Monoi"
+    ]
+  },
+  {
+    "name": "Orchid",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "An imaginary accord, since most orchids barely smell: usually soft, creamy and slightly vanilla-like.",
+    "aliases": [
+      "Black Orchid"
+    ]
+  },
+  {
+    "name": "Hedione",
+    "family": "Floral",
+    "emoji": "✨",
+    "description": "A synthetic jasmine molecule that smells airy, lemony and transparent. It makes perfumes feel radiant and diffusive."
+  },
+  {
+    "name": "Rhubarb",
+    "family": "Green",
+    "emoji": "🌱",
+    "description": "Tart, crunchy and slightly fruity-green, like a freshly snapped stalk. Adds a sparkling, sour freshness.",
+    "aliases": [
+      "Rhubarb Leaves"
+    ]
+  },
+  {
+    "name": "Green Notes",
+    "family": "Green",
+    "emoji": "🍃",
+    "description": "A general term for fresh, leafy, just-cut smells. Crisp and natural.",
+    "aliases": [
+      "Stem Accord"
+    ]
+  },
+  {
+    "name": "Papyrus",
+    "family": "Woody",
+    "emoji": "📜",
+    "description": "Dry, smoky and woody, related to cypriol. Feels earthy and a little ancient."
+  },
+  {
+    "name": "Palo Santo",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A South American 'holy wood' that smells sweet, smoky and minty-citrus when burned."
+  },
+  {
+    "name": "Oak",
+    "family": "Woody",
+    "emoji": "🌳",
+    "description": "Dry, toasty wood, sometimes like a whisky barrel. Adds a sturdy, warm backbone.",
+    "aliases": [
+      "Oakwood",
+      "Oak Wood",
+      "White Oak",
+      "Oak Leaf"
+    ]
+  },
+  {
+    "name": "Woody Notes",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A general term for dry, warm wood smells when a source doesn't name a specific wood.",
+    "aliases": [
+      "Wood",
+      "Dry Wood Accord",
+      "Woods",
+      "Dry Woods",
+      "Driftwood"
+    ]
+  },
+  {
+    "name": "Fir",
+    "family": "Woody",
+    "emoji": "🌲",
+    "description": "Fir needles and resin: fresh, balsamic and a bit sweet, like a Christmas tree.",
+    "aliases": [
+      "Fir Resin",
+      "Fir Balsam",
+      "Fir Needles"
+    ]
+  },
+  {
+    "name": "Pine",
+    "family": "Woody",
+    "emoji": "🌲",
+    "description": "Sharp, resinous and green, like a walk through a pine forest.",
+    "aliases": [
+      "Pine Needles",
+      "Pine Needle"
+    ]
+  },
+  {
+    "name": "Amberwood",
+    "family": "Woody",
+    "emoji": "✨",
+    "description": "A family of modern synthetics that smell dry, woody and ambery with a slightly salty glow. Very long-lasting.",
+    "aliases": [
+      "Amber Wood"
+    ]
+  },
+  {
+    "name": "Georgywood",
+    "family": "Woody",
+    "emoji": "✨",
+    "description": "A modern synthetic wood note: smooth, dry and slightly ambery, similar in feel to Iso E Super."
+  },
+  {
+    "name": "Mystikal",
+    "family": "Amber",
+    "emoji": "✨",
+    "description": "A modern synthetic with a resinous, incense-like warmth. Used to give a mysterious, ambery depth."
+  },
+  {
+    "name": "Safraleine",
+    "family": "Spicy",
+    "emoji": "🧡",
+    "description": "A synthetic saffron note: leathery, slightly metallic and warm. Smells like saffron with a darker edge."
+  },
+  {
+    "name": "Ambrette",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "Seeds of a hibiscus plant that smell musky, pear-like and slightly winey. A natural alternative to animal musk.",
+    "aliases": [
+      "Ambrette Seed",
+      "Ambrette Seeds"
+    ]
+  },
+  {
+    "name": "Anise",
+    "family": "Spicy",
+    "emoji": "⭐",
+    "description": "Sweet, liquorice-like spice, as in star anise or fennel. Adds a cool, candied lift.",
+    "aliases": [
+      "Star Anise",
+      "Aniseed",
+      "Ouzo"
+    ]
+  },
+  {
+    "name": "Liquorice",
+    "family": "Gourmand",
+    "emoji": "🖤",
+    "description": "Sweet, dark and slightly salty, like black liquorice. Adds a chewy, gourmand depth.",
+    "aliases": [
+      "Licorice",
+      "Liquorice Root",
+      "Licorice Root"
+    ]
+  },
+  {
+    "name": "Turmeric",
+    "family": "Spicy",
+    "emoji": "🟡",
+    "description": "Earthy, warm and slightly woody-bitter, like the golden spice root. Gives a dry, sunny spice."
+  },
+  {
+    "name": "Sesame",
+    "family": "Gourmand",
+    "emoji": "🌰",
+    "description": "Toasty, nutty and warm, like toasted sesame seeds. A cosy, slightly savoury touch."
+  },
+  {
+    "name": "Hazelnut",
+    "family": "Gourmand",
+    "emoji": "🌰",
+    "description": "Roasted, buttery nuttiness. Cosy and sweet, often paired with vanilla or coffee.",
+    "aliases": [
+      "Hazelnut Leaf"
+    ]
+  },
+  {
+    "name": "Maté",
+    "family": "Green",
+    "emoji": "🧉",
+    "description": "The South American tea: green, hay-like and slightly smoky. Grassy and comforting.",
+    "aliases": [
+      "Mate",
+      "Yerba Mate",
+      "Mate Leaves",
+      "Mate Tea"
+    ]
+  },
+  {
+    "name": "Paprika",
+    "family": "Spicy",
+    "emoji": "🌶️",
+    "description": "Warm, slightly sweet and smoky pepper. Unusual in perfume, it adds a dry, glowing spice."
+  },
+  {
+    "name": "Fenugreek",
+    "family": "Spicy",
+    "emoji": "🟤",
+    "description": "Smells like maple syrup and curry at once. Warm, sweet and savoury."
+  },
+  {
+    "name": "Costus",
+    "family": "Earthy",
+    "emoji": "🐾",
+    "description": "A root with a waxy, hairy, animalic smell, sometimes compared to unwashed hair. Adds sensual depth in small doses.",
+    "aliases": [
+      "Costus Root"
+    ]
+  },
+  {
+    "name": "Lavandin",
+    "family": "Aromatic",
+    "emoji": "💜",
+    "description": "A hybrid of lavender that's sharper and more camphorous. Fresh and herbal."
+  },
+  {
+    "name": "Myrtle",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "A Mediterranean shrub: fresh, green and slightly medicinal, between eucalyptus and bay leaf."
+  },
+  {
+    "name": "Mace",
+    "family": "Spicy",
+    "emoji": "🟠",
+    "description": "The lacy outer layer of nutmeg: warm, peppery and a little sharper than nutmeg itself."
+  },
+  {
+    "name": "Caraway",
+    "family": "Spicy",
+    "emoji": "🟤",
+    "description": "Warm, slightly minty and anise-like seed, as in rye bread. Close cousin of cumin."
+  },
+  {
+    "name": "Pimento",
+    "family": "Spicy",
+    "emoji": "🌶️",
+    "description": "Allspice: smells like a mix of clove, cinnamon and pepper. Warm and festive.",
+    "aliases": [
+      "Pimento Berry",
+      "Pimento Berry Oil",
+      "Allspice"
+    ]
+  },
+  {
+    "name": "Angelica",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "A root with a musky, earthy and slightly peppery-green smell. Adds an unusual, herbal depth.",
+    "aliases": [
+      "Angelica Root",
+      "Angelica Seed"
+    ]
+  },
+  {
+    "name": "Artemisia",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Wormwood and its relatives: bitter, herbal and slightly medicinal. Fresh and green.",
+    "aliases": [
+      "Wormwood"
+    ]
+  },
+  {
+    "name": "Melon",
+    "family": "Fruity",
+    "emoji": "🍈",
+    "description": "Juicy, watery and sweet. A hallmark of fresh, aquatic perfumes from the 1990s.",
+    "aliases": [
+      "Honey Melon"
+    ]
+  },
+  {
+    "name": "Blackberry",
+    "family": "Fruity",
+    "emoji": "🫐",
+    "description": "Dark, tart and jammy berry. Juicy with a hint of green leaf."
+  },
+  {
+    "name": "Nectarine",
+    "family": "Fruity",
+    "emoji": "🍑",
+    "description": "Juicy and sunny like peach, but a little brighter and less fuzzy."
+  },
+  {
+    "name": "Prunol",
+    "family": "Fruity",
+    "emoji": "🟣",
+    "description": "An accord that recreates dried plum: dark, jammy and slightly boozy."
+  },
+  {
+    "name": "Cucumber",
+    "family": "Green",
+    "emoji": "🥒",
+    "description": "Cool, watery and green, like a freshly sliced cucumber. Made with aroma-chemicals, it adds a crisp, dewy freshness to openings."
+  },
+  {
+    "name": "Milk",
+    "family": "Gourmand",
+    "emoji": "🥛",
+    "description": "A soft, creamy, slightly sweet note that smells like warm milk. It's built from lactones and other creamy molecules, since milk itself can't be distilled.",
+    "aliases": [
+      "Fresh Milk",
+      "Milk Accord"
+    ]
+  },
+  {
+    "name": "Lactones",
+    "family": "Gourmand",
+    "emoji": "🍑",
+    "description": "Aroma-chemicals with a creamy, milky smell, often with a peach or coconut edge. They give gourmand perfumes their smooth, dairy-like softness.",
+    "aliases": [
+      "Lactone"
+    ]
+  },
+  {
+    "name": "Cream",
+    "family": "Gourmand",
+    "emoji": "🍦",
+    "description": "A rich, buttery, whipped-cream note that makes a perfume feel soft and dessert-like.",
+    "aliases": [
+      "Whipped Cream",
+      "Whipped Egg Cream",
+      "Cream Accord"
+    ]
+  },
+  {
+    "name": "Brown Sugar",
+    "family": "Gourmand",
+    "emoji": "🟫",
+    "description": "A warm, caramel-edged sweetness, darker and more molasses-like than white sugar.",
+    "aliases": [
+      "Sugar"
+    ]
+  },
+  {
+    "name": "Bamboo",
+    "family": "Green",
+    "emoji": "🎋",
+    "description": "A light, green, slightly watery note evoking fresh bamboo stalks and leaves. It's a fantasy accord, since bamboo has very little scent of its own."
+  },
+  {
+    "name": "Matcha",
+    "family": "Green",
+    "emoji": "🍵",
+    "description": "Powdered Japanese green tea: grassy, slightly bitter and creamy, greener and more vegetal than brewed tea.",
+    "aliases": [
+      "Matcha Tea"
+    ]
+  },
+  {
+    "name": "Rice",
+    "family": "Gourmand",
+    "emoji": "🍚",
+    "description": "A soft, starchy, gently sweet note like steamed rice. Jasmine rice adds a nutty, popcorn-like aroma.",
+    "aliases": [
+      "Jasmine Rice",
+      "Rice Tincture",
+      "Rice Accord"
+    ]
+  },
+  {
+    "name": "Lotus",
+    "family": "Floral",
+    "emoji": "🪷",
+    "description": "A clean, watery, gently powdery floral evoking lotus blooms on still water. Usually a recreated accord rather than a real extract."
+  },
+  {
+    "name": "Pandan",
+    "family": "Green",
+    "emoji": "🌿",
+    "description": "A Southeast Asian leaf with a sweet, grassy, vanilla-and-rice-like smell, used in desserts across Vietnam and the region.",
+    "aliases": [
+      "Pandan Leaf"
+    ]
+  },
+  {
+    "name": "Corn",
+    "family": "Gourmand",
+    "emoji": "🌽",
+    "description": "A sweet, buttery, slightly toasted note like fresh sweet corn or corn custard.",
+    "aliases": [
+      "Sweet Corn"
+    ]
+  },
+  {
+    "name": "Cognac",
+    "family": "Gourmand",
+    "emoji": "🥃",
+    "description": "A boozy note of aged grape brandy: warm, fruity, woody and a little sweet.",
+    "aliases": [
+      "Brandy",
+      "Aged Spirits"
+    ]
+  },
+  {
+    "name": "Tonalide",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A synthetic musk with a soft, sweet, powdery and slightly woody smell, used to give a clean, cosy trail.",
+    "aliases": [
+      "Tonalite"
+    ]
+  },
+  {
+    "name": "Mango",
+    "family": "Fruity",
+    "emoji": "🥭",
+    "description": "Juicy, tropical and sweet, with a slightly resinous, green edge from the mango skin."
+  },
+  {
+    "name": "Cannabis",
+    "family": "Green",
+    "emoji": "🌿",
+    "description": "A green, herbal, slightly skunky and resinous note recreating the smell of hemp leaves, not the drug's effects.",
+    "aliases": [
+      "Hemp Leaf",
+      "Hemp",
+      "Weed"
+    ]
+  },
+  {
+    "name": "Guava",
+    "family": "Fruity",
+    "emoji": "🍈",
+    "description": "A tropical fruit with a sweet, musky, slightly floral smell. Guava leaf is greener and more herbal.",
+    "aliases": [
+      "Guava Leaf"
+    ]
+  },
+  {
+    "name": "Watermelon",
+    "family": "Fruity",
+    "emoji": "🍉",
+    "description": "Light, juicy and watery, the smell of fresh watermelon flesh. Often made with calone-like aroma-chemicals."
+  },
+  {
+    "name": "Ginseng",
+    "family": "Earthy",
+    "emoji": "🫚",
+    "description": "A root with an earthy, slightly bitter and woody smell, bringing a dry, rooty freshness."
+  },
+  {
+    "name": "Parsley",
+    "family": "Green",
+    "emoji": "🌿",
+    "description": "A sharp, green, slightly peppery herb note, rare in perfume, that adds a savoury freshness."
+  },
+  {
+    "name": "Eucalyptus",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Cool, camphorous and medicinal, like a fresh eucalyptus leaf crushed between your fingers."
+  },
+  {
+    "name": "Citrus Notes",
+    "family": "Citrus",
+    "emoji": "🍊",
+    "description": "A general blend of citrus fruits (lemon, orange, bergamot and the like) used for a bright, zesty opening.",
+    "aliases": [
+      "Citrus",
+      "Citruses"
+    ]
+  },
+  {
+    "name": "Hay",
+    "family": "Earthy",
+    "emoji": "🌾",
+    "description": "Warm, dry and sweet, like sun-dried grass. Hay absolute gets much of its smell from coumarin.",
+    "aliases": [
+      "Hay Absolute"
+    ]
+  },
+  {
+    "name": "Honeysuckle",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "A sweet, nectar-like white flower with a honeyed, slightly green scent."
+  },
+  {
+    "name": "Moss",
+    "family": "Earthy",
+    "emoji": "🌱",
+    "description": "A damp, green, earthy forest-floor note. In perfume it usually means oakmoss or tree moss, or a substitute for them.",
+    "aliases": [
+      "Tree Moss"
+    ]
+  },
+  {
+    "name": "White Flowers",
+    "family": "Floral",
+    "emoji": "💮",
+    "description": "A blend of creamy white blossoms such as jasmine, tuberose and orange blossom, used for a soft, luminous floral feel.",
+    "aliases": [
+      "White Floral",
+      "Transparent Florals"
+    ]
+  },
+  {
+    "name": "Red Berries",
+    "family": "Fruity",
+    "emoji": "🍓",
+    "description": "A juicy, slightly tart blend of berries such as raspberry, strawberry and redcurrant.",
+    "aliases": [
+      "Red Fruits",
+      "Berries"
+    ]
+  },
+  {
+    "name": "Strawberry",
+    "family": "Fruity",
+    "emoji": "🍓",
+    "description": "Sweet, jammy and juicy, the smell of ripe strawberries."
+  },
+  {
+    "name": "Lychee",
+    "family": "Fruity",
+    "emoji": "🍈",
+    "description": "A tropical fruit with a sweet, rosy, slightly watery scent. It pairs naturally with rose.",
+    "aliases": [
+      "Litchi"
+    ]
+  },
+  {
+    "name": "Citron",
+    "family": "Citrus",
+    "emoji": "🍋",
+    "description": "An old, thick-skinned citrus fruit with a dry, zesty, less juicy smell than lemon.",
+    "aliases": [
+      "Cedrat"
+    ]
+  },
+  {
+    "name": "Verbena",
+    "family": "Citrus",
+    "emoji": "🌿",
+    "description": "A herb with a bright, lemony, slightly green scent, fresher and softer than lemon itself.",
+    "aliases": [
+      "Lemon Verbena"
+    ]
+  },
+  {
+    "name": "Smoke",
+    "family": "Earthy",
+    "emoji": "🔥",
+    "description": "A dry, smoky note like a wood fire or smouldering incense, often from birch tar or cade.",
+    "aliases": [
+      "Smoky Notes"
+    ]
+  },
+  {
+    "name": "Spices",
+    "family": "Spicy",
+    "emoji": "🌶️",
+    "description": "A general blend of warm kitchen spices such as cinnamon, clove and nutmeg.",
+    "aliases": [
+      "Spicy Notes"
+    ]
+  },
+  {
+    "name": "Orcanox",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "A modern aroma-chemical with a dry, woody-amber smell close to ambergris, used to add warmth and lasting power."
+  },
+  {
+    "name": "Davana",
+    "family": "Fruity",
+    "emoji": "🌿",
+    "description": "An Indian herb whose oil smells boozy, fruity and a little like dried apricots."
+  },
+  {
+    "name": "Pittosporum",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "A shrub with small, sweet-smelling flowers, like orange blossom with a honeyed edge."
+  },
+  {
+    "name": "Maltol",
+    "family": "Gourmand",
+    "emoji": "🍬",
+    "description": "An aroma-chemical that smells of caramelised sugar and candy floss, giving a sweet, baked feel."
+  },
+  {
+    "name": "Datura",
+    "family": "Floral",
+    "emoji": "🌺",
+    "description": "A trumpet-shaped night flower with a heady, creamy white-floral scent, close to tuberose."
+  },
+  {
+    "name": "Resins",
+    "family": "Amber",
+    "emoji": "🟤",
+    "description": "Thick tree saps such as benzoin, labdanum and myrrh: warm, balsamic and slightly sweet.",
+    "aliases": [
+      "Resin",
+      "Balsams"
+    ]
+  },
+  {
+    "name": "Amyris",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A Caribbean wood with a soft, slightly smoky, sandalwood-like smell, sometimes called West Indian sandalwood."
+  },
+  {
+    "name": "Marjoram",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "A herb close to oregano, warm, sweet and slightly camphorous."
+  },
+  {
+    "name": "Thyme",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "A Mediterranean herb with a warm, dry, slightly medicinal smell."
+  },
+  {
+    "name": "Fennel",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "A herb with a sweet, aniseed-like smell, greener and lighter than anise."
+  },
+  {
+    "name": "Cascarilla",
+    "family": "Spicy",
+    "emoji": "🪵",
+    "description": "The bark of a Caribbean shrub with a warm, peppery, slightly woody smell."
+  },
+  {
+    "name": "Ivy",
+    "family": "Green",
+    "emoji": "🍃",
+    "description": "A dark, crisp green-leaf note, a little bitter, like crushed ivy leaves.",
+    "aliases": [
+      "Green Ivy"
+    ]
+  },
+  {
+    "name": "Ambrettolide",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A synthetic musk that smells soft, fruity and powdery, similar to ambrette seed."
+  },
+  {
+    "name": "Bayberry",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "The myrica shrub, with a resinous, herbal, slightly spicy smell like bay leaves.",
+    "aliases": [
+      "Myrica"
+    ]
+  },
+  {
+    "name": "Marigold",
+    "family": "Floral",
+    "emoji": "🌼",
+    "description": "Tagetes, with a green, fruity, slightly bitter scent reminiscent of crushed leaves and apple.",
+    "aliases": [
+      "Tagetes",
+      "Tagete"
+    ]
+  },
+  {
+    "name": "Four O'Clock Flower",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "Mirabilis jalapa, a flower that opens late in the afternoon with a sweet, delicate scent.",
+    "aliases": [
+      "Mirabilis Jalapa"
+    ]
+  },
+  {
+    "name": "Spun Sugar",
+    "family": "Gourmand",
+    "emoji": "🍭",
+    "description": "The airy sweetness of candy floss, sugary and lightly caramelised.",
+    "aliases": [
+      "Cotton Candy",
+      "Candy Floss"
+    ]
+  },
+  {
+    "name": "Chestnut",
+    "family": "Gourmand",
+    "emoji": "🌰",
+    "description": "Roasted chestnuts: nutty, warm, slightly sweet and smoky."
+  },
+  {
+    "name": "Cade",
+    "family": "Woody",
+    "emoji": "🔥",
+    "description": "An oil from juniper wood with a strongly smoky, tarry smell, like a campfire.",
+    "aliases": [
+      "Cade Oil"
+    ]
+  },
+  {
+    "name": "Carrot Seed",
+    "family": "Earthy",
+    "emoji": "🥕",
+    "description": "An earthy, woody, slightly sweet oil whose smell is close to orris (iris root).",
+    "aliases": [
+      "Carrot Seeds"
+    ]
+  },
+  {
+    "name": "Nettle",
+    "family": "Green",
+    "emoji": "🌿",
+    "description": "A green, herbal, slightly metallic note evoking fresh nettle leaves."
+  },
+  {
+    "name": "Peach Blossom",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "A light, sweet floral with a soft hint of peach fruit."
+  },
+  {
+    "name": "Tomato Leaf",
+    "family": "Green",
+    "emoji": "🍅",
+    "description": "Sharp, green and slightly bitter, the smell of rubbing a tomato plant's leaves."
+  },
+  {
+    "name": "Paradisone",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "A purer, stronger form of Hedione: an aroma-chemical with an airy, radiant jasmine-like freshness that makes a perfume feel brighter and more transparent."
+  },
+  {
+    "name": "Cetalox",
+    "family": "Amber",
+    "emoji": "🟠",
+    "description": "A brand of Ambroxide, the molecule behind ambergris: dry, woody, slightly salty and skin-like, with great lasting power.",
+    "aliases": [
+      "Cétalox"
+    ]
+  },
+  {
+    "name": "Cachalox",
+    "family": "Amber",
+    "emoji": "🐋",
+    "description": "An aroma-chemical recreating the warm, animalic, salty smell of natural ambergris (the name nods to the sperm whale, 'cachalot')."
+  },
+  {
+    "name": "Muscenone",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A modern musk molecule with a rich, warm, slightly animalic smell, close to natural musk.",
+    "aliases": [
+      "Muscenone Delta",
+      "Muscenone Dextro"
+    ]
+  },
+  {
+    "name": "Muscone",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "The main scent molecule of natural deer musk, now made synthetically: warm, soft, animalic and skin-like."
+  },
+  {
+    "name": "Exaltolide",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A clean, smooth musk molecule with a soft, slightly sweet, powdery character. One of the most used musks in fine fragrance."
+  },
+  {
+    "name": "Exaltone",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A musk molecule with a warm, rich, animalic edge, like a velvety skin scent."
+  },
+  {
+    "name": "Habanolide",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A clean, metallic-fresh musk that smells like freshly ironed laundry."
+  },
+  {
+    "name": "Helvetolide",
+    "family": "Musky",
+    "emoji": "☁️",
+    "description": "A fruity, pear-like musk that gives a soft, clean, slightly sweet trail."
+  },
+  {
+    "name": "Dreamwood",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A sustainable sandalwood substitute with a creamy, milky, rich wood smell."
+  },
+  {
+    "name": "Clearwood",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A clean, bright, patchouli-like wood made by fermentation, without patchouli's earthy, camphor side."
+  },
+  {
+    "name": "Vulcanolide",
+    "family": "Woody",
+    "emoji": "🌋",
+    "description": "A woody, mineral, slightly smoky musk with a dry, sunbaked-rock feel."
+  },
+  {
+    "name": "Limbanol",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A woody aroma-chemical with a dry, ambery, cedar-like smell.",
+    "aliases": [
+      "Norlimbanol"
+    ]
+  },
+  {
+    "name": "Woodleather",
+    "family": "Leather",
+    "emoji": "🧥",
+    "description": "A woody-leathery accord with the dry, smoky smell of soft leather and wood."
+  },
+  {
+    "name": "Cascalone",
+    "family": "Aquatic",
+    "emoji": "🌊",
+    "description": "A marine molecule related to Calone, smelling of sea air, fresh water and a hint of melon."
+  },
+  {
+    "name": "Irone",
+    "family": "Floral",
+    "emoji": "💜",
+    "description": "The molecule that gives iris root (orris) its powdery, violet-like, slightly woody smell."
+  },
+  {
+    "name": "Z11",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A woody-amber aroma-chemical with a dry, warm, slightly velvety smell, used to add depth and lasting power."
+  },
+  {
+    "name": "Chamomile",
+    "family": "Aromatic",
+    "emoji": "🌼",
+    "description": "A herbal, apple-like, slightly honeyed scent, calm and soothing like chamomile tea.",
+    "aliases": [
+      "Camomile"
+    ]
+  },
+  {
+    "name": "Gurjun Balsam",
+    "family": "Woody",
+    "emoji": "🌳",
+    "description": "A resin from Asian dipterocarp trees, woody and slightly earthy, often used to soften and fix other notes.",
+    "aliases": [
+      "Gurjum"
+    ]
+  },
+  {
+    "name": "Hawthorn",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "A spring blossom with an almond-like, slightly powdery and honeyed smell.",
+    "aliases": [
+      "Aubépine"
+    ]
+  },
+  {
+    "name": "Liatris",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "Also called deer's tongue: a plant with a hay-like, vanilla-tinged, coumarin-rich smell.",
+    "aliases": [
+      "Deer's Tongue",
+      "Liatrix"
+    ]
+  },
+  {
+    "name": "White Woods",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A clean, pale, smooth woody accord, soft and dry rather than smoky or dark.",
+    "aliases": [
+      "Blond Woods"
+    ]
+  },
+  {
+    "name": "Sun-Warmed Woods",
+    "family": "Woody",
+    "emoji": "☀️",
+    "description": "A warm, dry woody accord evoking wood baking in the sun.",
+    "aliases": [
+      "Solar Woods"
+    ]
+  },
+  {
+    "name": "Cyclamen",
+    "family": "Floral",
+    "emoji": "🌸",
+    "description": "A delicate, watery, slightly green floral, airy and fresh rather than heady."
+  },
+  {
+    "name": "Pomelo",
+    "family": "Citrus",
+    "emoji": "🍊",
+    "description": "The largest citrus fruit, smelling like a softer, sweeter, less bitter grapefruit."
+  },
+  {
+    "name": "Buchu",
+    "family": "Aromatic",
+    "emoji": "🌿",
+    "description": "A South African herb with a sharp, minty-fruity smell, often compared to blackcurrant."
+  },
+  {
+    "name": "Rosewood",
+    "family": "Woody",
+    "emoji": "🪵",
+    "description": "A smooth, slightly rosy and spicy wood. Brazilian rosewood is now protected, so it's usually recreated.",
+    "aliases": [
+      "Brazilian Rosewood",
+      "Bois de Rose"
+    ]
+  },
+  {
+    "name": "Crème Brûlée",
+    "family": "Gourmand",
+    "emoji": "🍮",
+    "description": "Vanilla custard under a crackling caramelised sugar crust: creamy, eggy and burnt-sweet.",
+    "aliases": [
+      "Creme Brulee"
+    ]
+  },
+  {
+    "name": "Tulip",
+    "family": "Floral",
+    "emoji": "🌷",
+    "description": "Real tulips barely smell, so the note is an accord: green, fresh and lightly floral, like crisp petals and stems."
+  },
+  {
+    "name": "Naseberry",
+    "family": "Fruity",
+    "emoji": "🍐",
+    "description": "Also called sapodilla: a tropical fruit with a sweet, malty, pear-and-brown-sugar smell.",
+    "aliases": [
+      "Jamaican Naseberry",
+      "Sapodilla"
+    ]
+  },
+  {
+    "name": "Limoncello",
+    "family": "Gourmand",
+    "emoji": "🍋",
+    "description": "The Italian lemon liqueur: sweet, sugary lemon peel with a boozy kick."
+  }
+]

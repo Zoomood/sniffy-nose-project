@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Ganymede",
+    "brand": "Marc-Antoine Barrois",
+    "aliases": [
+      "ganymed",
+      "ganymede edp"
+    ],
+    "year": "2019",
+    "perfumer": "Quentin Bisch",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "Woody",
+      "Mineral",
+      "Leather"
+    ],
+    "description": "A bright, almost metallic opening of mandarin and saffron that settles into a soft, suede-like skin scent. It smells cool and mineral, like warm stone after rain, with a gentle floral heart of violet and osmanthus.",
+    "top": [
+      {
+        "name": "Mandarin Orange",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Saffron",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Violet Leaf",
+        "sources": [
+          "retailer"
+        ]
+      }
+    ],
+    "heart": [
+      {
+        "name": "Violet",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Osmanthus",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Immortelle",
+        "sources": [
+          "retailer"
+        ]
+      }
+    ],
+    "base": [
+      {
+        "name": "Immortelle",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Akigalawood",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Suede",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Mineral Notes",
+        "sources": [
+          "retailer"
+        ]
+      }
+    ],
+    "flat_pyramid": false,
+    "brand_url": "https://www.marcantoinebarrois.com",
+    "fragrantica_url": "https://www.fragrantica.com/search/?query=Ganymede%20Marc-Antoine%20Barrois",
+    "source_note": "Compiled by hand from retailer listings, which disagree on the base: some list immortelle and akigalawood, others add suede and mineral notes. Not yet checked against the brand site."
+  },
+  {
+    "name": "Sauvage",
+    "brand": "Dior",
+    "aliases": [
+      "sauvage edt",
+      "dior sauvage"
+    ],
+    "year": "2015",
+    "perfumer": "François Demachy",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "Aromatic",
+      "Fresh Spicy"
+    ],
+    "description": "A loud, peppery-fresh blast of bergamot that dries down to a smooth, salty-woody ambroxan trail. Clean, bright and long-lasting - the scent of a freshly showered crowd-pleaser.",
+    "top": [
+      {
+        "name": "Bergamot",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Pepper",
+        "sources": [
+          "retailer"
+        ]
+      }
+    ],
+    "heart": [
+      {
+        "name": "Sichuan Pepper",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Lavender",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Pink Pepper",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Vetiver",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Patchouli",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Geranium",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Elemi",
+        "sources": [
+          "retailer"
+        ]
+      }
+    ],
+    "base": [
+      {
+        "name": "Ambroxan",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Cedar",
+        "sources": [
+          "retailer"
+        ]
+      },
+      {
+        "name": "Labdanum",
+        "sources": [
+          "retailer"
+        ]
+      }
+    ],
+    "flat_pyramid": false,
+    "brand_url": "https://www.dior.com",
+    "fragrantica_url": "https://www.fragrantica.com/search/?query=Dior%20Sauvage",
+    "source_note": "Compiled by hand from retailer listings. Not yet checked against the brand site."
+  }
+]

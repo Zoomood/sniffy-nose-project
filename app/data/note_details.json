@@ -1,0 +1,4059 @@
+{
+ "Bergamot": {
+  "type": "Natural",
+  "plant": "Citrus bergamia",
+  "source": "Cold-pressed from the peel of the bergamot orange. About 80% of the world's supply grows on a narrow strip of coast around Reggio Calabria in southern Italy.",
+  "history": "Grown in Calabria since the 1700s, bergamot became the heart of the original Eau de Cologne made by Giovanni Maria Farina in Cologne in 1709. Today perfumers use a 'bergapten-free' version, with the compound that makes skin sensitive to sunlight removed.",
+  "molecules": [
+   [
+    "Linalyl acetate",
+    "fresh, fruity and lightly floral"
+   ],
+   [
+    "Limonene",
+    "bright orange-peel sparkle"
+   ],
+   [
+    "Linalool",
+    "soft, floral-woody freshness"
+   ]
+  ]
+ },
+ "Lemon": {
+  "type": "Natural",
+  "plant": "Citrus limon",
+  "source": "Cold-pressed from lemon peel, mainly in Argentina, Sicily and Spain.",
+  "history": "The lemon came from the foothills of the Himalayas and reached the Mediterranean with Arab traders around the 10th century. It was one of the key citrus oils in the 18th-century colognes.",
+  "molecules": [
+   [
+    "Limonene",
+    "juicy citrus peel"
+   ],
+   [
+    "Citral (geranial and neral)",
+    "the sharp, zesty 'lemon' smell"
+   ],
+   [
+    "Beta-pinene",
+    "a fresh, slightly piney edge"
+   ]
+  ]
+ },
+ "Mandarin Orange": {
+  "type": "Natural",
+  "plant": "Citrus reticulata",
+  "source": "Cold-pressed from mandarin peel, mostly in Sicily, Brazil and China. Green, yellow and red oils are pressed at different stages of ripeness.",
+  "history": "Native to China, the fruit takes its name from the mandarins, officials of the imperial court. It reached Europe only in the early 1800s.",
+  "molecules": [
+   [
+    "Limonene",
+    "the citrus body"
+   ],
+   [
+    "Methyl N-methylanthranilate",
+    "the sweet, juicy signature of mandarin"
+   ],
+   [
+    "Gamma-terpinene",
+    "a sharp, green-citrus lift"
+   ]
+  ]
+ },
+ "Orange": {
+  "type": "Natural",
+  "plant": "Citrus sinensis",
+  "source": "Sweet orange oil is cold-pressed from the peel, a by-product of the juice industry in Brazil and Florida.",
+  "history": "Portuguese traders brought the sweet orange from Asia to Europe in the 15th and 16th centuries, and orangeries became a status symbol for European royalty.",
+  "molecules": [
+   [
+    "Limonene",
+    "makes up about 95% of the oil: sunny orange peel"
+   ],
+   [
+    "Decanal",
+    "the waxy, peel-like 'orange' aldehyde"
+   ],
+   [
+    "Octanal",
+    "a sharper, fatty-citrus edge"
+   ]
+  ]
+ },
+ "Grapefruit": {
+  "type": "Natural & synthetic",
+  "plant": "Citrus paradisi",
+  "source": "Cold-pressed from the peel, mainly in the USA, Israel and South Africa. Its key molecule, nootkatone, is often made by fermentation.",
+  "history": "Grapefruit is a natural cross between pomelo and sweet orange that appeared in 18th-century Barbados, where it was called the 'forbidden fruit'.",
+  "molecules": [
+   [
+    "Nootkatone",
+    "the bitter, juicy grapefruit signature"
+   ],
+   [
+    "1-p-Menthene-8-thiol",
+    "a sulphur molecule so strong it's smelled in parts per trillion"
+   ],
+   [
+    "Limonene",
+    "the citrus base"
+   ]
+  ]
+ },
+ "Lime": {
+  "type": "Natural",
+  "plant": "Citrus aurantiifolia",
+  "source": "Pressed or steam-distilled from limes in Mexico and Peru. Distilled lime oil is the classic cola flavour.",
+  "history": "Limes came from Southeast Asia. In the 19th century the British navy gave sailors lime juice against scurvy, which is how they got the nickname 'limeys'.",
+  "molecules": [
+   [
+    "Limonene",
+    "zesty citrus"
+   ],
+   [
+    "Citral",
+    "sharp lemony freshness"
+   ],
+   [
+    "Alpha-terpineol",
+    "the sweet 'lime candy' note of distilled lime"
+   ]
+  ]
+ },
+ "Yuzu": {
+  "type": "Natural",
+  "plant": "Citrus junos",
+  "source": "Pressed from the peel of yuzu fruit grown in Japan (especially Kochi) and Korea. The oil is rare and costly, so most yuzu notes are recreated.",
+  "history": "Yuzu came to Japan from China more than a thousand years ago. On the winter solstice, people still take baths with whole yuzu floating in the water.",
+  "molecules": [
+   [
+    "Limonene",
+    "the citrus body"
+   ],
+   [
+    "Gamma-terpinene",
+    "a green, tart sparkle"
+   ],
+   [
+    "Linalool",
+    "a soft floral touch"
+   ]
+  ]
+ },
+ "Neroli": {
+  "type": "Natural",
+  "plant": "Citrus aurantium",
+  "source": "Steam-distilled from the white blossoms of the bitter orange tree in Tunisia, Morocco, Egypt and the south of France. It takes about a tonne of flowers to make one kilo of oil.",
+  "history": "It's named after Anne-Marie Orsini, princess of Nerola, who used it to scent her gloves and baths in the late 1600s, making it fashionable in Europe.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Linalyl acetate",
+    "bright, bergamot-like"
+   ],
+   [
+    "Methyl anthranilate",
+    "a grape-like sweetness typical of orange flowers"
+   ]
+  ]
+ },
+ "Petitgrain": {
+  "type": "Natural",
+  "plant": "Citrus aurantium",
+  "source": "Steam-distilled from the leaves and twigs of the bitter orange tree, mainly in Paraguay and around the Mediterranean.",
+  "history": "Its name means 'little grain', because it was first distilled from small, unripe oranges. It has been a classic of colognes since the 18th century.",
+  "molecules": [
+   [
+    "Linalyl acetate",
+    "fresh and fruity"
+   ],
+   [
+    "Linalool",
+    "floral-woody"
+   ],
+   [
+    "Geranyl acetate",
+    "a green, rosy touch"
+   ]
+  ]
+ },
+ "Rose": {
+  "type": "Natural & synthetic",
+  "plant": "Rosa damascena",
+  "source": "Damask rose is grown in Bulgaria's Valley of Roses and in Isparta, Turkey. The May rose (Rosa centifolia) is grown around Grasse and in Morocco. About 3,500 kg of petals make 1 kg of rose oil.",
+  "history": "The Persian physician Ibn Sina (Avicenna) refined the steam distillation of rose water around the year 1000. Bulgaria has produced rose oil since the 17th century.",
+  "molecules": [
+   [
+    "Phenylethyl alcohol",
+    "a fresh, honeyed rose petal"
+   ],
+   [
+    "Citronellol and geraniol",
+    "the rosy, slightly lemony core"
+   ],
+   [
+    "Beta-damascenone",
+    "tiny amounts give a jammy, fruity depth"
+   ]
+  ]
+ },
+ "Jasmine": {
+  "type": "Natural & synthetic",
+  "plant": "Jasminum grandiflorum",
+  "source": "The flowers are picked by hand at dawn and solvent-extracted into an absolute, mainly in India and Egypt, with a little still grown around Grasse.",
+  "history": "Jasmine has been grown around Grasse since the 17th century and became the signature flower of French perfumery. In 1962 Firmenich created Hedione, a synthetic molecule inspired by jasmine.",
+  "molecules": [
+   [
+    "Benzyl acetate",
+    "a fruity, banana-like floral"
+   ],
+   [
+    "Indole",
+    "an animalic, slightly 'dirty' warmth"
+   ],
+   [
+    "Methyl jasmonate",
+    "the glowing, airy jasmine note"
+   ]
+  ]
+ },
+ "Tuberose": {
+  "type": "Natural",
+  "plant": "Polianthes tuberosa",
+  "source": "Solvent-extracted from the flowers, today mainly in Tamil Nadu, India. It's one of the most expensive floral absolutes.",
+  "history": "The Aztecs grew it in Mexico. Spanish explorers brought it to Europe in the 16th century, and it was grown around Grasse for centuries.",
+  "molecules": [
+   [
+    "Methyl benzoate",
+    "a heady, medicinal-floral note"
+   ],
+   [
+    "Methyl salicylate",
+    "a minty wintergreen coolness"
+   ],
+   [
+    "Lactones",
+    "a creamy, coconut-like softness"
+   ]
+  ]
+ },
+ "Ylang-Ylang": {
+  "type": "Natural",
+  "plant": "Cananga odorata",
+  "source": "Steam-distilled from the flowers in the Comoros, Madagascar and Mayotte. The distillation is split into grades from 'Extra' (the first and finest) to 'III'.",
+  "history": "The name comes from Tagalog in the Philippines. The French planted it in Réunion and the Comoros in the late 1800s, and it became famous in Chanel No 5 (1921).",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Benzyl acetate",
+    "fruity jasmine-like"
+   ],
+   [
+    "p-Cresyl methyl ether",
+    "the creamy, banana-custard character"
+   ]
+  ]
+ },
+ "Iris": {
+  "type": "Natural & synthetic",
+  "plant": "Iris pallida",
+  "source": "From the rhizomes (roots) of iris grown around Florence. The roots are dried for three years before distillation into 'orris butter', which can cost more than gold by weight.",
+  "history": "Orris root powder scented linen and wigs in Renaissance Europe, and the iris is the emblem of Florence. Its smell only develops as the root slowly ages.",
+  "molecules": [
+   [
+    "Irones (alpha and gamma)",
+    "powdery, violet-like, slightly woody: formed as the root ages"
+   ],
+   [
+    "Myristic acid",
+    "odourless, it makes orris oil solid like butter"
+   ]
+  ]
+ },
+ "Violet": {
+  "type": "Synthetic",
+  "plant": "Viola odorata",
+  "source": "Real violet flower oil is almost impossible to make, so violet is recreated with ionones.",
+  "history": "In 1893 the chemists Ferdinand Tiemann and Paul Krüger made the first ionones. Violet scents became a craze, especially Parma violets grown around Toulouse.",
+  "molecules": [
+   [
+    "Alpha-ionone",
+    "sweet, powdery violet"
+   ],
+   [
+    "Beta-ionone",
+    "violet with a woody, raspberry edge"
+   ],
+   [
+    "Methyl ionones",
+    "softer, more orris-like"
+   ]
+  ]
+ },
+ "Violet Leaf": {
+  "type": "Natural",
+  "plant": "Viola odorata",
+  "source": "Solvent-extracted from violet leaves grown in France and Egypt.",
+  "history": "Violet leaf became a modern classic of 'green' masculine perfumes such as Grey Flannel (1975) and Dior's Fahrenheit (1988).",
+  "molecules": [
+   [
+    "2,6-Nonadienal",
+    "green cucumber and cut leaves"
+   ],
+   [
+    "2-Nonenal",
+    "a waxy, green melon note"
+   ],
+   [
+    "cis-3-Hexenol",
+    "fresh-cut grass"
+   ]
+  ]
+ },
+ "Lavender": {
+  "type": "Natural",
+  "plant": "Lavandula angustifolia",
+  "source": "Steam-distilled from the flowering tops, mainly in Haute-Provence in France and in Bulgaria (now the biggest producer).",
+  "history": "The Romans scented their baths with it (its name comes from Latin 'lavare', to wash). In 1882 Houbigant's Fougère Royale paired lavender with coumarin and created the fougère family.",
+  "molecules": [
+   [
+    "Linalool",
+    "soft, floral-woody"
+   ],
+   [
+    "Linalyl acetate",
+    "sweet and fresh"
+   ],
+   [
+    "Camphor",
+    "a cool, medicinal touch"
+   ]
+  ]
+ },
+ "Lily of the Valley": {
+  "type": "Synthetic",
+  "plant": "Convallaria majalis",
+  "source": "A 'mute' flower: no usable oil can be extracted, so its scent is always recreated by perfumers.",
+  "history": "Edmond Roudnitska made the definitive lily of the valley perfume, Dior's Diorissimo, in 1956. Several classic lily-of-the-valley molecules (Lilial, Lyral) have since been banned in the EU as allergens.",
+  "molecules": [
+   [
+    "Hydroxycitronellal",
+    "fresh, green-floral muguet"
+   ],
+   [
+    "Florol",
+    "a modern clean, dewy floral"
+   ],
+   [
+    "Bourgeonal",
+    "a bright, airy muguet"
+   ]
+  ]
+ },
+ "Orange Blossom": {
+  "type": "Natural",
+  "plant": "Citrus aurantium",
+  "source": "Solvent-extracted from bitter orange flowers in Tunisia, Morocco and Egypt. The same flowers give neroli when steam-distilled.",
+  "history": "Orange flower water has been made in the Mediterranean and Middle East for centuries. Brides wore orange blossom in Europe as a symbol of purity.",
+  "molecules": [
+   [
+    "Methyl anthranilate",
+    "sweet, grape-like"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Indole",
+    "warm, animalic and heady"
+   ]
+  ]
+ },
+ "Osmanthus": {
+  "type": "Natural",
+  "plant": "Osmanthus fragrans",
+  "source": "Solvent-extracted from tiny flowers in China, especially around Guilin, whose name means 'forest of sweet osmanthus'.",
+  "history": "In China osmanthus has flavoured tea, wine and sweets for centuries. It became a niche-perfume favourite for its apricot-and-leather smell.",
+  "molecules": [
+   [
+    "Beta-ionone",
+    "violet-like and woody"
+   ],
+   [
+    "Gamma-decalactone",
+    "a ripe apricot or peach"
+   ],
+   [
+    "Dihydro-beta-ionone",
+    "soft, woody and slightly leathery"
+   ]
+  ]
+ },
+ "Gardenia": {
+  "type": "Synthetic",
+  "plant": "Gardenia jasminoides",
+  "source": "Gardenia gives almost no extract, so perfumers rebuild its smell from other materials.",
+  "history": "The plant was named in 1761 after Alexander Garden, a Scottish-American naturalist. It is native to southern China and Japan.",
+  "molecules": [
+   [
+    "Styrallyl acetate",
+    "the green, fruity 'gardenia' key"
+   ],
+   [
+    "Benzyl acetate",
+    "jasmine-like"
+   ],
+   [
+    "Gamma-lactones",
+    "a creamy, coconut softness"
+   ]
+  ]
+ },
+ "Magnolia": {
+  "type": "Natural & synthetic",
+  "plant": "Magnolia grandiflora",
+  "source": "Most magnolia oil comes from the white champaca (Michelia alba) grown in China. Large magnolia blooms are usually recreated.",
+  "history": "Magnolia is named after the French botanist Pierre Magnol. It is one of the oldest flowering plants on Earth, older than bees.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and lemony-floral"
+   ],
+   [
+    "Methyl dihydrojasmonate",
+    "a luminous, airy floral"
+   ],
+   [
+    "Geraniol",
+    "a soft rosy note"
+   ]
+  ]
+ },
+ "Peony": {
+  "type": "Synthetic",
+  "plant": "Paeonia lactiflora",
+  "source": "Peony flowers give no usable oil, so peony is an accord built by the perfumer.",
+  "history": "In China the peony has been called the 'king of flowers' since the Tang dynasty. It became a perfume favourite in the 2000s.",
+  "molecules": [
+   [
+    "Phenylethyl alcohol",
+    "fresh rose petal"
+   ],
+   [
+    "Rose oxide",
+    "a bright, green-rosy note"
+   ],
+   [
+    "Geraniol",
+    "a soft, slightly citrus rose"
+   ]
+  ]
+ },
+ "Geranium": {
+  "type": "Natural",
+  "plant": "Pelargonium graveolens",
+  "source": "Steam-distilled from the leaves of rose-scented pelargonium in Egypt, China and Réunion (the prized 'Bourbon' geranium).",
+  "history": "The plant came to Europe from South Africa in the 17th century. French perfumers first distilled it in 1819, as a cheaper way to get a rose-like oil.",
+  "molecules": [
+   [
+    "Citronellol",
+    "rosy and lemony"
+   ],
+   [
+    "Geraniol",
+    "sweet rose"
+   ],
+   [
+    "Isomenthone",
+    "a minty, green edge"
+   ]
+  ]
+ },
+ "Immortelle": {
+  "type": "Natural",
+  "plant": "Helichrysum italicum",
+  "source": "Steam-distilled or extracted from the yellow flowers in Corsica and the Balkans.",
+  "history": "Its name means 'everlasting', because the flowers keep their colour when dried. Corsican immortelle is prized for its smell of honey, hay and curry.",
+  "molecules": [
+   [
+    "Neryl acetate",
+    "sweet, fruity-floral"
+   ],
+   [
+    "Italidiones",
+    "the warm curry and maple-syrup note"
+   ],
+   [
+    "Alpha-pinene",
+    "a resinous, herbal lift"
+   ]
+  ]
+ },
+ "Heliotrope": {
+  "type": "Synthetic",
+  "plant": "Heliotropium arborescens",
+  "source": "The flower isn't extracted. Its almond-and-vanilla smell is made with the molecule heliotropin.",
+  "history": "The botanist Joseph de Jussieu sent heliotrope seeds from Peru to Paris in the 1740s. Guerlain used heliotropin in L'Heure Bleue (1912).",
+  "molecules": [
+   [
+    "Heliotropin (piperonal)",
+    "powdery almond and cherry-vanilla"
+   ],
+   [
+    "Coumarin",
+    "a sweet, hay-like warmth"
+   ],
+   [
+    "Vanillin",
+    "creamy vanilla"
+   ]
+  ]
+ },
+ "Mimosa": {
+  "type": "Natural",
+  "plant": "Acacia dealbata",
+  "source": "Solvent-extracted from the yellow flowers and twigs, mainly in the Tanneron hills near Grasse.",
+  "history": "Mimosa came from Australia and was planted on the French Riviera in the 19th century. Every February the region holds mimosa festivals.",
+  "molecules": [
+   [
+    "Anisaldehyde",
+    "powdery, almond-like"
+   ],
+   [
+    "cis-3-Hexenol",
+    "a green, leafy freshness"
+   ],
+   [
+    "Long-chain hydrocarbons",
+    "the waxy, pollen-like softness"
+   ]
+  ]
+ },
+ "Saffron": {
+  "type": "Natural & synthetic",
+  "plant": "Crocus sativus",
+  "source": "From the dried red stigmas of the saffron crocus, mainly in Iran, Kashmir and Spain. Perfumes usually use synthetic saffron notes.",
+  "history": "Minoan frescoes on Santorini (around 1600 BCE) already show saffron gatherers. It takes about 150,000 flowers to make a kilo of the spice.",
+  "molecules": [
+   [
+    "Safranal",
+    "leathery, hay-like saffron, formed as the stigmas dry"
+   ],
+   [
+    "Safraleine",
+    "a synthetic leathery-saffron note"
+   ]
+  ]
+ },
+ "Pink Pepper": {
+  "type": "Natural",
+  "plant": "Schinus molle",
+  "source": "Distilled or CO2-extracted from the pink berries of the Peruvian pepper tree, in Réunion, Madagascar and Peru. It isn't a true pepper.",
+  "history": "The Incas used the tree for medicine and drinks. Pink pepper became fashionable in perfume in the 1990s and 2000s as a rosy, sparkling spice.",
+  "molecules": [
+   [
+    "Alpha-phellandrene",
+    "fresh, peppery and citrusy"
+   ],
+   [
+    "Limonene",
+    "bright citrus"
+   ],
+   [
+    "Myrcene",
+    "green and balsamic"
+   ]
+  ]
+ },
+ "Pepper": {
+  "type": "Natural",
+  "plant": "Piper nigrum",
+  "source": "Steam-distilled or CO2-extracted from black peppercorns from India's Malabar coast and Vietnam.",
+  "history": "Pepper was once so valuable it was called 'black gold' and used to pay rents. It drove the spice trade between India, Arabia and Rome.",
+  "molecules": [
+   [
+    "Beta-caryophyllene",
+    "warm, woody spice"
+   ],
+   [
+    "Sabinene",
+    "fresh and peppery"
+   ],
+   [
+    "Rotundone",
+    "the woody 'pepper' key, identified in 2008"
+   ]
+  ]
+ },
+ "Sichuan Pepper": {
+  "type": "Natural",
+  "plant": "Zanthoxylum simulans",
+  "source": "From the dried husks of prickly-ash berries grown in Sichuan, China.",
+  "history": "Used in Chinese cooking and medicine for over 2,000 years. Its tingle on the tongue comes from sanshool, which has no smell.",
+  "molecules": [
+   [
+    "Linalool",
+    "a floral, lemony freshness"
+   ],
+   [
+    "Limonene",
+    "a citrus sparkle"
+   ],
+   [
+    "Hydroxy-alpha-sanshool",
+    "the numbing tingle (taste, not smell)"
+   ]
+  ]
+ },
+ "Cardamom": {
+  "type": "Natural",
+  "plant": "Elettaria cardamomum",
+  "source": "Steam-distilled from the seeds, mostly in Guatemala and southern India.",
+  "history": "Cardamom grows wild in the forests of India's Western Ghats. Vikings brought it to Scandinavia, where it still flavours sweet buns.",
+  "molecules": [
+   [
+    "1,8-Cineole",
+    "a cool, eucalyptus-like freshness"
+   ],
+   [
+    "Alpha-terpinyl acetate",
+    "sweet, herbal and spicy"
+   ],
+   [
+    "Linalool",
+    "a soft floral lift"
+   ]
+  ]
+ },
+ "Cinnamon": {
+  "type": "Natural",
+  "plant": "Cinnamomum verum",
+  "source": "Distilled from the bark or leaves of the cinnamon tree in Sri Lanka, or from cassia bark in China.",
+  "history": "Ancient Egyptians used cinnamon in embalming. Arab traders told tall tales about where it came from to protect their monopoly.",
+  "molecules": [
+   [
+    "Cinnamaldehyde",
+    "the warm, sweet-spicy bark smell"
+   ],
+   [
+    "Eugenol",
+    "clove-like (strong in the leaf oil)"
+   ],
+   [
+    "Linalool",
+    "a soft floral touch"
+   ]
+  ]
+ },
+ "Clove": {
+  "type": "Natural",
+  "plant": "Syzygium aromaticum",
+  "source": "Distilled from the dried flower buds (and leaves) of the clove tree, in Madagascar, Zanzibar and Indonesia.",
+  "history": "Cloves came only from the Maluku 'Spice Islands' for centuries. In 1770 the Frenchman Pierre Poivre smuggled seedlings out, breaking the Dutch monopoly.",
+  "molecules": [
+   [
+    "Eugenol",
+    "about 80% of the oil: warm, spicy, dentist-like"
+   ],
+   [
+    "Eugenyl acetate",
+    "softer and fruitier"
+   ],
+   [
+    "Beta-caryophyllene",
+    "a woody-spicy depth"
+   ]
+  ]
+ },
+ "Nutmeg": {
+  "type": "Natural",
+  "plant": "Myristica fragrans",
+  "source": "Steam-distilled from the seeds of the nutmeg tree, in Indonesia and Grenada.",
+  "history": "Nutmeg came only from the tiny Banda Islands. In 1667 the Dutch kept the nutmeg island of Run and let the English keep Manhattan.",
+  "molecules": [
+   [
+    "Sabinene",
+    "warm, peppery"
+   ],
+   [
+    "Myristicin",
+    "the sweet, spicy nutmeg character"
+   ],
+   [
+    "Alpha-pinene",
+    "a fresh, resinous touch"
+   ]
+  ]
+ },
+ "Ginger": {
+  "type": "Natural",
+  "plant": "Zingiber officinale",
+  "source": "Steam-distilled or CO2-extracted from the rhizome, in India, China and Nigeria.",
+  "history": "Ginger has been used in Asian medicine for thousands of years, and was one of the first spices to reach Europe via the spice trade.",
+  "molecules": [
+   [
+    "Zingiberene",
+    "warm, woody ginger"
+   ],
+   [
+    "Citral",
+    "a fresh, lemony zing"
+   ],
+   [
+    "beta-Sesquiphellandrene",
+    "a soft spicy depth"
+   ]
+  ]
+ },
+ "Elemi": {
+  "type": "Natural",
+  "plant": "Canarium luzonicum",
+  "source": "Steam-distilled from the resin of a tree native to the Philippines.",
+  "history": "Elemi resin was used in ointments and varnishes from the 15th century, and in incense in churches. Perfumers love its lemon-and-pepper incense.",
+  "molecules": [
+   [
+    "Limonene",
+    "fresh lemon"
+   ],
+   [
+    "Alpha-phellandrene",
+    "peppery and bright"
+   ],
+   [
+    "Elemicin",
+    "a soft, spicy-balsamic touch"
+   ]
+  ]
+ },
+ "Sandalwood": {
+  "type": "Natural & synthetic",
+  "plant": "Santalum album",
+  "source": "Steam-distilled from the heartwood of trees at least 15 years old. Indian (Mysore) sandalwood is now rare, so most comes from Australian plantations or is synthetic.",
+  "history": "Sandalwood has been used in Indian temples and rituals for over 4,000 years. Overharvesting in the 20th century led to synthetics like Javanol and Ebanol.",
+  "molecules": [
+   [
+    "Alpha-santalol",
+    "creamy, soft wood"
+   ],
+   [
+    "Beta-santalol",
+    "the rich, milky sandalwood key"
+   ],
+   [
+    "Javanol",
+    "a powerful synthetic sandalwood"
+   ]
+  ]
+ },
+ "Cedar": {
+  "type": "Natural",
+  "plant": "Cedrus atlantica",
+  "source": "Steam-distilled from wood chips. Virginia and Texas 'cedar' (actually junipers) come from the USA, and Atlas cedar from Morocco.",
+  "history": "Ancient Egyptians used cedar oil in mummification. Cedarwood is the smell of pencils, which were long made from Virginia cedar.",
+  "molecules": [
+   [
+    "Cedrol",
+    "dry pencil shavings"
+   ],
+   [
+    "Alpha-cedrene",
+    "soft woody"
+   ],
+   [
+    "Atlantones",
+    "a sweet, honeyed wood (Atlas cedar)"
+   ]
+  ]
+ },
+ "Vetiver": {
+  "type": "Natural",
+  "plant": "Chrysopogon zizanioides",
+  "source": "Distilled from the roots of a tall grass, mainly in Haiti, Java and Réunion.",
+  "history": "In India 'khus' mats woven from vetiver roots are dampened to cool houses with their scent. Vetiver became a men's classic with Guerlain's Vetiver (1959).",
+  "molecules": [
+   [
+    "Khusimol",
+    "woody and earthy"
+   ],
+   [
+    "Alpha- and beta-vetivone",
+    "the smoky, grapefruit-woody key"
+   ],
+   [
+    "Zizanoic acid",
+    "a dry, rooty warmth"
+   ]
+  ]
+ },
+ "Patchouli": {
+  "type": "Natural",
+  "plant": "Pogostemon cablin",
+  "source": "Distilled from dried, lightly fermented leaves, about 90% in Indonesia (Sulawesi).",
+  "history": "In the 19th century, Indian shawls were packed in patchouli leaves to keep moths away, so Europeans linked the smell with luxury. It became the scent of the 1960s hippies.",
+  "molecules": [
+   [
+    "Patchoulol",
+    "earthy, woody and camphoraceous"
+   ],
+   [
+    "Norpatchoulenol",
+    "the true 'patchouli' smell, found in tiny amounts"
+   ],
+   [
+    "Alpha-bulnesene",
+    "a dry woody body"
+   ]
+  ]
+ },
+ "Oud": {
+  "type": "Natural & synthetic",
+  "plant": "Aquilaria malaccensis",
+  "source": "When Aquilaria trees in South and Southeast Asia are infected by a mould, they make a dark, fragrant resin called agarwood. Real oud oil is extremely costly, so most perfumes use an 'oud accord'.",
+  "history": "Agarwood is mentioned in ancient Sanskrit texts and burned in the Japanese incense ceremony (kōdō). It entered Western perfumery with YSL's M7 in 2002.",
+  "molecules": [
+   [
+    "2-(2-Phenylethyl)chromones",
+    "the smoky-sweet smell released when agarwood is heated"
+   ],
+   [
+    "Agarospirol",
+    "woody and balsamic"
+   ],
+   [
+    "Jinkoh-eremol",
+    "a deep, resinous wood"
+   ]
+  ]
+ },
+ "Akigalawood": {
+  "type": "Synthetic",
+  "mol": "Rotundone",
+  "source": "A Givaudan material made by treating a fraction of patchouli oil with an enzyme. This 'biotech' process creates new peppery, oud-like molecules.",
+  "history": "Akigalawood was launched by Givaudan in the 2010s as a sustainable way to give the smoky, spicy feel of oud.",
+  "molecules": [
+   [
+    "Rotundone",
+    "peppery and woody"
+   ],
+   [
+    "Oxidised patchouli sesquiterpenes",
+    "a smooth, agarwood-like wood"
+   ]
+  ]
+ },
+ "Guaiac Wood": {
+  "type": "Natural",
+  "plant": "Bulnesia sarmientoi",
+  "source": "Steam-distilled from the wood of a tree from the Gran Chaco region of Paraguay and Argentina.",
+  "history": "Guaiac wood oil entered perfumery in the late 19th century. Its smoky, rosy wood is a classic in leather and oriental perfumes.",
+  "molecules": [
+   [
+    "Guaiol",
+    "smoky, rosy wood"
+   ],
+   [
+    "Bulnesol",
+    "soft, sweet and woody"
+   ]
+  ]
+ },
+ "Cashmeran": {
+  "type": "Synthetic",
+  "mol": "Cashmeran",
+  "source": "A synthetic molecule made in the lab. It doesn't exist in nature.",
+  "history": "Created at IFF around 1970 by the chemist John Hall. Its name evokes the softness of cashmere.",
+  "molecules": [
+   [
+    "Cashmeran (DPMI)",
+    "musky, woody, spicy and slightly fruity: like warm skin in a wool jumper"
+   ]
+  ]
+ },
+ "Iso E Super": {
+  "type": "Synthetic",
+  "mol": "Iso E Super",
+  "source": "A synthetic woody molecule made in the lab.",
+  "history": "Discovered at IFF in 1973 by John Hall and James Sanders. Escentric Molecules' Molecule 01 (2006) was made of nothing but Iso E Super, and it's the backbone of Terre d'Hermès.",
+  "molecules": [
+   [
+    "OTNE (Iso E Super)",
+    "velvety, cedar-like wood that feels like skin"
+   ],
+   [
+    "Arborone",
+    "a tiny, very powerful isomer that carries most of the smell"
+   ]
+  ]
+ },
+ "Cypress": {
+  "type": "Natural",
+  "plant": "Cupressus sempervirens",
+  "source": "Steam-distilled from the twigs and needles of the Mediterranean cypress in France, Spain and Morocco.",
+  "history": "The cypress has been a symbol of mourning and eternity since ancient Greece. It's planted in cemeteries across the Mediterranean.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "fresh pine resin"
+   ],
+   [
+    "Delta-3-carene",
+    "sharp, woody and green"
+   ],
+   [
+    "Cedrol",
+    "a dry wood background"
+   ]
+  ]
+ },
+ "Birch": {
+  "type": "Natural",
+  "plant": "Betula pendula",
+  "source": "Birch tar is made by heating birch bark without air, then refining the tar. It's used in tiny doses for a smoky leather note.",
+  "history": "Russian leather was tanned with birch tar, giving it a famous smell. Chanel's Cuir de Russie (1924) recreated it as a perfume.",
+  "molecules": [
+   [
+    "Guaiacol",
+    "smoky, campfire-like"
+   ],
+   [
+    "Cresols",
+    "tarry and leathery"
+   ],
+   [
+    "Methyl salicylate",
+    "minty wintergreen (in sweet birch oil)"
+   ]
+  ]
+ },
+ "Vanilla": {
+  "type": "Natural & synthetic",
+  "plant": "Vanilla planifolia",
+  "source": "From cured pods of a climbing orchid, about 80% from Madagascar. Most vanilla notes are made with synthetic vanillin.",
+  "history": "The Totonac people of Mexico grew vanilla long before the Aztecs. In 1841, 12-year-old Edmond Albius on Réunion discovered how to pollinate it by hand, and vanillin was first synthesised in 1874.",
+  "molecules": [
+   [
+    "Vanillin",
+    "the classic sweet vanilla"
+   ],
+   [
+    "Ethyl vanillin",
+    "a stronger, creamier synthetic cousin"
+   ],
+   [
+    "Guaiacol",
+    "a light smoky touch in real vanilla pods"
+   ]
+  ]
+ },
+ "Tonka Bean": {
+  "type": "Natural & synthetic",
+  "plant": "Dipteryx odorata",
+  "source": "Seeds of a large tree from Venezuela and Brazil. The beans are soaked in rum and dried, then extracted.",
+  "history": "Coumarin was isolated from tonka beans in 1820 and synthesised by William Henry Perkin in 1868. Houbigant's Fougère Royale (1882) was one of the first perfumes to use a synthetic molecule.",
+  "molecules": [
+   [
+    "Coumarin",
+    "sweet hay, almond and vanilla"
+   ],
+   [
+    "Dihydrocoumarin",
+    "a softer, caramel-like sweetness"
+   ]
+  ]
+ },
+ "Benzoin": {
+  "type": "Natural",
+  "plant": "Styrax tonkinensis",
+  "source": "Resin tapped from styrax trees in Laos and Thailand (Siam benzoin) or Sumatra.",
+  "history": "Its name comes from the Arabic for 'frankincense of Java'. It's been burned as incense for centuries and is a key part of Guerlain's Shalimar.",
+  "molecules": [
+   [
+    "Vanillin",
+    "sweet vanilla"
+   ],
+   [
+    "Benzyl benzoate",
+    "a soft balsamic warmth"
+   ],
+   [
+    "Coniferyl benzoate",
+    "a resinous, chocolatey depth"
+   ]
+  ]
+ },
+ "Labdanum": {
+  "type": "Natural",
+  "plant": "Cistus ladanifer",
+  "source": "A sticky resin from rockrose bushes in Andalusia, Spain, and Crete.",
+  "history": "The Greek historian Herodotus described labdanum being combed from the beards of goats that grazed on rockrose. It's the heart of most 'amber' accords.",
+  "molecules": [
+   [
+    "Labdane diterpenes",
+    "warm, ambery and leathery"
+   ],
+   [
+    "Acetophenone",
+    "a sweet, almond-floral note"
+   ],
+   [
+    "2,2,6-Trimethylcyclohexanone",
+    "a honeyed, tobacco-like note"
+   ]
+  ]
+ },
+ "Amber": {
+  "type": "Accord",
+  "mol": "Vanillin",
+  "source": "Not fossilised amber, which barely smells. In perfume 'amber' is an accord, usually of labdanum, vanilla and benzoin.",
+  "history": "Coty's Ambre Antique (1905) was one of the first amber perfumes, followed by Guerlain's Shalimar (1925). The 'oriental' or 'amber' family grew from them.",
+  "molecules": [
+   [
+    "Vanillin",
+    "sweetness"
+   ],
+   [
+    "Labdanum diterpenes",
+    "a resinous, leathery warmth"
+   ],
+   [
+    "Benzyl benzoate",
+    "a balsamic softness"
+   ]
+  ]
+ },
+ "Ambroxan": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "Made from sclareol, a molecule from clary sage, or by fermentation. It also forms naturally in ambergris.",
+  "history": "Firmenich created Ambrox in 1950 to replace costly ambergris. Ambroxan became famous through Molecule 02 and Dior's Sauvage (2015).",
+  "molecules": [
+   [
+    "Ambroxide (Ambrox / Ambroxan)",
+    "dry, salty, woody amber that clings to skin"
+   ]
+  ]
+ },
+ "Ambergris": {
+  "type": "Natural",
+  "mol": "Ambrein",
+  "source": "A waxy substance made in the gut of sperm whales and found washed up on beaches, after years ageing in the sea. Today it's mostly replaced by synthetics.",
+  "history": "Medieval Arab traders valued it above gold. It was used to make perfumes last longer, and is now restricted in many countries.",
+  "molecules": [
+   [
+    "Ambrein",
+    "odourless itself, it breaks down in sunlight and seawater"
+   ],
+   [
+    "Ambrox",
+    "the dry, ambery-woody product of that breakdown"
+   ],
+   [
+    "Gamma-dihydroionone",
+    "a marine, tobacco-like note"
+   ]
+  ]
+ },
+ "Incense": {
+  "type": "Natural",
+  "plant": "Boswellia sacra",
+  "source": "Frankincense (olibanum) is resin tapped from Boswellia trees in Oman, Yemen and Somalia, then distilled.",
+  "history": "Around 1470 BCE Queen Hatshepsut of Egypt sent an expedition to the land of Punt to bring back incense trees. Frankincense was one of the gifts of the Magi.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "fresh, resinous"
+   ],
+   [
+    "Limonene",
+    "a lemony brightness"
+   ],
+   [
+    "Incensole acetate",
+    "the soft, churchy resin note"
+   ]
+  ]
+ },
+ "Myrrh": {
+  "type": "Natural",
+  "plant": "Commiphora myrrha",
+  "source": "Resin from thorny Commiphora trees in Somalia, Ethiopia and Yemen.",
+  "history": "Ancient Egyptians used myrrh in embalming and in the incense 'kyphi'. Like frankincense, it was one of the gifts of the Magi.",
+  "molecules": [
+   [
+    "Furanoeudesma-1,3-diene",
+    "the warm, medicinal-balsamic smell of myrrh"
+   ],
+   [
+    "Curzerene",
+    "earthy and slightly bitter"
+   ],
+   [
+    "Lindestrene",
+    "a resinous depth"
+   ]
+  ]
+ },
+ "Honey": {
+  "type": "Natural & synthetic",
+  "mol": "Phenylacetic acid",
+  "source": "Beeswax absolute gives a natural honey smell, but most honey notes are made with synthetic molecules.",
+  "history": "Honey and beeswax were among the earliest perfume materials. Egyptians used beeswax as a base for scented cones worn on the head.",
+  "molecules": [
+   [
+    "Phenylacetic acid",
+    "honey, with a slightly animalic edge"
+   ],
+   [
+    "Ethyl phenylacetate",
+    "sweet and floral-honey"
+   ],
+   [
+    "Methyl phenylacetate",
+    "a lighter, sweet honey"
+   ]
+  ]
+ },
+ "Caramel": {
+  "type": "Synthetic",
+  "mol": "Ethyl maltol",
+  "source": "Built with synthetic molecules that smell of burnt sugar.",
+  "history": "Thierry Mugler's Angel (1992) used a big dose of ethyl maltol and created the 'gourmand' family, perfumes that smell edible.",
+  "molecules": [
+   [
+    "Ethyl maltol",
+    "candy floss and caramel"
+   ],
+   [
+    "Maltol",
+    "toasted, sweet malt"
+   ],
+   [
+    "Furaneol",
+    "strawberry-caramel"
+   ]
+  ]
+ },
+ "Coffee": {
+  "type": "Natural & synthetic",
+  "plant": "Coffea arabica",
+  "source": "CO2 extract of roasted coffee beans. Coffee notes are often boosted with synthetic molecules.",
+  "history": "The roasting smell comes from hundreds of molecules formed when beans are heated. Mugler's A*Men (1996) made coffee a perfume note.",
+  "molecules": [
+   [
+    "2-Furfurylthiol",
+    "the key 'roasted coffee' molecule"
+   ],
+   [
+    "Guaiacol",
+    "smoky"
+   ],
+   [
+    "Pyrazines",
+    "roasted and nutty"
+   ]
+  ]
+ },
+ "Cocoa": {
+  "type": "Natural & synthetic",
+  "plant": "Theobroma cacao",
+  "source": "Absolute or CO2 extract of roasted cocoa beans, mainly from West Africa and South America.",
+  "history": "The Olmecs of Mexico drank cocoa over 3,500 years ago. Its smell develops only when the beans are fermented and roasted.",
+  "molecules": [
+   [
+    "Tetramethylpyrazine",
+    "roasted, nutty cocoa"
+   ],
+   [
+    "3-Methylbutanal",
+    "a malty, chocolatey note"
+   ],
+   [
+    "5-Methyl-2-phenyl-2-hexenal",
+    "bitter cocoa powder"
+   ]
+  ]
+ },
+ "Praline": {
+  "type": "Accord",
+  "mol": "Ethyl maltol",
+  "source": "An accord of caramel and roasted nuts.",
+  "history": "Praline is named after the 17th-century Duke of Choiseul-Praslin, whose cook made sugar-coated almonds. Lancôme's La Vie est Belle (2012) made it a mainstream perfume note.",
+  "molecules": [
+   [
+    "Ethyl maltol",
+    "caramel sugar"
+   ],
+   [
+    "Pyrazines",
+    "roasted nuts"
+   ],
+   [
+    "Vanillin",
+    "a creamy finish"
+   ]
+  ]
+ },
+ "Almond": {
+  "type": "Natural & synthetic",
+  "plant": "Prunus dulcis",
+  "source": "Bitter almond oil from almonds or apricot kernels. Today the almond molecule, benzaldehyde, is mostly synthetic.",
+  "history": "Benzaldehyde was first extracted from bitter almonds in 1803 and made in the lab in 1832. It was one of the first molecules chemists understood.",
+  "molecules": [
+   [
+    "Benzaldehyde",
+    "marzipan and cherry"
+   ],
+   [
+    "Heliotropin",
+    "a soft, powdery almond"
+   ],
+   [
+    "Coumarin",
+    "a warm, hay-like almond"
+   ]
+  ]
+ },
+ "Rum": {
+  "type": "Accord",
+  "mol": "Ethyl formate",
+  "source": "Usually an accord, sometimes with rum absolute.",
+  "history": "Rum was first distilled from sugar-cane molasses in 17th-century Caribbean plantations. In perfume it adds a boozy, sweet warmth.",
+  "molecules": [
+   [
+    "Ethyl formate",
+    "the sharp 'rum ether' note"
+   ],
+   [
+    "Vanillin",
+    "a sweet, barrel-like warmth"
+   ],
+   [
+    "Ethyl esters",
+    "fruity and boozy"
+   ]
+  ]
+ },
+ "Tobacco": {
+  "type": "Natural",
+  "plant": "Nicotiana tabacum",
+  "source": "Absolute extracted from cured tobacco leaves in Bulgaria and the USA. It contains no nicotine.",
+  "history": "Caron's Tabac Blond (1919) was made for women who had just started smoking in public. Tobacco now appears in many warm, sweet perfumes.",
+  "molecules": [
+   [
+    "Megastigmatrienones",
+    "the dried, honeyed tobacco leaf"
+   ],
+   [
+    "Solanone",
+    "fruity and tobacco-like"
+   ],
+   [
+    "Beta-damascenone",
+    "a jammy, plum-like warmth"
+   ]
+  ]
+ },
+ "Musk": {
+  "type": "Synthetic",
+  "mol": "Muscone",
+  "source": "Originally from a gland of the male musk deer, now protected. All modern musks are synthetic, apart from a few plant musks like ambrette.",
+  "history": "In 1888 Albert Baur accidentally made the first synthetic musk while working on explosives. Leopold Ružička worked out the structure of muscone in 1926, and later won a Nobel Prize.",
+  "molecules": [
+   [
+    "Muscone",
+    "warm, animal musk"
+   ],
+   [
+    "Galaxolide",
+    "clean 'laundry' musk"
+   ],
+   [
+    "Habanolide",
+    "a bright, metallic, clean musk"
+   ]
+  ]
+ },
+ "Leather": {
+  "type": "Accord",
+  "mol": "6-Isobutylquinoline",
+  "source": "An accord built from smoky, tarry and animalic materials.",
+  "history": "In the 16th and 17th centuries Grasse was a tanning town, and glove makers perfumed their leather to hide the smell. Perfumery in Grasse grew out of this trade.",
+  "molecules": [
+   [
+    "Isobutyl quinoline",
+    "a bitter, green leather"
+   ],
+   [
+    "Birch tar phenols",
+    "smoky Russian leather"
+   ],
+   [
+    "Safraleine",
+    "a soft, saffron-like leather"
+   ]
+  ]
+ },
+ "Suede": {
+  "type": "Accord",
+  "mol": "Safranal",
+  "source": "A soft, powdery leather accord.",
+  "history": "Suede accords became popular in the 2000s as a softer, gentler leather. They often pair iris, saffron and musks.",
+  "molecules": [
+   [
+    "Safraleine",
+    "soft leather"
+   ],
+   [
+    "Irones",
+    "a powdery iris touch"
+   ],
+   [
+    "Musks",
+    "a velvety skin-like softness"
+   ]
+  ]
+ },
+ "Civet": {
+  "type": "Synthetic",
+  "mol": "Civetone",
+  "source": "Originally from the glands of the African civet cat in Ethiopia. Today it's replaced by synthetics for ethical reasons.",
+  "history": "Civet was used in tiny amounts in classic perfumes for its warm, sensual effect. Ružička also worked out the structure of civetone in 1926.",
+  "molecules": [
+   [
+    "Civetone",
+    "warm, sensual musk"
+   ],
+   [
+    "Skatole",
+    "faecal in large doses, but warm and sensual in traces"
+   ],
+   [
+    "Indole",
+    "animalic and floral"
+   ]
+  ]
+ },
+ "Castoreum": {
+  "type": "Synthetic",
+  "mol": "4-Ethylphenol",
+  "source": "Originally from the castor sacs of beavers. Today it's recreated with synthetic molecules.",
+  "history": "Castoreum was used in medicine since antiquity and in leather perfumes like Caron's Tabac Blond. Its smoky-leathery smell partly comes from the willow bark beavers eat.",
+  "molecules": [
+   [
+    "4-Ethylphenol",
+    "smoky, leathery and animalic"
+   ],
+   [
+    "Acetophenone",
+    "sweet and almond-floral"
+   ],
+   [
+    "Guaiacol",
+    "smoky"
+   ]
+  ]
+ },
+ "Ozone": {
+  "type": "Synthetic",
+  "mol": "Helional",
+  "source": "Made with synthetic molecules that evoke fresh air after a storm. Real ozone smells sharp and electric.",
+  "history": "'Ozonic' perfumes took off in the early 1990s with fragrances like Issey Miyake's L'Eau d'Issey (1992).",
+  "molecules": [
+   [
+    "Helional",
+    "fresh, airy and watery"
+   ],
+   [
+    "Floralozone",
+    "clean air and sea breeze"
+   ],
+   [
+    "Calone",
+    "watermelon and sea spray"
+   ]
+  ]
+ },
+ "Sea Notes": {
+  "type": "Accord",
+  "mol": "Calone",
+  "source": "An accord of marine synthetics, sometimes with seaweed absolute.",
+  "history": "Aramis New West for Her (1988) and Davidoff Cool Water (1988) launched the 'marine' or 'aquatic' family.",
+  "molecules": [
+   [
+    "Calone",
+    "sea breeze and watermelon"
+   ],
+   [
+    "Seaweed absolute",
+    "iodine and salty algae"
+   ],
+   [
+    "Dimethyl sulfide",
+    "in traces: the smell of the sea air itself"
+   ]
+  ]
+ },
+ "Calone": {
+  "type": "Synthetic",
+  "mol": "Calone",
+  "source": "A synthetic molecule. It doesn't occur in nature.",
+  "history": "Calone was discovered in 1966 by Pfizer chemists who were researching tranquillisers. It became the signature of the 1990s 'marine' perfumes.",
+  "molecules": [
+   [
+    "Calone",
+    "fresh sea breeze with a watermelon twist"
+   ]
+  ]
+ },
+ "Mineral Notes": {
+  "type": "Accord",
+  "mol": "Geosmin",
+  "source": "An accord that evokes wet stone, flint, chalk or salt.",
+  "history": "Mineral accords became fashionable in niche perfumery in the 2000s, as perfumers looked for 'clean' textures that aren't flowers or woods.",
+  "molecules": [
+   [
+    "Geosmin",
+    "wet earth and stone"
+   ],
+   [
+    "Aldehydes",
+    "a cold, metallic sparkle"
+   ],
+   [
+    "Ambroxide",
+    "a salty, skin-like dryness"
+   ]
+  ]
+ },
+ "Aldehydes": {
+  "type": "Synthetic",
+  "mol": "Dodecanal",
+  "source": "A family of molecules found in citrus peel, made synthetically for perfume.",
+  "history": "Ernest Beaux made aldehydes famous with an overdose in Chanel No 5 (1921), giving it its sparkling, champagne-like lift.",
+  "molecules": [
+   [
+    "Decanal (C-10)",
+    "waxy orange peel"
+   ],
+   [
+    "Dodecanal (C-12 lauric)",
+    "soapy, clean linen"
+   ],
+   [
+    "2-Methylundecanal (C-12 MNA)",
+    "metallic and ambery, the No 5 sparkle"
+   ]
+  ]
+ },
+ "Petrichor": {
+  "type": "Natural & synthetic",
+  "mol": "Geosmin",
+  "source": "The smell of rain on dry earth. In perfume it's recreated with geosmin, or in India with 'mitti attar', distilled from baked clay.",
+  "history": "Australian scientists Isabel Joy Bear and Richard Thomas named it 'petrichor' in 1964. Humans can smell geosmin at about 5 parts per trillion.",
+  "molecules": [
+   [
+    "Geosmin",
+    "wet soil, made by Streptomyces bacteria"
+   ],
+   [
+    "2-Methylisoborneol",
+    "earthy and musty"
+   ]
+  ]
+ },
+ "Mint": {
+  "type": "Natural",
+  "plant": "Mentha piperita",
+  "source": "Steam-distilled from peppermint and spearmint leaves, mostly in the USA and India.",
+  "history": "The ancient Greeks and Romans used mint in baths and to perfume tables. Its name comes from the nymph Minthe in Greek myth.",
+  "molecules": [
+   [
+    "Menthol",
+    "the icy, cooling peppermint feeling"
+   ],
+   [
+    "Menthone",
+    "minty and slightly herbal"
+   ],
+   [
+    "L-Carvone",
+    "sweet spearmint"
+   ]
+  ]
+ },
+ "Basil": {
+  "type": "Natural",
+  "plant": "Ocimum basilicum",
+  "source": "Steam-distilled from the leaves and flowers, in Egypt, India and the Comoros.",
+  "history": "Basil came from India, where holy basil (tulsi) is sacred. Its name comes from the Greek for 'royal'.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Methyl chavicol (estragole)",
+    "sweet aniseed"
+   ],
+   [
+    "Eugenol",
+    "a clove-like spice"
+   ]
+  ]
+ },
+ "Rosemary": {
+  "type": "Natural",
+  "plant": "Salvia rosmarinus",
+  "source": "Steam-distilled from the leaves and flowering tops, in Tunisia, Morocco and Spain.",
+  "history": "'Hungary Water', one of the first alcohol-based perfumes (14th century), was made mainly from rosemary. Legend says it was made for a queen of Hungary.",
+  "molecules": [
+   [
+    "1,8-Cineole",
+    "a cool, eucalyptus freshness"
+   ],
+   [
+    "Camphor",
+    "medicinal and sharp"
+   ],
+   [
+    "Alpha-pinene",
+    "resinous and herbal"
+   ]
+  ]
+ },
+ "Sage": {
+  "type": "Natural",
+  "plant": "Salvia sclarea",
+  "source": "Common sage leaves come from Dalmatia (Croatia). Clary sage, the one perfumers use most, grows in France and Russia.",
+  "history": "Sage's name comes from Latin 'salvare', to heal. Clary sage is also the source of sclareol, used to make Ambrox.",
+  "molecules": [
+   [
+    "Linalyl acetate",
+    "sweet and fresh (clary sage)"
+   ],
+   [
+    "Sclareol",
+    "ambery and tea-like"
+   ],
+   [
+    "Thujone",
+    "herbal and sharp (common sage)"
+   ]
+  ]
+ },
+ "Tea": {
+  "type": "Accord",
+  "plant": "Camellia sinensis",
+  "source": "Tea absolutes exist but are rare, so most tea notes are accords.",
+  "history": "Tea has been drunk in China for at least 2,000 years. Jean-Claude Ellena's Eau Parfumée au Thé Vert for Bulgari (1992) launched tea as a perfume note.",
+  "molecules": [
+   [
+    "Linalool",
+    "a floral, fresh-tea note"
+   ],
+   [
+    "Beta-ionone",
+    "violet and dried leaves"
+   ],
+   [
+    "Methyl dihydrojasmonate",
+    "a transparent, airy tea"
+   ]
+  ]
+ },
+ "Fig": {
+  "type": "Accord",
+  "plant": "Ficus carica",
+  "source": "Fig leaf absolute is rare, so fig is mostly an accord of green, milky and coconut notes.",
+  "history": "Olivia Giacobetti created two landmark figs: Premier Figuier for L'Artisan Parfumeur (1994) and Philosykos for Diptyque (1996).",
+  "molecules": [
+   [
+    "Stemone",
+    "green fig leaf"
+   ],
+   [
+    "Lactones",
+    "the milky, coconut flesh"
+   ],
+   [
+    "cis-3-Hexenol",
+    "fresh green leaves"
+   ]
+  ]
+ },
+ "Galbanum": {
+  "type": "Natural",
+  "plant": "Ferula gummosa",
+  "source": "A resin from a giant fennel plant that grows in Iran.",
+  "history": "Galbanum was part of the holy incense in the Bible (Exodus). Germaine Cellier used a record dose in Balmain's Vent Vert (1947).",
+  "molecules": [
+   [
+    "2-Methoxy-3-sec-butylpyrazine",
+    "green bell pepper"
+   ],
+   [
+    "Undecatrienes (galbanolene)",
+    "intensely green and leafy"
+   ],
+   [
+    "Alpha- and beta-pinene",
+    "resinous"
+   ]
+  ]
+ },
+ "Grass": {
+  "type": "Accord",
+  "mol": "cis-3-Hexen-1-ol",
+  "source": "An accord based on the molecules a plant releases when its leaves are cut.",
+  "history": "Leaf alcohol (cis-3-hexenol) was identified in green tea leaves in 1933. It's the classic 'freshly mown lawn' smell.",
+  "molecules": [
+   [
+    "cis-3-Hexenol (leaf alcohol)",
+    "fresh-cut grass"
+   ],
+   [
+    "cis-3-Hexenyl acetate",
+    "green and fruity"
+   ],
+   [
+    "Hexanal",
+    "green and slightly fatty"
+   ]
+  ]
+ },
+ "Apple": {
+  "type": "Synthetic",
+  "plant": "Malus domestica",
+  "source": "Apples give no usable oil, so apple is built from fruity esters.",
+  "history": "Fruity apple notes became popular in the 2000s, with perfumes like DKNY Be Delicious (2004).",
+  "molecules": [
+   [
+    "Ethyl 2-methylbutyrate",
+    "crisp green apple"
+   ],
+   [
+    "Hexyl acetate",
+    "juicy, pear-apple"
+   ],
+   [
+    "Beta-damascenone",
+    "a cooked, baked-apple warmth"
+   ]
+  ]
+ },
+ "Pear": {
+  "type": "Synthetic",
+  "plant": "Pyrus communis",
+  "source": "Recreated with fruity esters.",
+  "history": "Isoamyl acetate gives the famous 'pear drops' sweet smell. Pear became a popular fruity-floral top note in the 2000s.",
+  "molecules": [
+   [
+    "Ethyl decadienoate",
+    "ripe Williams pear"
+   ],
+   [
+    "Hexyl acetate",
+    "juicy and green"
+   ],
+   [
+    "Isoamyl acetate",
+    "pear drops and banana"
+   ]
+  ]
+ },
+ "Peach": {
+  "type": "Synthetic",
+  "plant": "Prunus persica",
+  "source": "Recreated mainly with lactones, molecules that also occur in real peaches.",
+  "history": "Guerlain's Mitsouko (1919) used gamma-undecalactone, nicknamed 'aldehyde C-14', to give its famous peach skin.",
+  "molecules": [
+   [
+    "Gamma-undecalactone (C-14)",
+    "velvety peach skin"
+   ],
+   [
+    "Gamma-decalactone",
+    "ripe peach and apricot"
+   ]
+  ]
+ },
+ "Blackcurrant": {
+  "type": "Natural & synthetic",
+  "plant": "Ribes nigrum",
+  "source": "Absolute from blackcurrant buds (bourgeons de cassis), mainly in Burgundy, France. Often boosted with synthetic sulphur molecules.",
+  "history": "Burgundy has grown blackcurrants for crème de cassis since the 19th century. The buds' smell is famously 'catty'.",
+  "molecules": [
+   [
+    "4-Methoxy-2-methyl-2-butanethiol",
+    "the sulphurous, catty-fruity cassis key"
+   ],
+   [
+    "Sabinene",
+    "green and peppery"
+   ],
+   [
+    "Delta-3-carene",
+    "sharp and green"
+   ]
+  ]
+ },
+ "Raspberry": {
+  "type": "Synthetic",
+  "plant": "Rubus idaeus",
+  "source": "Recreated with raspberry ketone and ionones. Natural raspberry ketone is extremely costly.",
+  "history": "Raspberry ketone is found in raspberries in tiny amounts. Raspberry notes became a favourite in sweet, fruity perfumes from the 1990s.",
+  "molecules": [
+   [
+    "Raspberry ketone",
+    "jammy raspberry"
+   ],
+   [
+    "Beta-ionone",
+    "violet-raspberry"
+   ],
+   [
+    "Alpha-ionone",
+    "sweet and powdery"
+   ]
+  ]
+ },
+ "Pineapple": {
+  "type": "Synthetic",
+  "plant": "Ananas comosus",
+  "source": "Recreated with fruity esters.",
+  "history": "Pineapple became a perfume talking point with Creed's Aventus (2010), where it pairs with birch and musk.",
+  "molecules": [
+   [
+    "Allyl hexanoate",
+    "ripe pineapple"
+   ],
+   [
+    "Ethyl butyrate",
+    "juicy and tropical"
+   ],
+   [
+    "Methyl hexanoate",
+    "fruity and sweet"
+   ]
+  ]
+ },
+ "Coconut": {
+  "type": "Synthetic",
+  "plant": "Cocos nucifera",
+  "source": "Recreated with lactones. Coconut absolutes exist but are faint.",
+  "history": "The coconut lactone gamma-nonalactone is nicknamed 'aldehyde C-18'. It's the smell of suncream and tropical holidays.",
+  "molecules": [
+   [
+    "Gamma-nonalactone (C-18)",
+    "creamy coconut"
+   ],
+   [
+    "Delta-octalactone",
+    "coconut milk"
+   ],
+   [
+    "Massoia lactone",
+    "sweet coconut flesh"
+   ]
+  ]
+ },
+ "Cherry": {
+  "type": "Synthetic",
+  "plant": "Prunus avium",
+  "source": "Recreated with almond-like molecules.",
+  "history": "Cherry notes became a niche trend with Tom Ford's Lost Cherry (2018).",
+  "molecules": [
+   [
+    "Benzaldehyde",
+    "maraschino cherry and almond"
+   ],
+   [
+    "Tolyl aldehyde",
+    "cherry and sweet"
+   ],
+   [
+    "Ethyl vanillin",
+    "sweetness"
+   ]
+  ]
+ },
+ "Plum": {
+  "type": "Synthetic",
+  "plant": "Prunus domestica",
+  "source": "Recreated with lactones and fruity molecules.",
+  "history": "Rochas Femme (1944) by Edmond Roudnitska made plum famous, using a plum base called Prunol.",
+  "molecules": [
+   [
+    "Gamma-decalactone",
+    "ripe stone fruit"
+   ],
+   [
+    "Benzaldehyde",
+    "a kernel-like almond touch"
+   ],
+   [
+    "Damascones",
+    "jammy, dried fruit"
+   ]
+  ]
+ },
+ "Oakmoss": {
+  "type": "Natural",
+  "plant": "Evernia prunastri",
+  "source": "Extracted from a lichen that grows on oak trees in the Balkans, France and Morocco.",
+  "history": "Coty's Chypre (1917) built a whole family on oakmoss, bergamot and labdanum. Since the 2000s it's been heavily restricted because of allergens.",
+  "molecules": [
+   [
+    "Methyl beta-orcinolcarboxylate (Evernyl)",
+    "mossy, earthy, slightly sweet"
+   ],
+   [
+    "Atranol",
+    "a natural allergen, now removed"
+   ],
+   [
+    "Chloroatranol",
+    "another allergen, now removed"
+   ]
+  ]
+ },
+ "Cumin": {
+  "type": "Natural",
+  "plant": "Cuminum cyminum",
+  "source": "Steam-distilled from cumin seeds in India and Iran.",
+  "history": "Cumin seeds were found in ancient Egyptian tombs. In perfume, small amounts add a warm, skin-like, slightly sweaty sensuality.",
+  "molecules": [
+   [
+    "Cuminaldehyde",
+    "spicy and sweaty-warm"
+   ],
+   [
+    "Gamma-terpinene",
+    "green and citrusy"
+   ],
+   [
+    "Beta-pinene",
+    "resinous"
+   ]
+  ]
+ },
+ "Coriander": {
+  "type": "Natural",
+  "plant": "Coriandrum sativum",
+  "source": "Steam-distilled from coriander seeds, mainly in Russia, Ukraine and Morocco.",
+  "history": "Coriander seeds were found in Tutankhamun's tomb. The seeds smell sweet and floral, very different from the leaves.",
+  "molecules": [
+   [
+    "Linalool",
+    "60–80% of the oil: sweet, floral and woody"
+   ],
+   [
+    "Camphor",
+    "a cool, sharp touch"
+   ],
+   [
+    "Alpha-pinene",
+    "resinous"
+   ]
+  ]
+ },
+ "Juniper": {
+  "type": "Natural",
+  "plant": "Juniperus communis",
+  "source": "Steam-distilled from juniper berries, mostly in the Balkans and Italy.",
+  "history": "Juniper was burned to purify the air during plague outbreaks. Its berries give gin its flavour.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "fresh pine"
+   ],
+   [
+    "Myrcene",
+    "green and balsamic"
+   ],
+   [
+    "Sabinene",
+    "peppery and woody"
+   ]
+  ]
+ },
+ "Gin": {
+  "type": "Accord",
+  "plant": "Juniperus communis",
+  "source": "An accord of juniper, coriander, citrus peel and angelica: the botanicals of gin.",
+  "history": "Gin grew out of Dutch genever in the 17th century and became a London craze in the 18th. Gin notes appear in fresh, boozy perfumes.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "juniper's pine"
+   ],
+   [
+    "Linalool",
+    "coriander's floral sweetness"
+   ],
+   [
+    "Limonene",
+    "citrus peel"
+   ]
+  ]
+ },
+ "Cypriol": {
+  "type": "Natural",
+  "plant": "Cyperus scariosus",
+  "source": "Steam-distilled from the roots of a sedge grown in India, where it's called nagarmotha.",
+  "history": "Cypriol has long been used in Indian attars and incense. Perfumers use it as a smoky, leathery stand-in for oud and vetiver.",
+  "molecules": [
+   [
+    "Cyperene",
+    "woody and earthy"
+   ],
+   [
+    "Cyperotundone",
+    "smoky and leathery"
+   ],
+   [
+    "Rotundone",
+    "peppery wood"
+   ]
+  ]
+ },
+ "Opoponax": {
+  "type": "Natural",
+  "plant": "Commiphora guidottii",
+  "source": "Resin from 'sweet myrrh' trees in Somalia and Ethiopia.",
+  "history": "Used in ancient incense, opoponax gives a sweet, warm, balsamic depth to oriental perfumes like Guerlain's Shalimar.",
+  "molecules": [
+   [
+    "Bisabolenes",
+    "warm, balsamic and sweet"
+   ],
+   [
+    "Alpha-santalene",
+    "soft wood"
+   ],
+   [
+    "Ocimene",
+    "a light, sweet-herbal note"
+   ]
+  ],
+  "mol": "beta-Bisabolene"
+ },
+ "Cistus": {
+  "type": "Natural",
+  "plant": "Cistus ladanifer",
+  "source": "Steam-distilled from the leaves and twigs of the rockrose shrub in Spain. The resin from the same plant is labdanum.",
+  "history": "Rockrose covers the hills of Andalusia and Crete. On hot days its leaves release a sticky, ambery smell.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "fresh and resinous"
+   ],
+   [
+    "2,2,6-Trimethylcyclohexanone",
+    "honeyed and tobacco-like"
+   ],
+   [
+    "Camphene",
+    "woody and herbal"
+   ]
+  ]
+ },
+ "Styrax": {
+  "type": "Natural",
+  "plant": "Liquidambar orientalis",
+  "source": "A balsam from sweetgum trees in Turkey or Central America.",
+  "history": "Styrax has been burned as incense since antiquity. Its smoky, leathery balsam is a classic in leather and amber perfumes.",
+  "molecules": [
+   [
+    "Styrene",
+    "smoky, plastic-like (in traces)"
+   ],
+   [
+    "Cinnamyl cinnamate",
+    "a sweet, balsamic warmth"
+   ],
+   [
+    "Vanillin",
+    "sweet vanilla"
+   ]
+  ]
+ },
+ "Peru Balsam": {
+  "type": "Natural",
+  "plant": "Myroxylon balsamum",
+  "source": "A resin from trees in El Salvador. It was named after Peru because it was shipped from Lima in colonial times.",
+  "history": "Peru balsam was used in medicine and perfume since the 16th century. Today its use is restricted because it can cause allergies.",
+  "molecules": [
+   [
+    "Benzyl benzoate",
+    "soft balsamic"
+   ],
+   [
+    "Benzyl cinnamate",
+    "sweet and warm"
+   ],
+   [
+    "Vanillin",
+    "vanilla"
+   ]
+  ]
+ },
+ "Carnation": {
+  "type": "Natural & synthetic",
+  "plant": "Dianthus caryophyllus",
+  "source": "Carnation absolute is very rare. The scent is usually rebuilt with clove-like molecules.",
+  "history": "Caron's Bellodgia (1927) was a famous carnation perfume. The flower's Latin name means 'flower of the gods'.",
+  "molecules": [
+   [
+    "Eugenol",
+    "clove-spicy"
+   ],
+   [
+    "Isoeugenol",
+    "sweet, spicy-floral"
+   ],
+   [
+    "Benzyl salicylate",
+    "a soft floral base"
+   ]
+  ]
+ },
+ "Freesia": {
+  "type": "Synthetic",
+  "plant": "Freesia refracta",
+  "source": "Freesia gives no oil, so it's an accord.",
+  "history": "Freesia comes from South Africa and was named in the 19th century after the German doctor Friedrich Freese. It was a hugely popular note in the 1990s.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Beta-ionone",
+    "violet-like"
+   ],
+   [
+    "Alpha-terpineol",
+    "lilac-like and sweet"
+   ]
+  ]
+ },
+ "Lily": {
+  "type": "Synthetic",
+  "plant": "Lilium candidum",
+  "source": "Lily absolute was made in the past but is now very rare. Lily notes are usually built from other molecules.",
+  "history": "The ancient Greeks made a famous lily perfume called 'susinum'. The Madonna lily has been grown for over 3,000 years.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Methyl benzoate",
+    "heady, slightly medicinal"
+   ],
+   [
+    "Isoeugenol",
+    "a spicy, carnation-like touch"
+   ]
+  ]
+ },
+ "Linden Blossom": {
+  "type": "Natural & synthetic",
+  "plant": "Tilia cordata",
+  "source": "Absolute from linden (lime tree) flowers, rare and costly, from France and Bulgaria. Usually an accord.",
+  "history": "Linden blossom tea (tilleul) is a classic French remedy for calm and sleep. The trees line many European streets.",
+  "molecules": [
+   [
+    "Farnesol",
+    "soft, green-floral"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Phenylacetaldehyde",
+    "honeyed and green"
+   ]
+  ]
+ },
+ "Hyacinth": {
+  "type": "Synthetic",
+  "plant": "Hyacinthus orientalis",
+  "source": "Hyacinth absolute was once made in Holland and France. Today the scent is almost always recreated.",
+  "history": "Hyacinths were the craze of 18th-century Holland, after the tulip. In Greek myth the flower grew from the blood of the youth Hyacinthus.",
+  "molecules": [
+   [
+    "Phenylacetaldehyde",
+    "green and honeyed: the hyacinth key"
+   ],
+   [
+    "Cinnamyl alcohol",
+    "soft, balsamic"
+   ],
+   [
+    "Benzyl acetate",
+    "fruity-floral"
+   ]
+  ]
+ },
+ "Narcissus": {
+  "type": "Natural",
+  "plant": "Narcissus poeticus",
+  "source": "Absolute from wild poet's narcissus, picked in the Lozère and Aubrac regions of France.",
+  "history": "In Greek myth Narcissus fell in love with his own reflection and turned into this flower. Its absolute smells of hay, honey and horses.",
+  "molecules": [
+   [
+    "Benzyl acetate",
+    "fruity-floral"
+   ],
+   [
+    "p-Cresol",
+    "animalic, stable-like"
+   ],
+   [
+    "Isoeugenol",
+    "spicy-floral"
+   ]
+  ]
+ },
+ "Tiare": {
+  "type": "Natural",
+  "plant": "Gardenia taitensis",
+  "source": "Tiare flowers are soaked in coconut oil to make Monoï de Tahiti, which has had its own protected designation of origin since 1992.",
+  "history": "Polynesians have used monoï for centuries to protect skin and hair. Tiare is the national flower of Tahiti.",
+  "molecules": [
+   [
+    "Methyl salicylate",
+    "minty-floral"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Lactones",
+    "creamy coconut (from the oil)"
+   ]
+  ]
+ },
+ "Orchid": {
+  "type": "Accord",
+  "plant": "Cattleya labiata",
+  "source": "Almost no orchids give a usable extract (vanilla is the exception), so 'orchid' is a fantasy accord.",
+  "history": "Orchid mania swept Victorian Britain. Tom Ford's Black Orchid (2006) made the orchid a perfume icon.",
+  "molecules": [
+   [
+    "Heliotropin",
+    "powdery and sweet"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Vanillin",
+    "a creamy sweetness"
+   ]
+  ]
+ },
+ "Hedione": {
+  "type": "Synthetic",
+  "mol": "Methyl dihydrojasmonate",
+  "source": "A synthetic molecule inspired by jasmine.",
+  "history": "Firmenich chemist Edouard Demole created Hedione in 1962 after studying jasmine. Dior's Eau Sauvage (1966) was the first big perfume to use it.",
+  "molecules": [
+   [
+    "Methyl dihydrojasmonate",
+    "airy, transparent jasmine and citrus: it makes a perfume feel radiant"
+   ]
+  ]
+ },
+ "Rhubarb": {
+  "type": "Synthetic",
+  "plant": "Rheum rhabarbarum",
+  "source": "Rhubarb gives no oil, so it's recreated with green, tart molecules.",
+  "history": "Rhubarb became a fashionable 'tart green' note in the 2000s and 2010s.",
+  "molecules": [
+   [
+    "Rhubofix",
+    "tart green rhubarb"
+   ],
+   [
+    "cis-3-Hexenyl acetate",
+    "fresh green stems"
+   ],
+   [
+    "Citral",
+    "a sour, citrusy edge"
+   ]
+  ]
+ },
+ "Green Notes": {
+  "type": "Accord",
+  "mol": "cis-3-Hexen-1-ol",
+  "source": "A general term for the smell of leaves, stems and sap.",
+  "history": "Green perfumes boomed after Balmain's Vent Vert (1947) and Chanel No 19 (1970).",
+  "molecules": [
+   [
+    "cis-3-Hexenol",
+    "cut grass"
+   ],
+   [
+    "2,6-Nonadienal",
+    "cucumber and violet leaf"
+   ],
+   [
+    "Triplal",
+    "sharp, green sap"
+   ]
+  ]
+ },
+ "Papyrus": {
+  "type": "Natural",
+  "plant": "Cyperus papyrus",
+  "source": "Papyrus 'oil' comes from the roots of Cyperus plants, close cousins of the papyrus reed.",
+  "history": "Ancient Egyptians made paper from papyrus reeds along the Nile. In perfume it gives a smoky, woody, slightly leathery feel.",
+  "molecules": [
+   [
+    "Cyperene",
+    "woody and smoky"
+   ],
+   [
+    "Rotundone",
+    "peppery wood"
+   ],
+   [
+    "Cyperotundone",
+    "leathery and earthy"
+   ]
+  ]
+ },
+ "Palo Santo": {
+  "type": "Natural",
+  "plant": "Bursera graveolens",
+  "source": "Distilled from fallen branches and dead trees in Ecuador and Peru.",
+  "history": "Its name means 'holy wood'. The Incas burned it to cleanse spaces, and it's still used in spiritual rituals.",
+  "molecules": [
+   [
+    "Limonene",
+    "bright citrus"
+   ],
+   [
+    "Alpha-terpineol",
+    "sweet and lilac-like"
+   ],
+   [
+    "Menthofuran",
+    "minty and woody"
+   ]
+  ]
+ },
+ "Oak": {
+  "type": "Accord",
+  "plant": "Quercus robur",
+  "source": "Mostly an accord. Oak extracts exist, often made from toasted barrel wood.",
+  "history": "Wine and whisky get much of their smell from ageing in oak barrels. Perfumers borrow the same molecules.",
+  "molecules": [
+   [
+    "Whisky lactone",
+    "coconut-woody"
+   ],
+   [
+    "Vanillin",
+    "toasted sweetness"
+   ],
+   [
+    "Eugenol",
+    "a spicy touch"
+   ]
+  ]
+ },
+ "Woody Notes": {
+  "type": "Accord",
+  "mol": "Iso E Super",
+  "source": "A general term for the smell of woods, natural or synthetic.",
+  "history": "Woody notes are the base of most masculine perfumes. Synthetic woods like Iso E Super changed how modern perfumes smell.",
+  "molecules": [
+   [
+    "Cedrol",
+    "dry cedar"
+   ],
+   [
+    "Iso E Super",
+    "velvety wood"
+   ],
+   [
+    "Ambroxide",
+    "a dry, ambery wood"
+   ]
+  ]
+ },
+ "Fir": {
+  "type": "Natural",
+  "plant": "Abies balsamea",
+  "source": "Distilled from the needles of fir trees, or extracted from fir balsam, in Canada and Europe.",
+  "history": "Fir is the Christmas tree smell. Fir balsam absolute has a jammy, almost fruity sweetness.",
+  "molecules": [
+   [
+    "Bornyl acetate",
+    "the classic 'pine forest' smell"
+   ],
+   [
+    "Alpha-pinene",
+    "resinous"
+   ],
+   [
+    "Limonene",
+    "fresh citrus"
+   ]
+  ]
+ },
+ "Pine": {
+  "type": "Natural",
+  "plant": "Pinus sylvestris",
+  "source": "Steam-distilled from Scots pine needles and twigs.",
+  "history": "Pine has been used in baths and medicine for centuries. It became the classic 'clean' smell of 20th-century household products.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "sharp pine resin"
+   ],
+   [
+    "Beta-pinene",
+    "dry and woody"
+   ],
+   [
+    "Bornyl acetate",
+    "sweet pine needles"
+   ]
+  ]
+ },
+ "Amberwood": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "A group of powerful synthetic 'woody-amber' molecules.",
+  "history": "Amberwoods became hugely popular in the 2010s, giving the dry, long-lasting trail of many modern perfumes.",
+  "molecules": [
+   [
+    "Ambrocenide",
+    "very dry, ambery wood"
+   ],
+   [
+    "Norlimbanol",
+    "a dry, sharp wood"
+   ],
+   [
+    "Karanal",
+    "an ambery, woody punch"
+   ]
+  ]
+ },
+ "Georgywood": {
+  "type": "Synthetic",
+  "mol": "Iso E Super",
+  "source": "A synthetic woody molecule made by Firmenich.",
+  "history": "Developed in the 2000s as a more powerful relative of Iso E Super.",
+  "molecules": [
+   [
+    "Georgywood",
+    "smooth, ambery-woody, a little like Iso E Super"
+   ]
+  ]
+ },
+ "Mystikal": {
+  "type": "Synthetic",
+  "mol": "Iso E Super",
+  "source": "A synthetic molecule made by Givaudan.",
+  "history": "Developed in the 2010s to give a warm, ambery, incense-like wood.",
+  "molecules": [
+   [
+    "Mystikal",
+    "woody, ambery and resinous"
+   ]
+  ]
+ },
+ "Safraleine": {
+  "type": "Synthetic",
+  "mol": "Safranal",
+  "source": "A synthetic molecule made by Givaudan.",
+  "history": "Created to recreate saffron's leathery side, it's now in many 'saffron' perfumes.",
+  "molecules": [
+   [
+    "Safraleine",
+    "leathery, spicy saffron"
+   ]
+  ]
+ },
+ "Ambrette": {
+  "type": "Natural",
+  "plant": "Abelmoschus moschatus",
+  "source": "Distilled from the seeds of a hibiscus relative grown in Ecuador, Peru and India. It's one of the few natural plant musks.",
+  "history": "Ambrette was used in perfumes as a plant alternative to animal musk. Its musk molecule, ambrettolide, is still prized.",
+  "molecules": [
+   [
+    "Ambrettolide",
+    "soft, warm, pear-like musk"
+   ],
+   [
+    "Farnesyl acetate",
+    "a light floral note"
+   ]
+  ]
+ },
+ "Anise": {
+  "type": "Natural",
+  "plant": "Pimpinella anisum",
+  "source": "Distilled from aniseed or star anise, mainly in China and Vietnam.",
+  "history": "Anise flavoured Roman cakes and is the taste of pastis, ouzo and absinthe.",
+  "molecules": [
+   [
+    "Trans-anethole",
+    "sweet liquorice"
+   ],
+   [
+    "Anisaldehyde",
+    "powdery and sweet"
+   ],
+   [
+    "Estragole",
+    "herbal aniseed"
+   ]
+  ]
+ },
+ "Liquorice": {
+  "type": "Accord",
+  "plant": "Glycyrrhiza glabra",
+  "source": "Liquorice root tastes sweet but barely smells, so the smell is recreated with anise molecules.",
+  "history": "Liquorice root was found in Tutankhamun's tomb. Lolita Lempicka (1997) made it a perfume note.",
+  "molecules": [
+   [
+    "Trans-anethole",
+    "aniseed and liquorice"
+   ],
+   [
+    "Anisaldehyde",
+    "powdery and sweet"
+   ],
+   [
+    "Glycyrrhizin",
+    "the sweet taste (no smell)"
+   ]
+  ]
+ },
+ "Turmeric": {
+  "type": "Natural",
+  "plant": "Curcuma longa",
+  "source": "Steam-distilled from the rhizome in India.",
+  "history": "Turmeric has been used in India for about 4,000 years as a spice, dye and medicine.",
+  "molecules": [
+   [
+    "Ar-turmerone",
+    "warm, woody and earthy"
+   ],
+   [
+    "Alpha- and beta-turmerone",
+    "spicy and slightly sweet"
+   ],
+   [
+    "Zingiberene",
+    "ginger-like"
+   ]
+  ]
+ },
+ "Sesame": {
+  "type": "Accord",
+  "plant": "Sesamum indicum",
+  "source": "Built with molecules that smell of toasted seeds.",
+  "history": "Sesame is one of the oldest oilseed crops, grown in India over 4,000 years ago.",
+  "molecules": [
+   [
+    "Pyrazines",
+    "toasty and nutty"
+   ],
+   [
+    "2-Furfurylthiol",
+    "roasted"
+   ],
+   [
+    "Guaiacol",
+    "smoky"
+   ]
+  ]
+ },
+ "Hazelnut": {
+  "type": "Synthetic",
+  "plant": "Corylus avellana",
+  "source": "Recreated with roasted-nut molecules.",
+  "history": "Hazelnut became a popular gourmand note alongside praline and chocolate.",
+  "molecules": [
+   [
+    "Filbertone",
+    "the key hazelnut molecule"
+   ],
+   [
+    "Pyrazines",
+    "roasted and nutty"
+   ]
+  ]
+ },
+ "Maté": {
+  "type": "Natural",
+  "plant": "Ilex paraguariensis",
+  "source": "Absolute from dried leaves of the yerba maté shrub, from South America.",
+  "history": "The Guaraní people drank maté long before Europeans arrived. In perfume it smells green, smoky and tobacco-like.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Beta-damascenone",
+    "a warm, tobacco-like note"
+   ],
+   [
+    "Pyrazines",
+    "a roasted, hay-like note"
+   ]
+  ]
+ },
+ "Paprika": {
+  "type": "Natural",
+  "plant": "Capsicum annuum",
+  "source": "Oleoresin extracted from dried, ground sweet peppers in Spain and Hungary.",
+  "history": "Peppers came to Europe from the Americas in the 16th century. Hungary and Spain made paprika part of their national cuisines.",
+  "molecules": [
+   [
+    "2-Methoxy-3-isobutylpyrazine",
+    "green bell pepper"
+   ],
+   [
+    "Capsanthin",
+    "the red colour (no smell)"
+   ]
+  ]
+ },
+ "Fenugreek": {
+  "type": "Natural",
+  "plant": "Trigonella foenum-graecum",
+  "source": "Extracted from fenugreek seeds in India.",
+  "history": "Fenugreek has been eaten since ancient Egypt. Its key molecule, sotolon, also gives maple syrup and curry their smell.",
+  "molecules": [
+   [
+    "Sotolon",
+    "maple syrup, curry and caramel"
+   ]
+  ]
+ },
+ "Costus": {
+  "type": "Synthetic",
+  "plant": "Saussurea costus",
+  "source": "Originally from the roots of a Himalayan plant. Natural costus is now banned in perfume as an allergen, so it's recreated.",
+  "history": "Costus was used in ancient Indian and Chinese medicine. In perfume it gives a strange, animalic smell of hair or wet fur.",
+  "molecules": [
+   [
+    "Dehydrocostus lactone",
+    "the animalic note (now banned)"
+   ],
+   [
+    "Costunolide",
+    "woody and animalic (now banned)"
+   ]
+  ]
+ },
+ "Lavandin": {
+  "type": "Natural",
+  "plant": "Lavandula × intermedia",
+  "source": "Steam-distilled from a hybrid of true lavender and spike lavender, grown widely in Provence.",
+  "history": "Lavandin was planted across Provence from the 1920s because it yields far more oil than true lavender. Most of the purple fields in photos are lavandin.",
+  "molecules": [
+   [
+    "Linalool",
+    "floral and fresh"
+   ],
+   [
+    "Linalyl acetate",
+    "sweet"
+   ],
+   [
+    "Camphor",
+    "sharper and more herbal than true lavender"
+   ]
+  ]
+ },
+ "Myrtle": {
+  "type": "Natural",
+  "plant": "Myrtus communis",
+  "source": "Steam-distilled from the leaves in Corsica, Morocco and Tunisia.",
+  "history": "In ancient Greece myrtle was sacred to Aphrodite. In the 16th century 'angel water', made with myrtle, was a popular skin tonic.",
+  "molecules": [
+   [
+    "1,8-Cineole",
+    "cool and eucalyptus-like"
+   ],
+   [
+    "Alpha-pinene",
+    "fresh and resinous"
+   ],
+   [
+    "Myrtenyl acetate",
+    "sweet and herbal"
+   ]
+  ]
+ },
+ "Mace": {
+  "type": "Natural",
+  "plant": "Myristica fragrans",
+  "source": "Distilled from the red lace-like coat (aril) around the nutmeg seed.",
+  "history": "Mace and nutmeg come from the same fruit. Like nutmeg, it was once worth a fortune.",
+  "molecules": [
+   [
+    "Sabinene",
+    "warm and peppery"
+   ],
+   [
+    "Myristicin",
+    "spicy and sweet"
+   ],
+   [
+    "Elemicin",
+    "a soft, spicy-balsamic note"
+   ]
+  ]
+ },
+ "Caraway": {
+  "type": "Natural",
+  "plant": "Carum carvi",
+  "source": "Steam-distilled from caraway seeds in the Netherlands and Finland.",
+  "history": "Caraway is a mirror-image puzzle: its main molecule, D-carvone, is the exact mirror image of spearmint's L-carvone, yet they smell completely different.",
+  "molecules": [
+   [
+    "D-Carvone",
+    "warm rye-bread caraway"
+   ],
+   [
+    "Limonene",
+    "fresh citrus"
+   ]
+  ]
+ },
+ "Pimento": {
+  "type": "Natural",
+  "plant": "Pimenta dioica",
+  "source": "Distilled from allspice berries, mainly in Jamaica.",
+  "history": "Spanish explorers named it after pepper (pimienta). It's called allspice because it smells like clove, cinnamon and nutmeg at once.",
+  "molecules": [
+   [
+    "Eugenol",
+    "clove-spicy"
+   ],
+   [
+    "Methyl eugenol",
+    "soft and spicy"
+   ],
+   [
+    "Beta-caryophyllene",
+    "woody and warm"
+   ]
+  ]
+ },
+ "Angelica": {
+  "type": "Natural",
+  "plant": "Angelica archangelica",
+  "source": "Distilled from the roots or seeds, in Belgium, France and Hungary.",
+  "history": "Legend says the Archangel Michael revealed it as a cure for the plague. It flavours gin and Chartreuse.",
+  "molecules": [
+   [
+    "Pentadecanolide (Exaltolide)",
+    "a soft, natural musk"
+   ],
+   [
+    "Alpha-phellandrene",
+    "peppery and green"
+   ],
+   [
+    "Beta-phellandrene",
+    "fresh and minty"
+   ]
+  ]
+ },
+ "Artemisia": {
+  "type": "Natural",
+  "plant": "Artemisia absinthium",
+  "source": "Distilled from the leaves of wormwood and its relatives, around the Mediterranean.",
+  "history": "Wormwood gave its name and bitterness to absinthe, the 'green fairy' of 19th-century Paris.",
+  "molecules": [
+   [
+    "Thujone",
+    "bitter and herbal"
+   ],
+   [
+    "Camphor",
+    "cool and medicinal"
+   ],
+   [
+    "1,8-Cineole",
+    "fresh and eucalyptus-like"
+   ]
+  ]
+ },
+ "Melon": {
+  "type": "Synthetic",
+  "plant": "Cucumis melo",
+  "source": "Recreated with synthetic molecules.",
+  "history": "Melon notes became a hallmark of fresh, watery perfumes in the 1990s.",
+  "molecules": [
+   [
+    "Melonal",
+    "juicy melon"
+   ],
+   [
+    "Calone",
+    "watery and marine"
+   ],
+   [
+    "cis-6-Nonenol",
+    "melon rind"
+   ]
+  ]
+ },
+ "Blackberry": {
+  "type": "Synthetic",
+  "plant": "Rubus fruticosus",
+  "source": "An accord of berry and cassis molecules.",
+  "history": "L'Artisan Parfumeur's Mûre et Musc (1978) paired blackberry with musk and became a cult classic.",
+  "molecules": [
+   [
+    "Raspberry ketone",
+    "jammy berries"
+   ],
+   [
+    "Ionones",
+    "violet-like"
+   ],
+   [
+    "Cassis thiol",
+    "a dark, catty fruitiness"
+   ]
+  ]
+ },
+ "Nectarine": {
+  "type": "Synthetic",
+  "plant": "Prunus persica",
+  "source": "Recreated with lactones and fruity esters.",
+  "history": "The nectarine is a smooth-skinned peach. In perfume it's a juicier, brighter version of peach.",
+  "molecules": [
+   [
+    "Gamma-decalactone",
+    "ripe stone fruit"
+   ],
+   [
+    "Gamma-undecalactone",
+    "velvety peach"
+   ],
+   [
+    "Ethyl butyrate",
+    "juicy"
+   ]
+  ]
+ },
+ "Prunol": {
+  "type": "Synthetic",
+  "mol": "gamma-Undecalactone",
+  "source": "A historic plum 'base' (a ready-made mix) from the French firm De Laire, built mostly on fruity lactones.",
+  "history": "Prunol gave the dark plum heart to Rochas Femme (1944), created by Edmond Roudnitska.",
+  "molecules": [
+   [
+    "Gamma-undecalactone",
+    "velvety, ripe fruit"
+   ],
+   [
+    "Benzaldehyde",
+    "a kernel-like note"
+   ]
+  ]
+ },
+ "Cucumber": {
+  "type": "Synthetic",
+  "plant": "Cucumis sativus",
+  "source": "Recreated with the same molecule that gives cucumber its smell.",
+  "history": "Cucumber notes became popular in fresh, aquatic perfumes in the 1990s.",
+  "molecules": [
+   [
+    "2,6-Nonadienal",
+    "fresh-cut cucumber"
+   ],
+   [
+    "2-Nonenal",
+    "waxy and green"
+   ]
+  ]
+ },
+ "Milk": {
+  "type": "Accord",
+  "mol": "delta-Decalactone",
+  "source": "An accord built from creamy lactones.",
+  "history": "Milky notes grew with the gourmand trend of the 2000s and 2010s.",
+  "molecules": [
+   [
+    "Delta-decalactone",
+    "creamy, milky"
+   ],
+   [
+    "Delta-dodecalactone",
+    "butter and cream"
+   ],
+   [
+    "Diacetyl",
+    "buttery (in traces)"
+   ]
+  ]
+ },
+ "Lactones": {
+  "type": "Synthetic",
+  "mol": "gamma-Nonalactone",
+  "source": "A family of molecules that occur naturally in fruit and dairy, mostly made synthetically.",
+  "history": "Lactones like 'C-14' (peach) and 'C-18' (coconut) have been used since the early 20th century, as in Guerlain's Mitsouko (1919).",
+  "molecules": [
+   [
+    "Gamma-undecalactone",
+    "peach"
+   ],
+   [
+    "Gamma-nonalactone",
+    "coconut"
+   ],
+   [
+    "Delta-decalactone",
+    "cream"
+   ]
+  ]
+ },
+ "Cream": {
+  "type": "Accord",
+  "mol": "delta-Decalactone",
+  "source": "An accord of lactones and vanilla.",
+  "history": "Creamy notes soften gourmand and floral perfumes.",
+  "molecules": [
+   [
+    "Delta-decalactone",
+    "milky cream"
+   ],
+   [
+    "Vanillin",
+    "vanilla"
+   ],
+   [
+    "Coumarin",
+    "a soft, hay-like sweetness"
+   ]
+  ]
+ },
+ "Brown Sugar": {
+  "type": "Accord",
+  "mol": "Ethyl maltol",
+  "source": "An accord of caramel and molasses molecules.",
+  "history": "Brown sugar is a staple of modern gourmand perfumes.",
+  "molecules": [
+   [
+    "Ethyl maltol",
+    "caramel"
+   ],
+   [
+    "Sotolon",
+    "molasses and maple"
+   ],
+   [
+    "Vanillin",
+    "vanilla"
+   ]
+  ]
+ },
+ "Bamboo": {
+  "type": "Accord",
+  "plant": "Phyllostachys edulis",
+  "source": "Bamboo gives no oil, so it's an accord of green, watery molecules.",
+  "history": "Bamboo became a popular note in fresh, zen-inspired perfumes from the 1990s.",
+  "molecules": [
+   [
+    "cis-3-Hexenol",
+    "green stems"
+   ],
+   [
+    "Calone",
+    "a watery freshness"
+   ],
+   [
+    "Linalool",
+    "a light floral note"
+   ]
+  ]
+ },
+ "Matcha": {
+  "type": "Accord",
+  "plant": "Camellia sinensis",
+  "source": "An accord of green tea, grassy and seaweed-like molecules.",
+  "history": "The Zen monk Eisai brought powdered tea to Japan in 1191. Matcha is grown in shade, which gives it its savoury, seaweed-like smell.",
+  "molecules": [
+   [
+    "cis-3-Hexenol",
+    "fresh green"
+   ],
+   [
+    "Dimethyl sulfide",
+    "a seaweed-like savouriness"
+   ],
+   [
+    "Beta-ionone",
+    "violet and dried leaves"
+   ]
+  ]
+ },
+ "Rice": {
+  "type": "Accord",
+  "plant": "Oryza sativa",
+  "source": "An accord of powdery and popcorn-like molecules.",
+  "history": "Rice powder was used as face powder in Japan and China for centuries, which is why rice notes often feel powdery.",
+  "molecules": [
+   [
+    "2-Acetyl-1-pyrroline",
+    "the popcorn smell of jasmine and basmati rice"
+   ],
+   [
+    "Musks",
+    "a soft, powdery feel"
+   ]
+  ]
+ },
+ "Lotus": {
+  "type": "Natural & synthetic",
+  "plant": "Nelumbo nucifera",
+  "source": "Lotus absolute exists (from India), but lotus notes are usually recreated.",
+  "history": "The lotus is sacred in Hinduism and Buddhism, as a symbol of purity rising from muddy water.",
+  "molecules": [
+   [
+    "1,4-Dimethoxybenzene",
+    "sweet and hay-like"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ]
+  ]
+ },
+ "Pandan": {
+  "type": "Accord",
+  "plant": "Pandanus amaryllifolius",
+  "source": "From the leaves of the pandan plant, used across Southeast Asia. Usually an accord.",
+  "history": "Pandan is called the 'vanilla of Asia' and flavours rice and desserts.",
+  "molecules": [
+   [
+    "2-Acetyl-1-pyrroline",
+    "the same popcorn-rice smell as jasmine rice"
+   ]
+  ]
+ },
+ "Corn": {
+  "type": "Accord",
+  "plant": "Zea mays",
+  "source": "An accord of popcorn and sweetcorn molecules.",
+  "history": "Corn was domesticated in Mexico about 9,000 years ago.",
+  "molecules": [
+   [
+    "2-Acetyl-1-pyrroline",
+    "popcorn"
+   ],
+   [
+    "Dimethyl sulfide",
+    "sweetcorn"
+   ]
+  ]
+ },
+ "Cognac": {
+  "type": "Natural",
+  "mol": "Ethyl octanoate",
+  "source": "Cognac oil is distilled from the wine lees left over from making cognac in France.",
+  "history": "Cognac is a brandy from the Cognac region, aged in oak. Kilian's Angels' Share (2020) made it a perfume note.",
+  "molecules": [
+   [
+    "Ethyl octanoate",
+    "fruity and winey"
+   ],
+   [
+    "Ethyl decanoate",
+    "grape-like and boozy"
+   ]
+  ]
+ },
+ "Tonalide": {
+  "type": "Synthetic",
+  "mol": "Tonalide",
+  "source": "A synthetic musk made in the lab.",
+  "history": "Tonalide is a 'polycyclic musk' from the 1950s. It's the clean, sweet musk of many laundry products, and its use is now restricted because it lingers in the environment.",
+  "molecules": [
+   [
+    "Tonalide (AHTN)",
+    "clean, sweet, powdery musk"
+   ]
+  ]
+ },
+ "Mango": {
+  "type": "Synthetic",
+  "plant": "Mangifera indica",
+  "source": "Recreated with fruity and resinous molecules.",
+  "history": "Mango comes from India, where it has been grown for over 4,000 years.",
+  "molecules": [
+   [
+    "Delta-3-carene",
+    "resinous green mango"
+   ],
+   [
+    "Terpinolene",
+    "piney and sweet"
+   ],
+   [
+    "Lactones",
+    "ripe, creamy flesh"
+   ]
+  ]
+ },
+ "Cannabis": {
+  "type": "Natural & synthetic",
+  "plant": "Cannabis sativa",
+  "source": "Hemp essential oil is steam-distilled from the flowering tops and contains no THC.",
+  "history": "Hemp has been grown for fibre for thousands of years. Cannabis notes became a niche trend in the 2010s.",
+  "molecules": [
+   [
+    "Beta-caryophyllene",
+    "peppery and woody"
+   ],
+   [
+    "Myrcene",
+    "green and earthy"
+   ],
+   [
+    "Humulene",
+    "hoppy and woody"
+   ]
+  ]
+ },
+ "Guava": {
+  "type": "Synthetic",
+  "plant": "Psidium guajava",
+  "source": "Recreated with tropical fruit molecules.",
+  "history": "Guava comes from Central and South America.",
+  "molecules": [
+   [
+    "3-Mercaptohexyl acetate",
+    "tropical, sulphury fruit"
+   ],
+   [
+    "Ethyl butyrate",
+    "juicy"
+   ],
+   [
+    "Hexanal",
+    "green"
+   ]
+  ]
+ },
+ "Watermelon": {
+  "type": "Synthetic",
+  "plant": "Citrullus lanatus",
+  "source": "Recreated with watery, melon-like molecules.",
+  "history": "Watermelon notes peaked with the fresh, aquatic perfumes of the 1990s.",
+  "molecules": [
+   [
+    "Calone",
+    "watermelon and sea breeze"
+   ],
+   [
+    "(Z)-6-Nonenal",
+    "melon rind"
+   ]
+  ]
+ },
+ "Ginseng": {
+  "type": "Accord",
+  "plant": "Panax ginseng",
+  "source": "An earthy, rooty accord.",
+  "history": "Ginseng root has been used in Korean and Chinese medicine for over 2,000 years.",
+  "molecules": [
+   [
+    "Beta-panasinsene",
+    "woody and earthy"
+   ],
+   [
+    "Sesquiterpenes",
+    "rooty and slightly bitter"
+   ]
+  ]
+ },
+ "Parsley": {
+  "type": "Natural",
+  "plant": "Petroselinum crispum",
+  "source": "Distilled from parsley leaves or seeds.",
+  "history": "The ancient Greeks wore parsley crowns at games. In perfume it adds a sharp, green, herbal twist.",
+  "molecules": [
+   [
+    "1,3,8-p-Menthatriene",
+    "the fresh parsley key"
+   ],
+   [
+    "Apiole",
+    "herbal and warm"
+   ],
+   [
+    "Myristicin",
+    "spicy"
+   ]
+  ]
+ },
+ "Eucalyptus": {
+  "type": "Natural",
+  "plant": "Eucalyptus globulus",
+  "source": "Steam-distilled from eucalyptus leaves, in China, Portugal and Australia.",
+  "history": "Joseph Bosisto started the first commercial eucalyptus oil distillery in Victoria, Australia, in 1852.",
+  "molecules": [
+   [
+    "1,8-Cineole (eucalyptol)",
+    "70–85% of the oil: cool and medicinal"
+   ],
+   [
+    "Alpha-pinene",
+    "resinous"
+   ],
+   [
+    "Limonene",
+    "fresh citrus"
+   ]
+  ]
+ },
+ "Citrus Notes": {
+  "type": "Accord",
+  "plant": "Citrus aurantium",
+  "source": "A general term for the smell of citrus peel and juice.",
+  "history": "Citrus colognes are among the oldest perfumes. Farina's Eau de Cologne (1709) was built on them.",
+  "molecules": [
+   [
+    "Limonene",
+    "citrus peel"
+   ],
+   [
+    "Citral",
+    "lemony"
+   ],
+   [
+    "Linalyl acetate",
+    "bergamot-like"
+   ]
+  ]
+ },
+ "Hay": {
+  "type": "Natural & synthetic",
+  "mol": "Coumarin",
+  "source": "Hay absolute is extracted from dried grasses. Coumarin gives most of the smell.",
+  "history": "Coumarin is what makes freshly dried hay smell sweet. Hay absolute is used in warm, rustic perfumes.",
+  "molecules": [
+   [
+    "Coumarin",
+    "sweet hay and almond"
+   ],
+   [
+    "Dihydrocoumarin",
+    "soft and caramel-like"
+   ]
+  ]
+ },
+ "Honeysuckle": {
+  "type": "Synthetic",
+  "plant": "Lonicera periclymenum",
+  "source": "Honeysuckle gives no oil, so it's an accord.",
+  "history": "Honeysuckle climbs hedges across Europe and smells strongest at dusk, to attract moths.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Methyl anthranilate",
+    "sweet and grape-like"
+   ],
+   [
+    "Indole",
+    "a heady, animalic warmth"
+   ]
+  ]
+ },
+ "Moss": {
+  "type": "Natural & synthetic",
+  "plant": "Evernia prunastri",
+  "source": "Oakmoss and treemoss (a lichen on conifers) give mossy extracts. Restricted allergens are now removed.",
+  "history": "Mossy notes are the backbone of the chypre family, which began with Coty's Chypre (1917).",
+  "molecules": [
+   [
+    "Methyl beta-orcinolcarboxylate (Evernyl)",
+    "mossy and earthy"
+   ],
+   [
+    "Geosmin",
+    "wet soil (in traces)"
+   ]
+  ]
+ },
+ "White Flowers": {
+  "type": "Accord",
+  "plant": "Jasminum sambac",
+  "source": "A bouquet accord of jasmine, tuberose, orange blossom and gardenia.",
+  "history": "White flowers are the backbone of many feminine classics, from Fracas (1948) to modern bridal perfumes.",
+  "molecules": [
+   [
+    "Benzyl acetate",
+    "fruity jasmine"
+   ],
+   [
+    "Indole",
+    "heady, animalic warmth"
+   ],
+   [
+    "Methyl anthranilate",
+    "sweet orange blossom"
+   ]
+  ]
+ },
+ "Red Berries": {
+  "type": "Accord",
+  "plant": "Rubus idaeus",
+  "source": "An accord of raspberry, strawberry and redcurrant notes.",
+  "history": "Red berries became a staple of fruity-floral perfumes from the 1990s.",
+  "molecules": [
+   [
+    "Raspberry ketone",
+    "jammy raspberry"
+   ],
+   [
+    "Furaneol",
+    "strawberry jam"
+   ],
+   [
+    "Beta-ionone",
+    "violet-berry"
+   ]
+  ]
+ },
+ "Strawberry": {
+  "type": "Synthetic",
+  "plant": "Fragaria × ananassa",
+  "source": "Recreated with sweet, jammy molecules.",
+  "history": "The garden strawberry was bred in 18th-century France by crossing a Chilean and a North American species.",
+  "molecules": [
+   [
+    "Furaneol",
+    "strawberry jam and caramel"
+   ],
+   [
+    "Ethyl methylphenylglycidate ('C-16')",
+    "strawberry sweets"
+   ],
+   [
+    "Methyl cinnamate",
+    "a balsamic, fruity note"
+   ]
+  ]
+ },
+ "Lychee": {
+  "type": "Synthetic",
+  "plant": "Litchi chinensis",
+  "source": "Recreated with rosy, fruity molecules.",
+  "history": "Lychee was the favourite fruit of the Tang dynasty consort Yang Guifei, and riders relayed it fresh to the capital for her.",
+  "molecules": [
+   [
+    "Rose oxide",
+    "the green, rosy lychee key"
+   ],
+   [
+    "Geraniol",
+    "rose"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ]
+  ]
+ },
+ "Citron": {
+  "type": "Natural",
+  "plant": "Citrus medica",
+  "source": "Pressed from the peel of the citron, a large, thick-skinned citrus grown around the Mediterranean.",
+  "history": "Citron is one of the original citrus species and was the first to reach the Mediterranean, over 2,000 years ago. It's used in the Jewish festival of Sukkot.",
+  "molecules": [
+   [
+    "Limonene",
+    "citrus peel"
+   ],
+   [
+    "Gamma-terpinene",
+    "sharp and green"
+   ],
+   [
+    "Citral",
+    "lemony"
+   ]
+  ]
+ },
+ "Verbena": {
+  "type": "Natural & synthetic",
+  "plant": "Aloysia citrodora",
+  "source": "Lemon verbena from South America. The oil is restricted because it can irritate skin, so it's often recreated.",
+  "history": "Spanish explorers brought lemon verbena to Europe in the 17th century. It's a classic of French colognes and herbal teas.",
+  "molecules": [
+   [
+    "Citral",
+    "sharp, sweet lemon"
+   ],
+   [
+    "Limonene",
+    "fresh citrus"
+   ],
+   [
+    "1,8-Cineole",
+    "a cool herbal touch"
+   ]
+  ]
+ },
+ "Smoke": {
+  "type": "Accord",
+  "mol": "Guaiacol",
+  "source": "An accord of smoky materials like birch tar, cade oil and guaiacol.",
+  "history": "Smoky notes recall campfires and incense. Lapsang souchong tea and smoked woods inspire many niche perfumes.",
+  "molecules": [
+   [
+    "Guaiacol",
+    "campfire smoke"
+   ],
+   [
+    "4-Methylguaiacol",
+    "smoky and spicy"
+   ],
+   [
+    "Cresols",
+    "tarry"
+   ]
+  ]
+ },
+ "Spices": {
+  "type": "Accord",
+  "mol": "Eugenol",
+  "source": "A general term for warm spice notes.",
+  "history": "The spice trade shaped history and perfumery alike. Spicy perfumes boomed with Opium (1977).",
+  "molecules": [
+   [
+    "Eugenol",
+    "clove"
+   ],
+   [
+    "Cinnamaldehyde",
+    "cinnamon"
+   ],
+   [
+    "Beta-caryophyllene",
+    "pepper"
+   ]
+  ]
+ },
+ "Orcanox": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "A synthetic ambery molecule.",
+  "history": "Used to give a warm, ambergris-like effect, similar to Ambrox.",
+  "molecules": [
+   [
+    "Orcanox",
+    "ambery, woody and slightly salty"
+   ]
+  ]
+ },
+ "Davana": {
+  "type": "Natural",
+  "plant": "Artemisia pallens",
+  "source": "Steam-distilled from a small herb grown in Karnataka, India.",
+  "history": "Davana is offered to the god Shiva in India. Its smell is boozy and fruity, like dried apricots in brandy.",
+  "molecules": [
+   [
+    "Davanone",
+    "fruity, boozy and herbal"
+   ]
+  ]
+ },
+ "Pittosporum": {
+  "type": "Accord",
+  "plant": "Pittosporum tobira",
+  "source": "Pittosporum gives no oil, so its scent is an accord.",
+  "history": "Pittosporum hedges line Mediterranean gardens, and in spring their flowers smell like orange blossom.",
+  "molecules": [
+   [
+    "Methyl anthranilate",
+    "orange-blossom sweetness"
+   ],
+   [
+    "Linalool",
+    "fresh and floral"
+   ]
+  ]
+ },
+ "Maltol": {
+  "type": "Synthetic",
+  "mol": "Maltol",
+  "source": "A molecule found in larch bark and roasted malt, mostly made synthetically.",
+  "history": "Maltol and its stronger cousin ethyl maltol made the 'candy floss' smell of gourmand perfumes possible.",
+  "molecules": [
+   [
+    "Maltol",
+    "candy floss, caramel and toasted malt"
+   ]
+  ]
+ },
+ "Datura": {
+  "type": "Accord",
+  "plant": "Datura stramonium",
+  "source": "Datura is poisonous and gives no extract, so it's an accord.",
+  "history": "Datura (angel's trumpet) flowers open at night with a heady, lily-like smell.",
+  "molecules": [
+   [
+    "Methyl benzoate",
+    "heady"
+   ],
+   [
+    "Linalool",
+    "floral"
+   ],
+   [
+    "Indole",
+    "narcotic warmth"
+   ]
+  ]
+ },
+ "Resins": {
+  "type": "Accord",
+  "plant": "Boswellia sacra",
+  "source": "A general term for frankincense, myrrh, benzoin, labdanum and other tree resins.",
+  "history": "Resins were among the first perfumes: 'per fumum' means 'through smoke' in Latin.",
+  "molecules": [
+   [
+    "Alpha-pinene",
+    "fresh resin"
+   ],
+   [
+    "Benzyl benzoate",
+    "balsamic"
+   ],
+   [
+    "Vanillin",
+    "sweetness"
+   ]
+  ]
+ },
+ "Amyris": {
+  "type": "Natural",
+  "plant": "Amyris balsamifera",
+  "source": "Distilled from the wood of a small tree from Haiti and Jamaica.",
+  "history": "Sold as 'West Indian sandalwood', though it isn't related to sandalwood. It's a soft, cheap woody base.",
+  "molecules": [
+   [
+    "Valerianol",
+    "woody and soft"
+   ],
+   [
+    "Elemol",
+    "woody and sweet"
+   ],
+   [
+    "Beta-eudesmol",
+    "woody"
+   ]
+  ]
+ },
+ "Marjoram": {
+  "type": "Natural",
+  "plant": "Origanum majorana",
+  "source": "Distilled from the leaves and flowers in Egypt.",
+  "history": "Greeks crowned newlyweds with marjoram as a symbol of happiness.",
+  "molecules": [
+   [
+    "Terpinen-4-ol",
+    "warm, spicy and herbal"
+   ],
+   [
+    "Sabinene hydrate",
+    "sweet and herbal"
+   ]
+  ]
+ },
+ "Thyme": {
+  "type": "Natural",
+  "plant": "Thymus vulgaris",
+  "source": "Distilled from thyme in Spain.",
+  "history": "Egyptians used thyme in embalming and the Greeks in their baths. Its main molecule, thymol, is a natural antiseptic.",
+  "molecules": [
+   [
+    "Thymol",
+    "warm, herbal and medicinal"
+   ],
+   [
+    "Carvacrol",
+    "oregano-like"
+   ],
+   [
+    "p-Cymene",
+    "fresh and citrusy"
+   ]
+  ]
+ },
+ "Fennel": {
+  "type": "Natural",
+  "plant": "Foeniculum vulgare",
+  "source": "Distilled from fennel seeds.",
+  "history": "Fennel was valued by Romans, and is one of the herbs in absinthe.",
+  "molecules": [
+   [
+    "Trans-anethole",
+    "sweet aniseed"
+   ],
+   [
+    "Fenchone",
+    "bitter and camphorous"
+   ]
+  ]
+ },
+ "Cascarilla": {
+  "type": "Natural",
+  "plant": "Croton eluteria",
+  "source": "Distilled from the bark of a shrub from the Bahamas.",
+  "history": "Cascarilla bark flavours Campari and Vermouth, and was once added to tobacco.",
+  "molecules": [
+   [
+    "p-Cymene",
+    "fresh"
+   ],
+   [
+    "Beta-caryophyllene",
+    "spicy-woody"
+   ],
+   [
+    "Linalool",
+    "floral"
+   ]
+  ]
+ },
+ "Ivy": {
+  "type": "Accord",
+  "plant": "Hedera helix",
+  "source": "Ivy gives no oil, so it's a green accord.",
+  "history": "Ivy was sacred to Dionysus in ancient Greece. In perfume it gives a bitter, leafy green.",
+  "molecules": [
+   [
+    "cis-3-Hexenol",
+    "green leaves"
+   ],
+   [
+    "Triplal",
+    "sharp, green sap"
+   ]
+  ]
+ },
+ "Ambrettolide": {
+  "type": "Synthetic",
+  "mol": "Ambrettolide",
+  "source": "A musk molecule found in ambrette seeds, now mostly made synthetically.",
+  "history": "Identified in ambrette seed oil in the 1920s, it is one of the most prized natural-identical musks.",
+  "molecules": [
+   [
+    "Ambrettolide",
+    "soft, fruity-floral musk"
+   ]
+  ]
+ },
+ "Bayberry": {
+  "type": "Accord",
+  "plant": "Myrica cerifera",
+  "source": "Bayberry (wax myrtle) grows on North America's east coast. Its scent in perfume is an accord.",
+  "history": "Colonial Americans boiled bayberries to make fragrant wax for Christmas candles.",
+  "molecules": [
+   [
+    "Myrcene",
+    "green and balsamic"
+   ],
+   [
+    "Eugenol",
+    "a spicy, clove-like warmth"
+   ]
+  ]
+ },
+ "Marigold": {
+  "type": "Natural",
+  "plant": "Tagetes minuta",
+  "source": "Tagetes oil is distilled from Mexican marigold in Egypt and South Africa. Its use is restricted.",
+  "history": "Marigolds are central to Mexico's Day of the Dead. The oil smells fruity, green and apple-like.",
+  "molecules": [
+   [
+    "(Z)-Tagetone",
+    "fruity, apple-green"
+   ],
+   [
+    "Ocimene",
+    "sweet and herbal"
+   ],
+   [
+    "Dihydrotagetone",
+    "fruity"
+   ]
+  ]
+ },
+ "Four O'Clock Flower": {
+  "type": "Accord",
+  "plant": "Mirabilis jalapa",
+  "source": "The flower gives no oil, so it's an accord.",
+  "history": "Named because its flowers open in the late afternoon. It comes from the tropical Americas.",
+  "molecules": [
+   [
+    "Linalool",
+    "fresh and floral"
+   ],
+   [
+    "Benzyl benzoate",
+    "soft and balsamic"
+   ]
+  ]
+ },
+ "Spun Sugar": {
+  "type": "Synthetic",
+  "mol": "Ethyl maltol",
+  "source": "Recreated with candy floss molecules.",
+  "history": "Spun sugar notes are a key part of the gourmand family that began with Angel (1992).",
+  "molecules": [
+   [
+    "Ethyl maltol",
+    "candy floss"
+   ],
+   [
+    "Maltol",
+    "caramelised sugar"
+   ]
+  ]
+ },
+ "Chestnut": {
+  "type": "Accord",
+  "plant": "Castanea sativa",
+  "source": "An accord of roasted nut and sweet molecules.",
+  "history": "Roasted chestnuts are a winter street food across Europe.",
+  "molecules": [
+   [
+    "Pyrazines",
+    "roasted"
+   ],
+   [
+    "Furaneol",
+    "sweet and caramelised"
+   ]
+  ]
+ },
+ "Cade": {
+  "type": "Natural",
+  "plant": "Juniperus oxycedrus",
+  "source": "A tar made by heating the wood of prickly juniper, then refined.",
+  "history": "Cade oil was used for centuries in skin medicine and gives a smoky, leathery note in perfumes.",
+  "molecules": [
+   [
+    "Guaiacol",
+    "smoky"
+   ],
+   [
+    "Cresols",
+    "tarry and leathery"
+   ],
+   [
+    "Cadinene",
+    "woody"
+   ]
+  ]
+ },
+ "Carrot Seed": {
+  "type": "Natural",
+  "plant": "Daucus carota",
+  "source": "Distilled from wild carrot seeds in France and Hungary.",
+  "history": "Perfumers love carrot seed because it smells a little like iris, earthy and powdery, at a fraction of the price.",
+  "molecules": [
+   [
+    "Carotol",
+    "earthy, woody and orris-like"
+   ]
+  ]
+ },
+ "Nettle": {
+  "type": "Accord",
+  "plant": "Urtica dioica",
+  "source": "A green, herbal accord.",
+  "history": "Nettles were used for fibre, food and medicine across Europe.",
+  "molecules": [
+   [
+    "cis-3-Hexenol",
+    "green"
+   ],
+   [
+    "Hexanal",
+    "leafy"
+   ]
+  ]
+ },
+ "Peach Blossom": {
+  "type": "Accord",
+  "plant": "Prunus persica",
+  "source": "Peach blossom gives no oil, so it's a soft floral-fruity accord.",
+  "history": "In China peach blossom symbolises spring and love.",
+  "molecules": [
+   [
+    "Gamma-undecalactone",
+    "peach"
+   ],
+   [
+    "Heliotropin",
+    "powdery almond"
+   ],
+   [
+    "Linalool",
+    "floral"
+   ]
+  ]
+ },
+ "Tomato Leaf": {
+  "type": "Accord",
+  "plant": "Solanum lycopersicum",
+  "source": "An accord based on the smell of tomato vines.",
+  "history": "The bitter-green smell you get when brushing a tomato plant comes mainly from one molecule, isobutylthiazole.",
+  "molecules": [
+   [
+    "2-Isobutylthiazole",
+    "green tomato vine"
+   ],
+   [
+    "cis-3-Hexenol",
+    "fresh leaves"
+   ]
+  ]
+ },
+ "Paradisone": {
+  "type": "Synthetic",
+  "mol": "Methyl dihydrojasmonate",
+  "source": "A purified form of Hedione made by Firmenich.",
+  "history": "Paradisone is the most powerful isomer of Hedione, about 20 times stronger.",
+  "molecules": [
+   [
+    "(+)-cis-Methyl dihydrojasmonate",
+    "radiant, airy jasmine"
+   ]
+  ]
+ },
+ "Cetalox": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "Firmenich's name for its Ambrox molecule.",
+  "history": "Cetalox is the brand name for Firmenich's ambroxide, created to replace ambergris.",
+  "molecules": [
+   [
+    "Ambroxide",
+    "dry, salty amber"
+   ]
+  ]
+ },
+ "Cachalox": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "A synthetic ambery molecule. The name nods to the cachalot, the French word for sperm whale.",
+  "history": "Created to give an ambergris-like warmth.",
+  "molecules": [
+   [
+    "Cachalox",
+    "ambery and woody"
+   ]
+  ]
+ },
+ "Muscenone": {
+  "type": "Synthetic",
+  "mol": "Muscone",
+  "source": "A synthetic macrocyclic musk made by Firmenich.",
+  "history": "Muscenone is close to muscone, the musk-deer molecule, and is prized for its rich, natural musk smell.",
+  "molecules": [
+   [
+    "Muscenone",
+    "rich, warm, natural-smelling musk"
+   ]
+  ]
+ },
+ "Muscone": {
+  "type": "Synthetic",
+  "mol": "Muscone",
+  "source": "The key molecule of musk-deer musk, now made synthetically.",
+  "history": "Leopold Ružička worked out its ring structure in 1926 and later won a Nobel Prize.",
+  "molecules": [
+   [
+    "Muscone",
+    "warm, animal musk"
+   ]
+  ]
+ },
+ "Exaltolide": {
+  "type": "Synthetic",
+  "mol": "Pentadecanolide",
+  "source": "A musk molecule found in angelica root, made synthetically by Firmenich.",
+  "history": "One of the earliest macrocyclic musks, made in the 1920s.",
+  "molecules": [
+   [
+    "Pentadecanolide",
+    "soft, clean, musky"
+   ]
+  ]
+ },
+ "Exaltone": {
+  "type": "Synthetic",
+  "mol": "Cyclopentadecanone",
+  "source": "A synthetic musk ketone.",
+  "history": "Ružička first made it in 1926. It was one of the first synthetic musks that resemble natural musk.",
+  "molecules": [
+   [
+    "Cyclopentadecanone",
+    "warm, animalic musk"
+   ]
+  ]
+ },
+ "Habanolide": {
+  "type": "Synthetic",
+  "mol": "Habanolide",
+  "source": "A synthetic musk made by Firmenich.",
+  "history": "Habanolide gives a 'hot iron', clean-laundry musk to many modern perfumes.",
+  "molecules": [
+   [
+    "Habanolide",
+    "clean, metallic, warm musk"
+   ]
+  ]
+ },
+ "Helvetolide": {
+  "type": "Synthetic",
+  "mol": "Helvetolide",
+  "source": "A synthetic musk made by Firmenich.",
+  "history": "Launched in the 1990s, it adds a fruity, pear-like musk.",
+  "molecules": [
+   [
+    "Helvetolide",
+    "fruity, pear-like musk"
+   ]
+  ]
+ },
+ "Dreamwood": {
+  "type": "Synthetic",
+  "mol": "beta-Santalol",
+  "source": "A synthetic creamy sandalwood material.",
+  "history": "Made to replace scarce Indian sandalwood.",
+  "molecules": [
+   [
+    "Dreamwood",
+    "creamy, milky sandalwood"
+   ]
+  ]
+ },
+ "Clearwood": {
+  "type": "Synthetic",
+  "mol": "Patchoulol",
+  "source": "A Firmenich material made by fermentation (biotech). It smells like patchouli without the earthy darkness.",
+  "history": "Launched in the 2010s as a 'clean' patchouli.",
+  "molecules": [
+   [
+    "Patchoulol",
+    "woody and clean"
+   ]
+  ]
+ },
+ "Vulcanolide": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "A synthetic woody-ambery molecule.",
+  "history": "Used in modern perfumes for a warm, smoky wood.",
+  "molecules": [
+   [
+    "Vulcanolide",
+    "woody, ambery and slightly leathery"
+   ]
+  ]
+ },
+ "Limbanol": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "A synthetic woody-ambery molecule.",
+  "history": "Part of the family of dry woody-ambers popular in the 2000s and 2010s.",
+  "molecules": [
+   [
+    "Norlimbanol",
+    "dry, sharp, ambery wood"
+   ]
+  ]
+ },
+ "Woodleather": {
+  "type": "Accord",
+  "mol": "6-Isobutylquinoline",
+  "source": "An accord of woods and leather.",
+  "history": "A modern take on the leather family.",
+  "molecules": [
+   [
+    "Isobutyl quinoline",
+    "leathery"
+   ],
+   [
+    "Cedrol",
+    "dry wood"
+   ]
+  ]
+ },
+ "Cascalone": {
+  "type": "Synthetic",
+  "mol": "Calone",
+  "source": "A synthetic marine molecule related to Calone.",
+  "history": "Cascalone gives a fresh, sea-spray note, stronger and more natural than Calone.",
+  "molecules": [
+   [
+    "Cascalone",
+    "sea spray, oyster and ozone"
+   ]
+  ]
+ },
+ "Irone": {
+  "type": "Natural & synthetic",
+  "mol": "alpha-Irone",
+  "source": "The molecule that gives iris root its smell. Found in orris butter, also made synthetically.",
+  "history": "Irones form slowly as iris roots dry for years, which is why orris is so costly.",
+  "molecules": [
+   [
+    "Alpha-irone",
+    "powdery, violet-like"
+   ]
+  ]
+ },
+ "Z11": {
+  "type": "Synthetic",
+  "mol": "Ambroxide",
+  "source": "A synthetic woody-ambery material.",
+  "history": "Used in modern perfumes for a dry, ambery wood.",
+  "molecules": [
+   [
+    "Z11",
+    "dry, woody and ambery"
+   ]
+  ]
+ },
+ "Chamomile": {
+  "type": "Natural",
+  "plant": "Matricaria chamomilla",
+  "source": "Distilled from chamomile flowers. German chamomile oil is blue; Roman chamomile is fruity.",
+  "history": "Chamomile tea has been a calming remedy since ancient Egypt.",
+  "molecules": [
+   [
+    "Chamazulene",
+    "the blue colour of German chamomile"
+   ],
+   [
+    "Isobutyl angelate",
+    "fruity, apple-like (Roman chamomile)"
+   ],
+   [
+    "Alpha-bisabolol",
+    "soft and floral"
+   ]
+  ]
+ },
+ "Gurjun Balsam": {
+  "type": "Natural",
+  "plant": "Dipterocarpus turbinatus",
+  "source": "Resin tapped from tall trees in India and Southeast Asia.",
+  "history": "Gurjun balsam is used as a soft, woody fixative.",
+  "molecules": [
+   [
+    "Alpha-gurjunene",
+    "woody and balsamic"
+   ]
+  ]
+ },
+ "Hawthorn": {
+  "type": "Accord",
+  "plant": "Crataegus monogyna",
+  "source": "Hawthorn gives no oil, so it's an accord.",
+  "history": "Hawthorn blossom ('may') flowers in English hedgerows in May. It smells sweet and almondy.",
+  "molecules": [
+   [
+    "Anisaldehyde",
+    "sweet, almond-like"
+   ],
+   [
+    "Linalool",
+    "floral"
+   ]
+  ]
+ },
+ "Liatris": {
+  "type": "Natural",
+  "plant": "Liatris odoratissima",
+  "source": "Leaves of 'deer's tongue', from the south-eastern USA.",
+  "history": "Its leaves were used to flavour pipe tobacco for their vanilla-hay smell.",
+  "molecules": [
+   [
+    "Coumarin",
+    "sweet hay and vanilla"
+   ]
+  ]
+ },
+ "White Woods": {
+  "type": "Accord",
+  "mol": "Iso E Super",
+  "source": "An accord of soft, pale, clean synthetic woods and musks.",
+  "history": "White woods became popular in the 2000s as a clean, modern wood.",
+  "molecules": [
+   [
+    "Iso E Super",
+    "velvety wood"
+   ],
+   [
+    "Cashmeran",
+    "soft musky wood"
+   ],
+   [
+    "Musks",
+    "clean softness"
+   ]
+  ]
+ },
+ "Sun-Warmed Woods": {
+  "type": "Accord",
+  "mol": "Benzyl salicylate",
+  "source": "An accord of woods and salicylates that smells like sun on skin.",
+  "history": "Salicylates are also used in sunscreen, which is why they smell like summer.",
+  "molecules": [
+   [
+    "Benzyl salicylate",
+    "warm skin and sunscreen"
+   ],
+   [
+    "Cedrol",
+    "dry wood"
+   ],
+   [
+    "Iso E Super",
+    "velvety wood"
+   ]
+  ]
+ }
+}

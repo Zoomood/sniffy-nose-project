@@ -1,0 +1,185 @@
+{
+ "_help": "Every piece of wording on the website. {name} is filled in by the site. [[word]] becomes a hoverable glossary/dictionary word. Counts use {\"one\": ..., \"other\": ...}.",
+
+ "meta": {
+  "title": "Sniffy Nose",
+  "description": "Search a perfume and see its notes, level by level.",
+  "logo": "Sniffy Nose",
+  "footer": "Notes are gathered from each brand's website and Fragrantica. Pyramids are a guide - your skin tells the rest of the story."
+ },
+
+ "nav": {
+  "home": "Find a perfume",
+  "dictionary": "Notes dictionary",
+  "glossary": "Glossary",
+  "history": "History"
+ },
+
+ "theme": {
+  "to_dark": "Dark",
+  "to_light": "Light",
+  "to_dark_label": "Switch to dark mode",
+  "to_light_label": "Switch to light mode"
+ },
+
+ "common": {
+  "all": "All",
+  "no_match": "No match.",
+  "checking": "Checking our shelves…",
+  "error_title": "Hmm, that didn't work",
+  "try_again": "Try again",
+  "request_failed": "Something went wrong ({status}).",
+  "back_label": "Back",
+  "other_family": "Other"
+ },
+
+ "crumbs": {
+  "home": "Search",
+  "dictionary": "Notes dictionary",
+  "glossary": "Glossary",
+  "history": "History",
+  "perfume": "Perfume",
+  "type_fallback": "Notes by type",
+  "shelf": "On our shelf: {name}",
+  "back": "Back"
+ },
+
+ "tooltip": {
+  "loading": "Sniffing…",
+  "term": "Perfume term",
+  "kind_of": "A type of {name}.",
+  "ai": "Not in our dictionary yet - AI-written summary.",
+  "open_note": "Click for its history and chemistry",
+  "failed": "Couldn't load a description right now."
+ },
+
+ "home": {
+  "eyebrow": "A perfume, note by note",
+  "title_line1": "What's in",
+  "title_line2": "that bottle?",
+  "lede": "Type a perfume's name to see its notes from the brand and [[Fragrantica]], laid out from the first spray to the dry-down.",
+  "placeholder": "Ganymede, Dior Sauvage, Baccarat Rouge 540",
+  "input_label": "Perfume name",
+  "search": "Search",
+  "try": "Try",
+  "bottle_label": "A crystal perfume bottle filling with three layers of notes",
+  "steps": [
+   {"n": "01", "title": "Search a perfume", "text": "Type its name. Adding the brand helps, e.g. \"Dior Sauvage\"."},
+   {"n": "02", "title": "Read the bottle", "text": "[[Top notes]], [[heart notes]] and [[base notes]] - what you smell first, next and last."},
+   {"n": "03", "title": "Hover any note", "text": "Tap or hover an ingredient (or a word like [[sillage]]) for a quick explanation."}
+  ]
+ },
+
+ "search": {
+  "bottle_label": "A perfume bottle spraying",
+  "messages": [
+   "Checking our shelves…",
+   "Visiting the brand's website…",
+   "Comparing the note lists…",
+   "Sorting top, heart and base…",
+   "Almost there - letting it dry down…"
+  ],
+  "not_found_title": "Not on our shelves yet",
+  "did_you_mean": "Did you mean:",
+  "search_web": "None of these - search the web",
+  "search_again": "Search again"
+ },
+
+ "perfume": {
+  "bottle_label": "Perfume bottle",
+  "nose": "Nose",
+  "levels": {
+   "top": {"title": "Top notes", "when": "first 15–30 min", "term": "Top Notes"},
+   "heart": {"title": "Heart notes", "when": "30 min – 3 hrs", "term": "Heart Notes"},
+   "base": {"title": "Base notes", "when": "3 hrs and beyond", "term": "Base Notes"}
+  },
+  "flat": {"title": "All notes", "when": "a linear scent - much the same from start to finish", "term": "Note Pyramid"},
+  "empty_level": "No notes listed for this level.",
+  "brand_site": "Brand website ↗",
+  "fragrantica": "Fragrantica ↗",
+  "profile_title": "Scent profile",
+  "profile_sub": "What it's made of, by family",
+  "sources_title": "Where this information came from",
+  "sources": {
+   "brand": "the brand's website",
+   "fragrantica": "Fragrantica",
+   "retailer": "a retailer listing",
+   "curated": "added by hand"
+  }
+ },
+
+ "dictionary": {
+  "title": "Notes dictionary",
+  "intro": "Every ingredient, explained in plain words. Filter by family or search for a note you saw on a bottle.",
+  "placeholder": "Search notes - e.g. ozone, oud, tonka",
+  "input_label": "Search notes",
+  "none": "No match - hover a note on a perfume page and we'll explain it anyway.",
+  "aka": "aka {names}",
+  "more": "History and chemistry →"
+ },
+
+ "types": {
+  "title": "{type} notes",
+  "count": {"one": "{n} note in our dictionary.", "other": "{n} notes in our dictionary."},
+  "placeholder": "Search {type} notes",
+  "input_label": "Search notes",
+  "unknown": "We don't have a note type by that name.",
+  "see_all": "See all {type} notes"
+ },
+
+ "glossary": {
+  "title": "Perfume glossary",
+  "intro": "The jargon decoded - from [[sillage]] to [[chypre]]. Underlined words anywhere on the site can be hovered for a quick definition.",
+  "placeholder": "Search terms",
+  "input_label": "Search terms",
+  "also": "also: {names}"
+ },
+
+ "note": {
+  "loading": "Opening the dictionary…",
+  "alt_molecule": "Structure of {name}",
+  "alt_plant": "Botanical illustration of {name}",
+  "credit_molecule": "Structure from PubChem",
+  "credit_photo": "Photo {artist} · iNaturalist",
+  "also_called": "Also called {names}",
+  "source": "Where it comes from",
+  "history": "A brief history",
+  "chemistry": "The chemistry",
+  "chemistry_hint": "The molecules that create the smell",
+  "shelf_link": "On our shelf →",
+  "shelf_count": {"one": "{n} perfume in our collection uses {name}.", "other": "{n} perfumes in our collection use {name}."},
+  "shelf_button": "See them all"
+ },
+
+ "shelf": {
+  "title": "On our shelf: {name}",
+  "count": {"one": "{n} perfume in our collection with {name} in the pyramid.", "other": "{n} perfumes in our collection with {name} in the pyramid."},
+  "placeholder": "Search by perfume or brand",
+  "input_label": "Search perfumes",
+  "levels": {"top": "Top note", "heart": "Heart note", "base": "Base note"}
+ },
+
+ "history": {
+  "title": "A history of perfume",
+  "intro": "Five thousand years, left to right: from incense smoke in Mesopotamia to molecules grown by fermentation. Hover or tap a milestone to see it.",
+  "eras_label": "Jump to an era",
+  "earlier": "Earlier",
+  "later": "Later",
+  "rail_label": "Timeline - scroll sideways",
+  "alt_molecule": "Structure of {name}",
+  "credit_molecule": "Structure of {name}",
+  "pubchem": "PubChem"
+ },
+
+ "errors": {
+  "note_missing": "That note isn't in the dictionary.",
+  "perfume_missing": "That perfume isn't in the database.",
+  "not_in_database": "“{q}” isn't in the database yet.",
+  "no_exact_match": "We don't have an exact match for “{q}”.",
+  "not_found_web": "Couldn't find a perfume called “{q}”. Try adding the brand name.",
+  "lookup_incomplete": "The lookup came back incomplete ({error}).",
+  "no_entry": "No dictionary entry yet for this one."
+ },
+
+ "autolink_skip": ["note", "notes", "heart", "opening", "level-1", "level-2", "level-3", "synthetic", "molecule", "synthetics", "parfum", "cologne"]
+}

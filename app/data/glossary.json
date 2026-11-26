@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Olfactory",
+    "aliases": [
+      "Olfaction"
+    ],
+    "description": "Anything to do with the sense of smell. An 'olfactory family' is a group of scents that share a similar character, like citrus or woody."
+  },
+  {
+    "name": "Nose",
+    "aliases": [
+      "Perfumer",
+      "Parfumeur"
+    ],
+    "description": "The professional who composes perfumes. They train for years to recognize and combine thousands of raw materials."
+  },
+  {
+    "name": "Notes",
+    "aliases": [
+      "Note"
+    ],
+    "description": "The individual smells you can pick out in a perfume, like 'bergamot' or 'vanilla'. A note can be a real ingredient or an impression built from several."
+  },
+  {
+    "name": "Top Notes",
+    "aliases": [
+      "Opening",
+      "Head Notes",
+      "Level 1"
+    ],
+    "description": "What you smell first, in roughly the first 5-30 minutes. They're light and evaporate fastest, so they make the first impression."
+  },
+  {
+    "name": "Heart Notes",
+    "aliases": [
+      "Middle Notes",
+      "Heart",
+      "Level 2"
+    ],
+    "description": "The main character of the perfume, appearing as the top notes fade and lasting a few hours. Often florals and spices."
+  },
+  {
+    "name": "Base Notes",
+    "aliases": [
+      "Dry-down",
+      "Drydown",
+      "Level 3"
+    ],
+    "description": "The heaviest molecules that stay on skin longest, sometimes all day. Woods, resins, musks and vanilla usually live here."
+  },
+  {
+    "name": "Note Pyramid",
+    "aliases": [
+      "Fragrance Pyramid",
+      "Olfactory Pyramid"
+    ],
+    "description": "A way to show how a perfume changes over time: top notes first, then heart, then base. It's a simplified guide rather than an exact recipe."
+  },
+  {
+    "name": "Accord",
+    "description": "A blend of several ingredients that together create one new smell, like a musical chord. 'Leather accord' or 'amber accord' are common examples."
+  },
+  {
+    "name": "Sillage",
+    "description": "The scent trail a perfume leaves behind you in a room (French for 'wake'). Strong sillage means people notice it as you walk past."
+  },
+  {
+    "name": "Longevity",
+    "description": "How long a perfume lasts on your skin before you can no longer smell it. Depends on the ingredients, concentration and your skin."
+  },
+  {
+    "name": "Projection",
+    "description": "How far the scent radiates from your body while you wear it. A perfume can last long but stay close to the skin."
+  },
+  {
+    "name": "Concentration",
+    "description": "How much perfume oil is in the bottle, which affects strength and price. From lightest to strongest: Eau de Cologne, Eau de Toilette, Eau de Parfum, Parfum or Extrait."
+  },
+  {
+    "name": "Eau de Parfum",
+    "aliases": [
+      "EDP"
+    ],
+    "description": "A concentration with about 15-20% perfume oil. Usually lasts 6-8 hours and is the most common strength for modern fragrances."
+  },
+  {
+    "name": "Eau de Toilette",
+    "aliases": [
+      "EDT"
+    ],
+    "description": "A lighter concentration of about 5-15% perfume oil. Fresher and brighter, typically lasting 3-5 hours."
+  },
+  {
+    "name": "Extrait de Parfum",
+    "aliases": [
+      "Extrait",
+      "Parfum",
+      "Pure Perfume"
+    ],
+    "description": "The richest concentration, about 20-40% perfume oil. Lasts longest and often smells deeper and smoother."
+  },
+  {
+    "name": "Eau de Cologne",
+    "aliases": [
+      "EDC",
+      "Cologne"
+    ],
+    "description": "The lightest classic concentration (2-5% oil), traditionally citrus-heavy and refreshing. In everyday English 'cologne' often just means men's perfume."
+  },
+  {
+    "name": "Absolute",
+    "description": "A highly concentrated natural extract made with solvents, used for delicate flowers like jasmine that can't survive steam distillation. Smells very close to the real flower."
+  },
+  {
+    "name": "Essential Oil",
+    "description": "A natural aromatic oil, usually extracted by steam distillation or pressing (like citrus peels). The traditional raw material of perfumery."
+  },
+  {
+    "name": "Aromachemical",
+    "aliases": [
+      "Synthetic",
+      "Synthetics",
+      "Molecule"
+    ],
+    "description": "A lab-made scent molecule. Synthetics let perfumers create smells nature can't give (like 'ozone' or 'lily of the valley') and replace animal or endangered materials."
+  },
+  {
+    "name": "Fixative",
+    "description": "An ingredient that slows evaporation so a perfume lasts longer, often a base note like musk, resin or ambroxan."
+  },
+  {
+    "name": "Indole",
+    "description": "A natural molecule in white flowers like jasmine that smells slightly animalic or even fecal on its own. In small amounts it makes florals feel alive and sensual."
+  },
+  {
+    "name": "Coumarin",
+    "description": "A molecule found in tonka beans and fresh hay that smells sweet, warm and almondy. It's the key to the classic 'fougère' style."
+  },
+  {
+    "name": "Formaldehyde",
+    "description": "A sharp, irritating chemical that isn't a perfume note at all. Some preservatives can release tiny amounts, which is why it shows up in ingredient-safety discussions."
+  },
+  {
+    "name": "Fougère",
+    "aliases": [
+      "Fougere"
+    ],
+    "description": "French for 'fern': a classic family built on lavender, oakmoss and coumarin. The backbone of many traditional barbershop-style men's scents."
+  },
+  {
+    "name": "Chypre",
+    "description": "A classic family built on a citrus opening, a floral heart and a mossy, woody base (traditionally oakmoss). Feels elegant, dry and sophisticated."
+  },
+  {
+    "name": "Gourmand",
+    "description": "A scent family that smells edible: vanilla, caramel, chocolate, coffee or praline. Sweet, cozy and dessert-like."
+  },
+  {
+    "name": "Oriental",
+    "aliases": [
+      "Amber Family"
+    ],
+    "description": "An older name for the warm, spicy, resinous family now usually called 'Amber'. Think vanilla, resins and spices."
+  },
+  {
+    "name": "Animalic",
+    "description": "Notes that smell warm, musky, skin-like or 'dirty', inspired by materials like civet or castoreum. Today they're almost always synthetic."
+  },
+  {
+    "name": "Powdery",
+    "description": "A soft, dry, cosmetic-like effect, like face powder or baby powder. Iris, violet and heliotrope often create it.",
+    "aliases": [
+      "Powder",
+      "Powdery Notes"
+    ]
+  },
+  {
+    "name": "Skin Scent",
+    "description": "A perfume that sits close to the body and smells like 'your skin but better'. Usually soft musks and woods."
+  },
+  {
+    "name": "Flanker",
+    "description": "A spin-off version of an existing perfume, like an 'Intense' or 'Elixir' edition. Same name family, different formula."
+  },
+  {
+    "name": "Blind Buy",
+    "description": "Buying a perfume without smelling it first, based only on its notes and reviews. Risky but common in fragrance communities."
+  },
+  {
+    "name": "Decant",
+    "description": "A small sample of perfume poured from a full bottle into a travel vial. A cheap way to try a scent before buying."
+  },
+  {
+    "name": "Maceration",
+    "description": "The resting period after a perfume is mixed, when the ingredients blend and mature. Some people say a perfume smells better after a bottle has been open a while."
+  },
+  {
+    "name": "IFRA",
+    "description": "The International Fragrance Association, which sets safety limits on perfume ingredients. Its rules are why some classic perfumes have been reformulated."
+  },
+  {
+    "name": "Reformulation",
+    "description": "When a brand changes a perfume's formula, often due to new safety rules or costs. Fans often compare 'vintage' and current batches."
+  },
+  {
+    "name": "Niche",
+    "aliases": [
+      "Niche Perfume"
+    ],
+    "description": "Perfumes from smaller, specialist houses that focus on artistry over mass appeal. Usually more unusual and more expensive than designer scents."
+  },
+  {
+    "name": "Designer",
+    "aliases": [
+      "Designer Perfume"
+    ],
+    "description": "Perfumes from fashion brands like Dior, Chanel or Armani. Widely available and usually built to please many people."
+  }
+]

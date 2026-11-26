@@ -1,0 +1,7 @@
+{
+ "_help": "One line explaining each note type, shown on its page. Keys must match the 'type' in note_details.json.",
+ "Natural": "Taken straight from a plant, flower, wood, resin or fruit - pressed, distilled or extracted.",
+ "Synthetic": "Made in a lab. Some copy a smell found in nature, others create one nature never made.",
+ "Accord": "Not one ingredient but a blend of several, built to suggest a smell - like a sketch of it.",
+ "Natural & synthetic": "Comes both ways: there is a natural version and a lab-made one, and perfumers use either."
+}

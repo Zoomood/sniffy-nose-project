@@ -1,0 +1,71 @@
+{
+ "_help": "Colours for each scent family: 'chip' for the note chips and legends, 'liquid' for the bottle. 'Other' is used for any family not listed.",
+ "Citrus": {
+  "chip": "#f5c842",
+  "liquid": "#ffd54a"
+ },
+ "Floral": {
+  "chip": "#ee8fb0",
+  "liquid": "#f48fb1"
+ },
+ "Woody": {
+  "chip": "#b9875a",
+  "liquid": "#c98b55"
+ },
+ "Amber": {
+  "chip": "#e99a3c",
+  "liquid": "#f0a23b"
+ },
+ "Spicy": {
+  "chip": "#df6f4c",
+  "liquid": "#e8744f"
+ },
+ "Fresh Spicy": {
+  "chip": "#df6f4c",
+  "liquid": "#e8744f"
+ },
+ "Gourmand": {
+  "chip": "#c99a68",
+  "liquid": "#d9a066"
+ },
+ "Musky": {
+  "chip": "#b8a7dc",
+  "liquid": "#c9b8e8"
+ },
+ "Leather": {
+  "chip": "#8d5f45",
+  "liquid": "#9c6b4e"
+ },
+ "Aquatic": {
+  "chip": "#5fb6dc",
+  "liquid": "#6ec6e6"
+ },
+ "Green": {
+  "chip": "#7dbb5d",
+  "liquid": "#8ccb6b"
+ },
+ "Aromatic": {
+  "chip": "#8f80d6",
+  "liquid": "#9f8fe0"
+ },
+ "Fruity": {
+  "chip": "#ef6f82",
+  "liquid": "#f7798a"
+ },
+ "Earthy": {
+  "chip": "#a8916a",
+  "liquid": "#b59f78"
+ },
+ "Mineral": {
+  "chip": "#a8916a",
+  "liquid": "#b59f78"
+ },
+ "Fresh": {
+  "chip": "#6fcabf",
+  "liquid": "#8fdcd3"
+ },
+ "Other": {
+  "chip": "#c9bfae",
+  "liquid": "#e8c99a"
+ }
+}
