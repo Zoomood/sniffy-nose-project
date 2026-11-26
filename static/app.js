@@ -3,7 +3,21 @@
 const app = document.getElementById("app");
 const tooltip = document.getElementById("tooltip");
 
-const state = { notes: [], glossary: [], status: { live: false, count: 0, sample: [] }, results: {}, explained: {} };
+const state = { notes: [], glossary: [], perfumes: [], bySlug: new Map(), status: { count: 0, sample: [] } };
+
+// The site is plain files: everything it shows is read from data/*.json, written by app/build_site.py.
+// The page's own ?v= stamp is reused so a new build is never mixed with old cached data.
+const VERSION = new URL(document.currentScript.src).searchParams.get("v") || "";
+const loaded = new Map();
+function load(name) {
+  if (!loaded.has(name)) {
+    loaded.set(name, fetch(`data/${name}.json?v=${VERSION}`).then((res) => {
+      if (!res.ok) throw new Error(t("common.request_failed", { status: res.status }));
+      return res.json();
+    }).catch((err) => { loaded.delete(name); throw err; }));
+  }
+  return loaded.get(name);
+}
 
 // All wording, family colours and note-type intros come from the server (app/data/site.json,
 // families.json, note_types.json), so content can change without touching this file.
@@ -176,28 +190,90 @@ function linkify(text, { exclude = "" } = {}) {
 }
 
 async function explain(term) {
-  const local = findEntry(term);
-  if (local) return local;
-  if (state.explained[term]) return state.explained[term];
-  const res = await fetch(`/api/explain?term=${encodeURIComponent(term)}`);
-  const data = res.ok ? await res.json() : { term, description: t("tooltip.failed") };
-  const entry = { name: data.term || term, family: data.family, description: data.description, emoji: "", kind: "ai" };
-  state.explained[term] = entry;
-  return entry;
+  return findEntry(term) || { name: term, description: t("errors.no_entry"), kind: "none" };
 }
 
-async function api(url, opts) {
-  const res = await fetch(url, opts);
-  const data = await res.json().catch(() => ({}));
-  if (!res.ok) {
-    const d = data.detail;
-    const err = new Error((typeof d === "string" ? d : d?.message) || t("common.request_failed", { status: res.status }));
-    err.status = res.status;
-    err.suggestions = d?.suggestions || [];
-    err.canLookup = !!d?.can_lookup;
-    throw err;
+// ---------- perfume search (runs in the browser; same rules as app/db.py's search) ----------
+
+const SEARCH_STOPWORDS = new Set(["the", "de", "du", "des", "of", "and", "by", "la", "le", "les", "a", "an", "eau", "s"]);
+const SPECIAL_LETTERS = { "œ": "oe", "Œ": "Oe", "æ": "ae", "Æ": "Ae", "đ": "d", "Đ": "D", "ø": "o", "Ø": "O", "ß": "ss" };
+const CONFIDENT = 0.85;
+
+// "Cœur Đào" -> "coeur-dao": accents dropped, like the database's slugs.
+const searchSlug = (text) => String(text || "").replace(/[œŒæÆđĐøØß]/g, (c) => SPECIAL_LETTERS[c])
+  .normalize("NFKD").replace(/[^\x00-\x7f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+// "No 5", "No. 5", "N°5" all become "n5".
+const normalizeNo = (text) => text.replace(/\bn(?:o|r|º|°)?[\s.#]*(\d+)\b/gi, "n$1");
+const searchWords = (text) => searchSlug(normalizeNo(text)).split("-").filter((w) => w && !SEARCH_STOPWORDS.has(w));
+
+// How alike two strings are, 0 to 1 (the same measure as Python's difflib.SequenceMatcher.ratio).
+function similarity(a, b) {
+  const total = a.length + b.length;
+  return total ? (2 * matchingChars(a, 0, a.length, b, 0, b.length)) / total : 1;
+}
+function matchingChars(a, alo, ahi, b, blo, bhi) {
+  let best = 0, bi = alo, bj = blo;
+  for (let i = alo; i < ahi; i++) {
+    for (let j = blo; j < bhi; j++) {
+      let k = 0;
+      while (i + k < ahi && j + k < bhi && a[i + k] === b[j + k]) k++;
+      if (k > best) { best = k; bi = i; bj = j; }
+    }
   }
-  return data;
+  return best ? best + matchingChars(a, alo, bi, b, blo, bj) + matchingChars(a, bi + best, ahi, b, bj + best, bhi) : 0;
+}
+
+function wordMatches(q, candidates, last) {
+  const has = (x) => (candidates instanceof Set ? candidates.has(x) : candidates.includes(x));
+  if (has(q)) return true;
+  if (q.length >= 3 && q.endsWith("s") && has(q.slice(0, -1))) return true; // "roses" for "Rose"
+  for (const c of candidates) {
+    if (last && q.length >= 2 && c.startsWith(q)) return true; // still typing: "sau" -> "sauvage"
+    if (q.length >= 4 && c.length >= 4 && similarity(q, c) >= 0.8) return true; // typo: "ganymed"
+  }
+  return false;
+}
+
+// Perfumes ranked for what was typed; 0.85 and up is a confident match. Every typed word must fit one of a
+// perfume's words (allowing typos and a half-typed last word) for it to be confident.
+function searchPerfumes(query, limit = 8) {
+  const qSlug = searchSlug(normalizeNo(query.trim()));
+  if (qSlug.length < 2) return [];
+  const typed = searchWords(query);
+  const qWords = typed.length ? typed : [qSlug];
+  const qSet = new Set(qWords);
+  const scored = [];
+  for (const p of state.perfumes) {
+    const m = p.match;
+    let s = Math.max(...m.strings.map((x) => similarity(qSlug, x)));
+    if (m.strings.includes(qSlug)) s = 1;
+    else if (m.strings.some((x) => x.startsWith(qSlug))) s = Math.max(s, 0.85);
+    const matched = qWords.filter((w, i) => wordMatches(w, m.wordSet, i === qWords.length - 1));
+    if (matched.length === qWords.length) {
+      const covered = (names) => (names.length
+        ? names.filter((w) => wordMatches(w, qSet, false) || qWords.some((q) => wordMatches(q, [w], true))).length / names.length
+        : 1);
+      const coverage = Math.max(...[m.name_words, ...m.alias_word_sets].map(covered));
+      s = coverage > 0 ? Math.max(s, 0.85 + 0.15 * coverage) : Math.min(s, 0.75);
+      // One word that's only part of a longer name, or too little of the name typed: suggest, don't decide.
+      if (!m.strings.includes(qSlug) && ((qWords.length === 1 && coverage < 1) || coverage < 0.5)) s = Math.min(s, 0.8);
+      s -= 0.01 * m.version_words.filter((w) => !qSet.has(w)).length; // plain version wins over Extrait/Intense
+    } else {
+      s = Math.min(s, 0.75); // a word that fits nothing means a different perfume
+      if (!matched.length) continue;
+    }
+    if (s >= 0.6) scored.push({ p, score: Math.round(Math.min(s, 1) * 1000) / 1000 });
+  }
+  return scored.sort((a, b) => b.score - a.score).slice(0, limit)
+    .map(({ p, score }) => ({ slug: p.slug, name: p.name, brand: p.brand, concentration: p.concentration, score }));
+}
+
+// The one perfume a search clearly means, or null (ties between different perfumes never count).
+function bestMatch(query) {
+  const hits = searchPerfumes(query, 2);
+  if (!hits.length || hits[0].score < CONFIDENT) return null;
+  if (hits.length > 1 && hits[1].score > hits[0].score - 0.005) return null;
+  return hits[0];
 }
 
 // ---------- tooltip ----------
@@ -215,13 +291,12 @@ async function showTip(el) {
   const famLabel = entry.family && entry.family !== "Term" ? entry.family : entry.kind === "term" ? t("tooltip.term") : "";
   tooltip.innerHTML = `
     <div class="tt-head">
-      ${entry.image ? `<img class="tt-img ${esc(entry.image_kind || "")}" src="/static/notes/${esc(entry.image)}" alt="">` : ""}
+      ${entry.image ? `<img class="tt-img ${esc(entry.image_kind || "")}" src="notes/${esc(entry.image)}" alt="">` : ""}
       <b>${esc(entry.name === term || !el.classList.contains("chip") ? entry.name : term)}</b>
       ${famLabel ? `<span class="tt-fam" style="--fam:${famColor(entry.family)}">${esc(famLabel)}</span>` : ""}
     </div>
     ${el.classList.contains("chip") && slug(entry.name) !== slug(term) ? `<p><em>${tx("tooltip.kind_of", { name: entry.name })}</em></p>` : ""}
     <p>${esc(entry.description)}</p>
-    ${entry.kind === "ai" ? `<div class="tt-src">${tx("tooltip.ai")}</div>` : ""}
     ${entry.kind === "note" && el.classList.contains("chip") ? `<div class="tt-src">${tx("tooltip.open_note")}</div>` : ""}`;
   placeTip(el);
 }
@@ -319,15 +394,12 @@ function renderHome() {
     clearTimeout(timer);
     const q = input.value.trim();
     if (q.length < 2) { items = []; return close(); }
-    timer = setTimeout(async () => {
+    timer = setTimeout(() => {
       const mine = ++seq;
-      try {
-        const res = await api(`/api/suggest?q=${encodeURIComponent(q)}`);
-        if (mine !== seq) return; // a newer keystroke already answered
-        items = res;
-        active = -1;
-        draw();
-      } catch { /* suggestions are optional */ }
+      if (mine !== seq) return; // a newer keystroke already answered
+      items = searchPerfumes(q, 6);
+      active = -1;
+      draw();
     }, 150);
   });
   input.addEventListener("keydown", (e) => {
@@ -351,22 +423,6 @@ function renderHome() {
   app.querySelectorAll("[data-q]").forEach((b) => b.addEventListener("click", () => { location.hash = `#/p/${encodeURIComponent(b.dataset.q)}`; }));
 }
 
-function renderLoading(messages) {
-  app.innerHTML = `
-    <div class="loading">
-      ${flaconSvg(defaultLayers(), { atomizer: true, cls: "loading-flacon", label: t("search.bottle_label") })}
-      <p id="loading-msg" aria-live="polite">${esc(messages[0])}</p>
-    </div>`;
-  let i = 0;
-  const timer = setInterval(() => {
-    const el = document.getElementById("loading-msg");
-    if (!el) return clearInterval(timer);
-    i = (i + 1) % messages.length;
-    el.textContent = messages[i];
-  }, 2600);
-  return () => clearInterval(timer);
-}
-
 function renderError(message) {
   app.innerHTML = `
     <div class="error-card">
@@ -378,60 +434,32 @@ function renderError(message) {
 
 const srcLabel = (s) => textAt(`perfume.sources.${s}`) || s;
 
-// Compare decoded, so a link with "%27" and one with "'" (Poudre d'Or) both count as the same search.
-function stillSearching(query) {
-  try { return decodeURIComponent(location.hash) === `#/p/${query}`; } catch { return false; }
-}
-
-async function renderSearch(query, web = false) {
+// A search opens the perfume it clearly means; otherwise it lists the closest ones.
+function renderSearch(query) {
   setNav();
-  const stop = renderLoading(state.status.live ? textAt("search.messages") || [t("common.checking")] : [t("common.checking")]);
-  let perfume;
-  try {
-    perfume = await api(`/api/search?q=${encodeURIComponent(query)}${web ? "&web=true" : ""}`);
-  } catch (err) {
-    stop();
-    if (!stillSearching(query)) return;
-    return err.status === 404 ? renderNotFound(query, err) : renderError(err.message);
-  }
-  stop();
-  if (!stillSearching(query)) return; // user navigated away
-  state.results[perfume.slug] = perfume;
-  replaceHash(`#/perfume/${perfume.slug}`);
-  renderPerfumeView(perfume);
+  const best = bestMatch(query);
+  if (!best) return renderNotFound(query, searchPerfumes(query));
+  replaceHash(`#/perfume/${best.slug}`);
+  renderPerfumeView(state.bySlug.get(best.slug));
 }
 
-async function renderPerfumeSlug(slugId) {
+function renderPerfumeSlug(slugId) {
   setNav();
-  let perfume = state.results[slugId];
-  if (!perfume) {
-    const stop = renderLoading([t("common.checking")]);
-    try {
-      perfume = await api(`/api/perfume/${encodeURIComponent(slugId)}`);
-      state.results[slugId] = perfume;
-    } catch (err) {
-      stop();
-      return renderError(err.message);
-    }
-    stop();
-  }
-  renderPerfumeView(perfume);
+  const perfume = state.bySlug.get(slugId);
+  return perfume ? renderPerfumeView(perfume) : renderError(t("errors.perfume_missing"));
 }
 
-function renderNotFound(query, err) {
-  const sugg = err.suggestions || [];
+function renderNotFound(query, sugg) {
   app.innerHTML = `
     <div class="error-card">
       <h2>${tx("search.not_found_title")}</h2>
-      <p>${esc(err.message)}</p>
+      <p>${tx("errors.not_in_database", { q: query })}</p>
       ${sugg.length ? `<p>${tx("search.did_you_mean")}</p><div class="did-you-mean">${sugg.map((s) =>
         `<a class="btn ghost small" href="#/perfume/${esc(s.slug)}">${esc(s.brand)} ${esc(s.name)}${s.concentration ? ` <small>${esc(s.concentration)}</small>` : ""}</a>`).join("")}</div>` : ""}
       <div class="did-you-mean">
-        ${err.canLookup ? `<button type="button" class="btn" id="web-lookup">${tx("search.search_web")}</button>` : ""}
-        <a class="btn ${err.canLookup ? "ghost" : ""}" href="#/">${tx("search.search_again")}</a>
+        <a class="btn" href="#/">${tx("search.search_again")}</a>
       </div>
     </div>`;
-  document.getElementById("web-lookup")?.addEventListener("click", () => renderSearch(query, true));
 }
 
 function renderPerfumeView(perfume) {
@@ -581,7 +609,7 @@ function renderDictionary(focus) {
 function noteCardHtml(n) {
   return `
       <div class="card note-card" id="note-${slug(n.name)}" data-href="#/note/${slug(n.name)}" style="--fam:${famColor(n.family)}">
-        <div class="card-img ${esc(n.image_kind || "")}">${n.image ? `<img src="/static/notes/${esc(n.image)}" alt="" loading="lazy">` : `<span>${esc(n.name.slice(0, 1))}</span>`}</div>
+        <div class="card-img ${esc(n.image_kind || "")}">${n.image ? `<img src="notes/${esc(n.image)}" alt="" loading="lazy">` : `<span>${esc(n.name.slice(0, 1))}</span>`}</div>
         <div class="head"><div><h3><a href="#/note/${slug(n.name)}">${esc(n.name)}</a></h3><small>${esc(n.family)}${n.aliases?.length ? ` · ${tx("dictionary.aka", { names: n.aliases.slice(0, 3).join(", ") })}` : ""}</small></div></div>
         <p>${linkify(n.description, { exclude: n.name })}</p>
         <span class="more">${tx("dictionary.more")}</span>
@@ -663,6 +691,23 @@ function renderGlossary() {
 
 // ---------- note detail ----------
 
+// A dictionary note with its details, picture and the perfumes on our shelf that use it.
+async function noteData(slugId) {
+  const n = state.notes.find((e) => [e.name, ...(e.aliases || [])].some((x) => slug(x) === slugId));
+  if (!n) throw new Error(t("errors.note_missing"));
+  const full = (await load("notes"))[n.name] || {};
+  const names = new Set([n.name, ...(n.aliases || [])].map((x) => x.toLowerCase()));
+  const rows = new Map();
+  for (const p of state.perfumes) {
+    for (const level of LEVEL_KEYS) {
+      if ((p[level] || []).some((x) => names.has(x.name.toLowerCase()))) {
+        rows.set(`${p.slug}|${level}`, { slug: p.slug, brand: p.brand, name: p.name, level });
+      }
+    }
+  }
+  return { ...n, details: full.details || {}, image: full.image, perfumes: [...rows.values()] };
+}
+
 const noteSection = (title, body) => `<section class="note-section"><h2>${title}</h2><div>${body}</div></section>`;
 
 async function renderNote(slugId) {
@@ -670,7 +715,7 @@ async function renderNote(slugId) {
   app.innerHTML = `<div class="loading"><p>${tx("note.loading")}</p></div>`;
   let n;
   try {
-    n = await api(`/api/note/${encodeURIComponent(slugId)}`);
+    n = await noteData(slugId);
   } catch (err) {
     return renderError(err.message);
   }
@@ -683,7 +728,7 @@ async function renderNote(slugId) {
       ${backLinks()}
       <div class="note-hero">
         <figure class="plate ${img ? img.kind : "empty"}">
-          ${img ? `<img src="/static/notes/${esc(img.file)}" alt="${esc(alt)}">` : `<div class="plate-empty">${esc(n.name)}</div>`}
+          ${img ? `<img src="notes/${esc(img.file)}" alt="${esc(alt)}">` : `<div class="plate-empty">${esc(n.name)}</div>`}
           ${img ? `<figcaption><i>${esc(img.caption)}</i><span>${img.kind === "molecule" ? tx("note.credit_molecule") : img.kind === "photo" ? tx("note.credit_photo", { artist: img.artist.replace(/^\(c\)\s*/i, "© ").replace(/, some rights reserved.*$/i, "") }) : esc(img.artist)} · <a href="${esc(img.page)}" target="_blank" rel="noopener">${esc(img.license)}</a></span></figcaption>` : ""}
         </figure>
         <div class="note-intro">
@@ -712,7 +757,7 @@ async function renderNoteShelf(slugId) {
   app.innerHTML = `<div class="loading"><p>${tx("common.checking")}</p></div>`;
   let n;
   try {
-    n = await api(`/api/note/${encodeURIComponent(slugId)}`);
+    n = await noteData(slugId);
   } catch (err) {
     return renderError(err.message);
   }
@@ -763,7 +808,7 @@ async function renderHistory() {
   setNav();
   let events = [];
   try {
-    events = await api("/api/history");
+    events = await load("history");
   } catch (err) {
     return renderError(err.message);
   }
@@ -827,7 +872,7 @@ async function renderHistory() {
       : `${esc(pic.artist)} · <a href="${esc(pic.page)}" target="_blank" rel="noopener">${esc(pic.license)}</a>`;
     card.className = `htl-card ${pic.kind}`;
     card.innerHTML = `
-      <div class="pic"><img src="/static/history/${esc(pic.file)}" alt="${esc(pic.kind === "molecule" ? t("history.alt_molecule", { name: pic.caption }) : e.title)}"></div>
+      <div class="pic"><img src="history/${esc(pic.file)}" alt="${esc(pic.kind === "molecule" ? t("history.alt_molecule", { name: pic.caption }) : e.title)}"></div>
       <figcaption><b>${esc(e.year)} · ${esc(e.title)}</b><small>${credit}</small></figcaption>`;
     card.hidden = false;
     place(li);
@@ -938,7 +983,7 @@ function pageLabel(hash) {
   if (hash.startsWith("#/note/") && hash.endsWith("/shelf")) return t("crumbs.shelf", { name: noteName(part(hash.slice(7, -6))) });
   if (hash.startsWith("#/note/")) return noteName(part(hash.slice(7)));
   if (hash.startsWith("#/perfume/")) {
-    const p = state.results[part(hash.slice(10))];
+    const p = state.bySlug.get(part(hash.slice(10)));
     return p ? `${p.brand} ${p.name}` : t("crumbs.perfume");
   }
   if (hash.startsWith("#/p/")) return part(hash.slice(4));
@@ -1052,13 +1097,15 @@ matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", () => th
 
 (async function init() {
   try {
-    const [content, dict, status] = await Promise.all([api("/api/site"), api("/api/dictionary"), api("/api/status")]);
+    const [content, dict, perfumes] = await Promise.all([load("site"), load("dictionary"), load("perfumes")]);
     site.text = content.text;
     site.families = new Map(Object.entries(content.families).map(([k, v]) => [k.toLowerCase(), v]));
     site.types = new Map(Object.entries(content.types));
     state.notes = dict.notes;
     state.glossary = dict.glossary;
-    state.status = status;
+    state.status = content.status;
+    state.perfumes = perfumes.map((p) => ({ ...p, match: { ...p.match, wordSet: new Set(p.match.words) } }));
+    state.bySlug = new Map(state.perfumes.map((p) => [p.slug, p]));
     buildIndexes();
   } catch (err) {
     console.error(err);

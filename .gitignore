@@ -8,3 +8,4 @@ app/data/perfumes.db-shm
 .env.*
 .claude/
 CLAUDE.md
+_site/

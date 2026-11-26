@@ -50,11 +50,10 @@ def check() -> tuple[list[str], list[str]]:
     js = (ROOT / "static" / "app.js").read_text()
     used = set(re.findall(r"""\b(?:t|tx|rich|textAt)\(\s*["`]([\w.]+)["`]""", js))
     used |= set(re.findall(r"\{\{([\w.]+)\}\}", (ROOT / "static" / "index.html").read_text()))
+    used.discard("version")  # filled in by the build, not a piece of wording
     used |= {f"perfume.levels.{k}" for k in ("top", "heart", "base")} | {f"shelf.levels.{k}" for k in ("top", "heart", "base")}
     used |= {f"theme.to_{m}" for m in ("dark", "light")} | {f"theme.to_{m}_label" for m in ("dark", "light")}
     used |= {f"crumbs.{tab}" for tab in ("home", "dictionary", "glossary", "history")}
-    py = (Path(__file__).parent / "main.py").read_text()
-    used |= set(re.findall(r"""\btext\(\s*"([\w.]+)\"""", py))
     for key in sorted(used):
         val = _text_at(site, key)
         if val is None:
@@ -63,7 +62,7 @@ def check() -> tuple[list[str], list[str]]:
             continue
         elif isinstance(val, str) and not val.strip():
             warnings.append(f"site.json: '{key}' is empty")
-    for key in ("search.messages", "home.steps", "autolink_skip"):
+    for key in ("home.steps", "autolink_skip"):
         if not isinstance(_text_at(site, key), list):
             problems.append(f"site.json: '{key}' should be a list")
 

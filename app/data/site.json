@@ -48,9 +48,7 @@
   "loading": "Sniffing…",
   "term": "Perfume term",
   "kind_of": "A type of {name}.",
-  "ai": "Not in our dictionary yet - AI-written summary.",
-  "open_note": "Click for its history and chemistry",
-  "failed": "Couldn't load a description right now."
+  "open_note": "Click for its history and chemistry"
  },
 
  "home": {
@@ -64,24 +62,27 @@
   "try": "Try",
   "bottle_label": "A crystal perfume bottle filling with three layers of notes",
   "steps": [
-   {"n": "01", "title": "Search a perfume", "text": "Type its name. Adding the brand helps, e.g. \"Dior Sauvage\"."},
-   {"n": "02", "title": "Read the bottle", "text": "[[Top notes]], [[heart notes]] and [[base notes]] - what you smell first, next and last."},
-   {"n": "03", "title": "Hover any note", "text": "Tap or hover an ingredient (or a word like [[sillage]]) for a quick explanation."}
+   {
+    "n": "01",
+    "title": "Search a perfume",
+    "text": "Type its name. Adding the brand helps, e.g. \"Dior Sauvage\"."
+   },
+   {
+    "n": "02",
+    "title": "Read the bottle",
+    "text": "[[Top notes]], [[heart notes]] and [[base notes]] - what you smell first, next and last."
+   },
+   {
+    "n": "03",
+    "title": "Hover any note",
+    "text": "Tap or hover an ingredient (or a word like [[sillage]]) for a quick explanation."
+   }
   ]
  },
 
  "search": {
-  "bottle_label": "A perfume bottle spraying",
-  "messages": [
-   "Checking our shelves…",
-   "Visiting the brand's website…",
-   "Comparing the note lists…",
-   "Sorting top, heart and base…",
-   "Almost there - letting it dry down…"
-  ],
   "not_found_title": "Not on our shelves yet",
   "did_you_mean": "Did you mean:",
-  "search_web": "None of these - search the web",
   "search_again": "Search again"
  },
 
@@ -89,11 +90,27 @@
   "bottle_label": "Perfume bottle",
   "nose": "Nose",
   "levels": {
-   "top": {"title": "Top notes", "when": "first 15–30 min", "term": "Top Notes"},
-   "heart": {"title": "Heart notes", "when": "30 min – 3 hrs", "term": "Heart Notes"},
-   "base": {"title": "Base notes", "when": "3 hrs and beyond", "term": "Base Notes"}
+   "top": {
+    "title": "Top notes",
+    "when": "first 15–30 min",
+    "term": "Top Notes"
+   },
+   "heart": {
+    "title": "Heart notes",
+    "when": "30 min – 3 hrs",
+    "term": "Heart Notes"
+   },
+   "base": {
+    "title": "Base notes",
+    "when": "3 hrs and beyond",
+    "term": "Base Notes"
+   }
   },
-  "flat": {"title": "All notes", "when": "a linear scent - much the same from start to finish", "term": "Note Pyramid"},
+  "flat": {
+   "title": "All notes",
+   "when": "a linear scent - much the same from start to finish",
+   "term": "Note Pyramid"
+  },
   "empty_level": "No notes listed for this level.",
   "brand_site": "Brand website ↗",
   "fragrantica": "Fragrantica ↗",
@@ -120,7 +137,10 @@
 
  "types": {
   "title": "{type} notes",
-  "count": {"one": "{n} note in our dictionary.", "other": "{n} notes in our dictionary."},
+  "count": {
+   "one": "{n} note in our dictionary.",
+   "other": "{n} notes in our dictionary."
+  },
   "placeholder": "Search {type} notes",
   "input_label": "Search notes",
   "unknown": "We don't have a note type by that name.",
@@ -147,16 +167,26 @@
   "chemistry": "The chemistry",
   "chemistry_hint": "The molecules that create the smell",
   "shelf_link": "On our shelf →",
-  "shelf_count": {"one": "{n} perfume in our collection uses {name}.", "other": "{n} perfumes in our collection use {name}."},
+  "shelf_count": {
+   "one": "{n} perfume in our collection uses {name}.",
+   "other": "{n} perfumes in our collection use {name}."
+  },
   "shelf_button": "See them all"
  },
 
  "shelf": {
   "title": "On our shelf: {name}",
-  "count": {"one": "{n} perfume in our collection with {name} in the pyramid.", "other": "{n} perfumes in our collection with {name} in the pyramid."},
+  "count": {
+   "one": "{n} perfume in our collection with {name} in the pyramid.",
+   "other": "{n} perfumes in our collection with {name} in the pyramid."
+  },
   "placeholder": "Search by perfume or brand",
   "input_label": "Search perfumes",
-  "levels": {"top": "Top note", "heart": "Heart note", "base": "Base note"}
+  "levels": {
+   "top": "Top note",
+   "heart": "Heart note",
+   "base": "Base note"
+  }
  },
 
  "history": {
@@ -175,11 +205,21 @@
   "note_missing": "That note isn't in the dictionary.",
   "perfume_missing": "That perfume isn't in the database.",
   "not_in_database": "“{q}” isn't in the database yet.",
-  "no_exact_match": "We don't have an exact match for “{q}”.",
-  "not_found_web": "Couldn't find a perfume called “{q}”. Try adding the brand name.",
-  "lookup_incomplete": "The lookup came back incomplete ({error}).",
   "no_entry": "No dictionary entry yet for this one."
  },
 
- "autolink_skip": ["note", "notes", "heart", "opening", "level-1", "level-2", "level-3", "synthetic", "molecule", "synthetics", "parfum", "cologne"]
+ "autolink_skip": [
+  "note",
+  "notes",
+  "heart",
+  "opening",
+  "level-1",
+  "level-2",
+  "level-3",
+  "synthetic",
+  "molecule",
+  "synthetics",
+  "parfum",
+  "cologne"
+ ]
 }

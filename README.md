@@ -5,34 +5,44 @@ Search a perfume's name to see its notes laid out level by level:
 came from. You can hover or tap any note, or any underlined perfume word ("sillage", "nose", "EDP"…), to read
 a short explanation without leaving the page.
 
-## Run it
+## How the site works
+
+The website is plain files, with no server: `app/build_site.py` writes the perfumes from the database and all
+the content in `app/data/` out as JSON next to the page, and the search runs in the visitor's browser. It can
+be hosted anywhere that serves files, such as GitHub Pages.
+
+## Run it on your computer
 
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
-.venv/bin/python -m app.manage init      # creates app/data/perfumes.db with the seed perfumes
-.venv/bin/uvicorn app.main:app --reload
+.venv/bin/python -m app.manage init        # creates app/data/perfumes.db with the seed perfumes
+.venv/bin/python -m app.build_site         # builds the site into _site/
+python3 -m http.server 8000 -d _site       # serves it
 ```
 
-Open http://localhost:8000. No API key is needed.
+Open http://localhost:8000. After changing the database or anything in `app/data/`, build again and refresh.
 
-## How search works (database first)
+## Publish it on GitHub Pages
 
-1. Every search is answered from the local SQLite database (`app/data/perfumes.db`). Matching tolerates
-   typos and partial names, so "ganymed", "savage" and "dior sau" all work. This step is free and instant.
-2. If nothing matches and a lookup provider is set up in `.env` (see below), an AI model looks the perfume up
-   on the web and the result is **saved to the database**, so each perfume is paid for once. If the search
-   is close to something already stored ("dior sav"), the visitor sees "did you mean" first and has to
-   click to search the web.
-3. Without a key, a miss shows "did you mean" suggestions instead.
+Every push to `main` builds the site and publishes it (`.github/workflows/pages.yml`). One-time setup: on
+GitHub, open the repository's **Settings → Pages** and set **Source** to **GitHub Actions**. The site then
+appears at `https://<your-username>.github.io/<repository-name>/`. GitHub Pages is free for public
+repositories; a private one needs a paid GitHub plan.
+
+## How search works
+
+Searches only look at the perfumes in the database. Matching tolerates typos and partial names, so "ganymed",
+"savage" and "dior sau" all work. A search that clearly means one perfume opens it; otherwise the visitor sees
+"did you mean" suggestions. To add perfumes, update the database (below), then build and push.
 
 Each note is tagged with its source: **B** brand website, **F** Fragrantica, **R** a retailer listing,
 **C** added by hand. Each perfume also records where its data came from and when.
 
-## Web lookup with OpenRouter (optional)
+## Web lookup with OpenRouter (optional, command line only)
 
-Searches for perfumes that aren't in the database can be looked up on the web by an AI model through
-[OpenRouter](https://openrouter.ai). Put two settings in a `.env` file in the project folder (copy
+The command-line tools below can look perfumes up on the web with an AI model through
+[OpenRouter](https://openrouter.ai), to fill the database. The website itself never does this. Put two settings in a `.env` file in the project folder (copy
 `.env.example`):
 
 ```
@@ -40,7 +50,7 @@ OPENROUTER_API_KEY=sk-or-...
 OPENROUTER_MODEL=vendor/model-name:free
 ```
 
-Then restart the server. Roughly, a new perfume costs $0.005–0.03 in web-search fees with a free model, plus
+Roughly, a new perfume costs $0.005–0.03 in web-search fees with a free model, plus
 the model's token price if you pick a paid one. Notes:
 
 - **Pick a model** at https://openrouter.ai/models and copy its ID into `OPENROUTER_MODEL`. Free models end in
@@ -157,17 +167,19 @@ those cost only a search fee.
 | Database: schema, saving, typo-tolerant search | `app/db.py` |
 | Command-line tool for imports and exports | `app/manage.py` |
 | Brand-page importer | `app/brand_import.py` |
-| Web lookup for missing perfumes and note explanations (OpenRouter), answer checks | `app/lookup.py` |
+| Web lookup used by the command-line tools (OpenRouter), answer checks | `app/lookup.py` |
+| Builds the static website into `_site/` | `app/build_site.py` |
+| Publishes the site on GitHub Pages | `.github/workflows/pages.yml` |
 | Notes dictionary (~90 notes) and glossary (~40 terms) | `app/data/notes.json`, `app/data/glossary.json` |
 | All website wording (menus, headings, buttons, messages) | `app/data/site.json` |
 | Note details, note-type intros, family colours | `app/data/note_details.json`, `app/data/note_types.json`, `app/data/families.json` |
 | History timeline (with each milestone's picture search) and picture credits | `app/data/history.json`, `app/data/history_images.json` |
 | Seed perfumes loaded by `init` | `app/data/seed_perfumes.json` |
-| Website | `static/` |
+| Website: page, script and styles; note and history pictures | `static/` |
 
 ## Editing the content
 
-All content lives in `app/data/` and changes show on the site without a restart (refresh the page).
+All content lives in `app/data/`. After an edit, build the site again to see it (`python -m app.build_site`).
 In `site.json`, `{name}` is filled in by the site, `[[word]]` becomes a hoverable glossary word, and counts
 use `{"one": ..., "other": ...}`. After an edit, run the check:
 
@@ -183,6 +195,6 @@ To add a history milestone, add it to `history.json` with an `image` list of pic
 - Ganymede and Sauvage were first compiled from retailer listings. Ganymede has since been checked against the
   brand's page; Sauvage hasn't.
 - Fragrantica blocks automated visitors, so web lookups usually fall back to retailer pages (tagged **R**).
-- Every web lookup is billed to the OpenRouter key in `.env`. Before you put the site online, set a credit
-  limit on the key at openrouter.ai and add rate limiting.
+- Every web lookup is billed to the OpenRouter key in `.env`. It's only used by the command-line tools, never
+  by the website, and the key is never published.
 - To trade cost for accuracy, change `OPENROUTER_MODEL` to a stronger (paid) model.
